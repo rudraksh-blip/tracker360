@@ -1,6 +1,6 @@
 "use client"
 
-import { CalendarClock, Check, FlaskConical, ListChecks } from "lucide-react"
+import { CalendarClock, Check, CornerDownRight, FlaskConical, ListChecks, Undo2 } from "lucide-react"
 import { useMemo } from "react"
 import { formatDate, formatShort, todayISO } from "@/lib/scheduler"
 import { STREAM_STYLE } from "@/lib/streams"
@@ -13,9 +13,10 @@ type Props = {
   done: Record<string, boolean>
   onToggle: (key: string) => void
   onToggleMany: (keys: string[], value: boolean) => void
+  onPush: (date: string) => void
 }
 
-export function Roadmap({ plan, config, done, onToggle, onToggleMany }: Props) {
+export function Roadmap({ plan, config, done, onToggle, onToggleMany, onPush }: Props) {
   const today = todayISO()
 
   const doneCount = useMemo(() => {
@@ -88,6 +89,7 @@ export function Roadmap({ plan, config, done, onToggle, onToggleMany }: Props) {
             done={done}
             onToggle={onToggle}
             onToggleMany={onToggleMany}
+            onPush={onPush}
           />
         ))}
       </div>
@@ -113,13 +115,45 @@ function DayCard({
   done,
   onToggle,
   onToggleMany,
+  onPush,
 }: {
   day: PlanDay
   isToday: boolean
   done: Record<string, boolean>
   onToggle: (key: string) => void
   onToggleMany: (keys: string[], value: boolean) => void
+  onPush: (date: string) => void
 }) {
+  if (day.type === "carry") {
+    return (
+      <section
+        id={`day-${day.dayNumber}`}
+        className={cn(
+          "flex items-center gap-4 rounded-xl border border-dashed border-border bg-secondary/30 p-4",
+          isToday && "ring-2 ring-primary/60",
+        )}
+      >
+        <div className="flex size-10 items-center justify-center rounded-lg bg-secondary text-muted-foreground">
+          <CornerDownRight className="size-5" />
+        </div>
+        <div className="flex-1">
+          <div className="text-sm font-semibold">Pushed to next day</div>
+          <div className="text-xs text-muted-foreground">
+            Day {day.dayNumber} · {formatDate(day.date)} · work shifted forward
+          </div>
+        </div>
+        <button
+          type="button"
+          onClick={() => onPush(day.date)}
+          className="flex items-center gap-1.5 rounded-md border border-border px-2.5 py-1 text-xs font-medium text-muted-foreground transition-colors hover:bg-accent/40"
+        >
+          <Undo2 className="size-3.5" />
+          Undo
+        </button>
+      </section>
+    )
+  }
+
   if (day.type === "mock") {
     return (
       <section
@@ -172,6 +206,15 @@ function DayCard({
             {day.lectures.length} lectures · {doneInDay} done
           </div>
         </div>
+        <button
+          type="button"
+          onClick={() => onPush(day.date)}
+          title="Move this day's lectures to the next day"
+          className="flex items-center gap-1.5 rounded-md border border-border px-2.5 py-1 text-xs font-medium text-muted-foreground transition-colors hover:bg-accent/40"
+        >
+          <CornerDownRight className="size-3.5" />
+          <span className="hidden sm:inline">Push to tomorrow</span>
+        </button>
         <button
           type="button"
           onClick={() => onToggleMany(keys, !allDone)}

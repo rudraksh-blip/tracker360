@@ -34,6 +34,17 @@ export default function Page() {
     })
   }
 
+  function togglePush(date: string) {
+    setConfig((prev) => {
+      const pushed = prev.pushedDates ?? []
+      const has = pushed.includes(date)
+      return {
+        ...prev,
+        pushedDates: has ? pushed.filter((d) => d !== date) : [...pushed, date],
+      }
+    })
+  }
+
   function resetAll() {
     setConfig(defaultConfig())
     setDone({})
@@ -76,7 +87,14 @@ export default function Page() {
         {phase === 0 && <BacklogStep config={config} onChange={setConfig} />}
         {phase === 1 && <TimelineStep config={config} plan={plan} onChange={setConfig} />}
         {phase === 2 && (
-          <Roadmap plan={plan} config={config} done={done} onToggle={toggle} onToggleMany={toggleMany} />
+          <Roadmap
+            plan={plan}
+            config={config}
+            done={done}
+            onToggle={toggle}
+            onToggleMany={toggleMany}
+            onPush={togglePush}
+          />
         )}
       </div>
 

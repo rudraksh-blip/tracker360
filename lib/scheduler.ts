@@ -1,16 +1,18 @@
-import { orderedStreams, STREAM_STYLE } from "./streams"
+import { orderedChapters, orderedStreams, STREAM_STYLE } from "./streams"
 import type { LectureItem, Plan, PlanConfig, PlanDay } from "./tracker-types"
 
 export function lectureKey(streamId: string, chapterId: string, lectureNo: number): string {
   return `${streamId}|${chapterId}|${lectureNo}`
 }
 
-/** Expand each stream's selected chapters (in order) into a flat lecture queue. */
-function buildSequences(selected: Record<string, boolean>): LectureItem[][] {
+/** Expand each stream's selected chapters (in the user's order) into a flat lecture queue. */
+function buildSequences(config: PlanConfig): LectureItem[][] {
+  const selected = config.selected
+  const order = config.order ?? {}
   return orderedStreams().map((stream) => {
     const label = STREAM_STYLE[stream.id]?.label ?? stream.subject
     const items: LectureItem[] = []
-    for (const chapter of stream.chapters) {
+    for (const chapter of orderedChapters(stream, order[stream.id])) {
       if (!selected[chapter.id]) continue
       for (let n = 1; n <= chapter.lectures; n++) {
         items.push({
@@ -66,9 +68,10 @@ function isOffDay(date: Date, config: PlanConfig): boolean {
 }
 
 export function generatePlan(config: PlanConfig): Plan {
-  const sequences = buildSequences(config.selected)
+  const sequences = buildSequences(config)
   const queue = roundRobin(sequences)
   const total = queue.length
+  const pushedDates = new Set(config.pushedDates ?? [])
 
   let effectiveDaily: number
   if (config.mode === "target") {
@@ -91,6 +94,12 @@ export function generatePlan(config: PlanConfig): Plan {
       continue
     }
     dayCounter++
+    // A pushed day rests: no lectures are consumed, so everything shifts forward.
+    if (pushedDates.has(toISO(cursor))) {
+      days.push({ type: "carry", dayNumber: dayCounter, date: toISO(cursor) })
+      cursor.setDate(cursor.getDate() + 1)
+      continue
+    }
     const isMock = config.mockEvery > 0 && dayCounter % config.mockEvery === 0
     if (isMock) {
       mockCounter++

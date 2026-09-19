@@ -23,6 +23,8 @@ export function defaultConfig(): PlanConfig {
     excludeSundays: true,
     gapWeekdays: [],
     mockEvery: 14,
+    order: {},
+    pushedDates: [],
   }
 }
 

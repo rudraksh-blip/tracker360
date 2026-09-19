@@ -1,8 +1,8 @@
 "use client"
 
-import { Check, ChevronDown } from "lucide-react"
+import { ArrowDown, ArrowUp, Check, ChevronDown } from "lucide-react"
 import { useState } from "react"
-import { orderedStreams, STREAM_STYLE, streamLecturesTotal } from "@/lib/streams"
+import { orderedChapters, orderedStreams, STREAM_STYLE, streamLecturesTotal } from "@/lib/streams"
 import type { PlanConfig } from "@/lib/tracker-types"
 import { cn } from "@/lib/utils"
 
@@ -29,6 +29,17 @@ export function BacklogStep({ config, onChange }: Props) {
     const next = { ...selected }
     for (const c of stream.chapters) next[c.id] = value
     setSelected(next)
+  }
+
+  function moveChapter(streamId: string, chapterId: string, dir: "up" | "down") {
+    const stream = streams.find((s) => s.id === streamId)
+    if (!stream) return
+    const ids = orderedChapters(stream, config.order?.[streamId]).map((c) => c.id)
+    const i = ids.indexOf(chapterId)
+    const j = dir === "up" ? i - 1 : i + 1
+    if (i < 0 || j < 0 || j >= ids.length) return
+    ;[ids[i], ids[j]] = [ids[j], ids[i]]
+    onChange({ ...config, order: { ...(config.order ?? {}), [streamId]: ids } })
   }
 
   const totalSelectedLectures = streams.reduce(
@@ -78,35 +89,69 @@ export function BacklogStep({ config, onChange }: Props) {
               allOn={allOn}
               onToggleAll={() => toggleStream(stream.id, !allOn)}
             >
-              {stream.chapters.map((c) => {
-                const on = !!selected[c.id]
-                return (
-                  <button
-                    key={c.id}
-                    type="button"
-                    onClick={() => toggleChapter(c.id)}
-                    className={cn(
-                      "flex w-full items-center gap-3 rounded-lg border px-3 py-2 text-left transition-colors",
-                      on
-                        ? cn("border-transparent", style.soft)
-                        : "border-border bg-background/40 hover:bg-accent/40",
-                    )}
-                  >
-                    <span
+              {(() => {
+                const chapters = orderedChapters(stream, config.order?.[stream.id])
+                return chapters.map((c, index) => {
+                  const on = !!selected[c.id]
+                  return (
+                    <div
+                      key={c.id}
                       className={cn(
-                        "flex size-5 shrink-0 items-center justify-center rounded-md border",
-                        on ? cn(style.dot, "border-transparent text-black") : "border-muted-foreground/40",
+                        "flex w-full items-center gap-2 rounded-lg border pl-3 pr-2 transition-colors",
+                        on
+                          ? cn("border-transparent", style.soft)
+                          : "border-border bg-background/40 hover:bg-accent/40",
                       )}
                     >
-                      {on && <Check className="size-3.5" strokeWidth={3} />}
-                    </span>
-                    <span className={cn("flex-1 text-sm", on ? "text-foreground" : "text-muted-foreground")}>
-                      {c.name}
-                    </span>
-                    <span className="shrink-0 text-xs tabular-nums text-muted-foreground">{c.lectures} lec</span>
-                  </button>
-                )
-              })}
+                      <button
+                        type="button"
+                        onClick={() => toggleChapter(c.id)}
+                        className="flex flex-1 items-center gap-3 py-2 text-left"
+                      >
+                        <span
+                          className={cn(
+                            "flex size-5 shrink-0 items-center justify-center rounded-md border",
+                            on ? cn(style.dot, "border-transparent text-black") : "border-muted-foreground/40",
+                          )}
+                        >
+                          {on && <Check className="size-3.5" strokeWidth={3} />}
+                        </span>
+                        <span className={cn("min-w-0 flex-1", on ? "text-foreground" : "text-muted-foreground")}>
+                          <span className="flex items-center gap-2">
+                            <span className="truncate text-sm">{c.name}</span>
+                            {c.tag && (
+                              <span className="shrink-0 rounded bg-secondary px-1.5 py-0.5 text-[10px] font-medium uppercase tracking-wide text-muted-foreground">
+                                {c.tag}
+                              </span>
+                            )}
+                          </span>
+                        </span>
+                        <span className="shrink-0 text-xs tabular-nums text-muted-foreground">{c.lectures} lec</span>
+                      </button>
+                      <div className="flex shrink-0 flex-col">
+                        <button
+                          type="button"
+                          onClick={() => moveChapter(stream.id, c.id, "up")}
+                          disabled={index === 0}
+                          aria-label={`Move ${c.name} up`}
+                          className="rounded p-0.5 text-muted-foreground transition-colors hover:bg-accent/60 hover:text-foreground disabled:cursor-not-allowed disabled:opacity-30"
+                        >
+                          <ArrowUp className="size-3.5" />
+                        </button>
+                        <button
+                          type="button"
+                          onClick={() => moveChapter(stream.id, c.id, "down")}
+                          disabled={index === chapters.length - 1}
+                          aria-label={`Move ${c.name} down`}
+                          className="rounded p-0.5 text-muted-foreground transition-colors hover:bg-accent/60 hover:text-foreground disabled:cursor-not-allowed disabled:opacity-30"
+                        >
+                          <ArrowDown className="size-3.5" />
+                        </button>
+                      </div>
+                    </div>
+                  )
+                })
+              })()}
             </StreamCard>
           )
         })}

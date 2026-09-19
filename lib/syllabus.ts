@@ -1,12 +1,21 @@
 // AUTO-GENERATED from the uploaded Tracker 360 JSON planners.
 // Lecture counts come straight from the JSON files (source of truth).
 // Organic Chemistry is intentionally excluded for now.
+// Chemistry is treated as a single subject; the per-chapter `tag`
+// keeps the Physical / Inorganic distinction for display only.
+
+export type SyllabusChapter = {
+  id: string
+  name: string
+  lectures: number
+  tag?: string
+}
 
 export type SyllabusStream = {
   id: string
   subject: string
   tag: string | null
-  chapters: { id: string; name: string; lectures: number }[]
+  chapters: SyllabusChapter[]
 }
 
 export const SYLLABUS: SyllabusStream[] = [
@@ -98,76 +107,81 @@ export const SYLLABUS: SyllabusStream[] = [
     ]
   },
   {
-    "id": "pchem",
+    "id": "chemistry",
     "subject": "Chemistry",
-    "tag": "Physical Chemistry",
+    "tag": null,
     "chapters": [
       {
         "id": "pchem-c1",
         "name": "Some Basic Concepts of Chemistry",
-        "lectures": 20
+        "lectures": 20,
+        "tag": "Physical"
       },
       {
         "id": "pchem-c2",
         "name": "Structure of Atom",
-        "lectures": 15
+        "lectures": 15,
+        "tag": "Physical"
       },
       {
         "id": "pchem-c3",
         "name": "State of matter",
-        "lectures": 10
+        "lectures": 10,
+        "tag": "Physical"
       },
       {
         "id": "pchem-c4",
         "name": "Thermodynamics",
-        "lectures": 13
+        "lectures": 13,
+        "tag": "Physical"
       },
       {
         "id": "pchem-c5",
         "name": "Redox Reaction",
-        "lectures": 5
+        "lectures": 5,
+        "tag": "Physical"
       },
       {
         "id": "pchem-c6",
         "name": "Chemical Equilibrium",
-        "lectures": 8
+        "lectures": 8,
+        "tag": "Physical"
       },
       {
         "id": "pchem-c7",
         "name": "Ionic Equilibrium",
-        "lectures": 7
-      }
-    ]
-  },
-  {
-    "id": "ichem",
-    "subject": "Chemistry",
-    "tag": "Inorganic Chemistry",
-    "chapters": [
+        "lectures": 7,
+        "tag": "Physical"
+      },
       {
         "id": "ichem-c1",
         "name": "Classification of Elements and Periodicity in Properties",
-        "lectures": 14
+        "lectures": 14,
+        "tag": "Inorganic"
       },
       {
         "id": "ichem-c2",
         "name": "Chemical Bonding and Molecular Structure",
-        "lectures": 26
+        "lectures": 26,
+        "tag": "Inorganic"
       },
       {
         "id": "ichem-c3",
         "name": "P-block Elements (Group 13 and 14)",
-        "lectures": 5
+        "lectures": 5,
+        "tag": "Inorganic"
       },
       {
         "id": "ichem-c4",
         "name": "S-block Element",
-        "lectures": 2
+        "lectures": 2,
+        "tag": "Inorganic"
       },
       {
         "id": "ichem-c5",
         "name": "Hydrogen and its Compound",
-        "lectures": 1
+        "lectures": 1,
+        "tag": "Inorganic"
       }
     ]
   },
