@@ -1,0 +1,1655 @@
+{
+  "schemaVersion": "tracker360-chemistry-v2",
+  "displayRule": "Always display chapterName/displayChapterName; never generate Chapter 1, Chapter 2, etc.",
+  "subject": "Chemistry",
+  "subSubject": "Physical Chemistry",
+  "batchName": "Arjuna JEE 2027",
+  "totalChapters": 7,
+  "totalLectures": 78,
+  "chapters": [
+    {
+      "chapterNumber": 1,
+      "chapterId": "some-basic-concepts-of-chemistry",
+      "chapterName": "Some Basic Concepts of Chemistry",
+      "name": "Some Basic Concepts of Chemistry",
+      "displayName": "Some Basic Concepts of Chemistry",
+      "lectureCount": 20,
+      "lectures": [
+        {
+          "lectureNumber": 1,
+          "subject": "Chemistry",
+          "chapterName": "Some Basic Concepts of Chemistry",
+          "chapter": "Some Basic Concepts of Chemistry",
+          "chapterNumber": 1,
+          "chapterId": "some-basic-concepts-of-chemistry",
+          "displayChapterName": "Some Basic Concepts of Chemistry",
+          "topic": "Nature of Matter,Classification of Matter,Properties of Matter and their Measurement, International System of Units (S.I)"
+        },
+        {
+          "lectureNumber": 2,
+          "subject": "Chemistry",
+          "chapterName": "Some Basic Concepts of Chemistry",
+          "chapter": "Some Basic Concepts of Chemistry",
+          "chapterNumber": 1,
+          "chapterId": "some-basic-concepts-of-chemistry",
+          "displayChapterName": "Some Basic Concepts of Chemistry",
+          "topic": "Uncertainty in Measurement"
+        },
+        {
+          "lectureNumber": 3,
+          "subject": "Chemistry",
+          "chapterName": "Some Basic Concepts of Chemistry",
+          "chapter": "Some Basic Concepts of Chemistry",
+          "chapterNumber": 1,
+          "chapterId": "some-basic-concepts-of-chemistry",
+          "displayChapterName": "Some Basic Concepts of Chemistry",
+          "topic": "Laws of Chemical Combinations"
+        },
+        {
+          "lectureNumber": 4,
+          "subject": "Chemistry",
+          "chapterName": "Some Basic Concepts of Chemistry",
+          "chapter": "Some Basic Concepts of Chemistry",
+          "chapterNumber": 1,
+          "chapterId": "some-basic-concepts-of-chemistry",
+          "displayChapterName": "Some Basic Concepts of Chemistry",
+          "topic": "Laws of Chemical Combinations"
+        },
+        {
+          "lectureNumber": 5,
+          "subject": "Chemistry",
+          "chapterName": "Some Basic Concepts of Chemistry",
+          "chapter": "Some Basic Concepts of Chemistry",
+          "chapterNumber": 1,
+          "chapterId": "some-basic-concepts-of-chemistry",
+          "displayChapterName": "Some Basic Concepts of Chemistry",
+          "topic": "Dalton's Atomic Theory,Atomic Mass"
+        },
+        {
+          "lectureNumber": 6,
+          "subject": "Chemistry",
+          "chapterName": "Some Basic Concepts of Chemistry",
+          "chapter": "Some Basic Concepts of Chemistry",
+          "chapterNumber": 1,
+          "chapterId": "some-basic-concepts-of-chemistry",
+          "displayChapterName": "Some Basic Concepts of Chemistry",
+          "topic": "Atomic Mass Unit"
+        },
+        {
+          "lectureNumber": 7,
+          "subject": "Chemistry",
+          "chapterName": "Some Basic Concepts of Chemistry",
+          "chapter": "Some Basic Concepts of Chemistry",
+          "chapterNumber": 1,
+          "chapterId": "some-basic-concepts-of-chemistry",
+          "displayChapterName": "Some Basic Concepts of Chemistry",
+          "topic": "Gram Atomic Mass"
+        },
+        {
+          "lectureNumber": 8,
+          "subject": "Chemistry",
+          "chapterName": "Some Basic Concepts of Chemistry",
+          "chapter": "Some Basic Concepts of Chemistry",
+          "chapterNumber": 1,
+          "chapterId": "some-basic-concepts-of-chemistry",
+          "displayChapterName": "Some Basic Concepts of Chemistry",
+          "topic": "Average Atomic Mass"
+        },
+        {
+          "lectureNumber": 9,
+          "subject": "Chemistry",
+          "chapterName": "Some Basic Concepts of Chemistry",
+          "chapter": "Some Basic Concepts of Chemistry",
+          "chapterNumber": 1,
+          "chapterId": "some-basic-concepts-of-chemistry",
+          "displayChapterName": "Some Basic Concepts of Chemistry",
+          "topic": "Molecular Mass,Gram Molecular Mass"
+        },
+        {
+          "lectureNumber": 10,
+          "subject": "Chemistry",
+          "chapterName": "Some Basic Concepts of Chemistry",
+          "chapter": "Some Basic Concepts of Chemistry",
+          "chapterNumber": 1,
+          "chapterId": "some-basic-concepts-of-chemistry",
+          "displayChapterName": "Some Basic Concepts of Chemistry",
+          "topic": "Average Molecular Mass Formula Mass"
+        },
+        {
+          "lectureNumber": 11,
+          "subject": "Chemistry",
+          "chapterName": "Some Basic Concepts of Chemistry",
+          "chapter": "Some Basic Concepts of Chemistry",
+          "chapterNumber": 1,
+          "chapterId": "some-basic-concepts-of-chemistry",
+          "displayChapterName": "Some Basic Concepts of Chemistry",
+          "topic": "Percentage Composition,Empirical and Molecular formula"
+        },
+        {
+          "lectureNumber": 12,
+          "subject": "Chemistry",
+          "chapterName": "Some Basic Concepts of Chemistry",
+          "chapter": "Some Basic Concepts of Chemistry",
+          "chapterNumber": 1,
+          "chapterId": "some-basic-concepts-of-chemistry",
+          "displayChapterName": "Some Basic Concepts of Chemistry",
+          "topic": "Mole,Vapour density,Atomicity Mole Concept"
+        },
+        {
+          "lectureNumber": 13,
+          "subject": "Chemistry",
+          "chapterName": "Some Basic Concepts of Chemistry",
+          "chapter": "Some Basic Concepts of Chemistry",
+          "chapterNumber": 1,
+          "chapterId": "some-basic-concepts-of-chemistry",
+          "displayChapterName": "Some Basic Concepts of Chemistry",
+          "topic": "Stoichiometry and Stoichiometric Calculations"
+        },
+        {
+          "lectureNumber": 14,
+          "subject": "Chemistry",
+          "chapterName": "Some Basic Concepts of Chemistry",
+          "chapter": "Some Basic Concepts of Chemistry",
+          "chapterNumber": 1,
+          "chapterId": "some-basic-concepts-of-chemistry",
+          "displayChapterName": "Some Basic Concepts of Chemistry",
+          "topic": "Stoichiometry and Stoichiometric Calculations"
+        },
+        {
+          "lectureNumber": 15,
+          "subject": "Chemistry",
+          "chapterName": "Some Basic Concepts of Chemistry",
+          "chapter": "Some Basic Concepts of Chemistry",
+          "chapterNumber": 1,
+          "chapterId": "some-basic-concepts-of-chemistry",
+          "displayChapterName": "Some Basic Concepts of Chemistry",
+          "topic": "Stoichiometry and Stoichiometric Calculations"
+        },
+        {
+          "lectureNumber": 16,
+          "subject": "Chemistry",
+          "chapterName": "Some Basic Concepts of Chemistry",
+          "chapter": "Some Basic Concepts of Chemistry",
+          "chapterNumber": 1,
+          "chapterId": "some-basic-concepts-of-chemistry",
+          "displayChapterName": "Some Basic Concepts of Chemistry",
+          "topic": "Concentration Terms & Application"
+        },
+        {
+          "lectureNumber": 17,
+          "subject": "Chemistry",
+          "chapterName": "Some Basic Concepts of Chemistry",
+          "chapter": "Some Basic Concepts of Chemistry",
+          "chapterNumber": 1,
+          "chapterId": "some-basic-concepts-of-chemistry",
+          "displayChapterName": "Some Basic Concepts of Chemistry",
+          "topic": "Concentration Terms & Application"
+        },
+        {
+          "lectureNumber": 18,
+          "subject": "Chemistry",
+          "chapterName": "Some Basic Concepts of Chemistry",
+          "chapter": "Some Basic Concepts of Chemistry",
+          "chapterNumber": 1,
+          "chapterId": "some-basic-concepts-of-chemistry",
+          "displayChapterName": "Some Basic Concepts of Chemistry",
+          "topic": "Concentration Terms & Application"
+        },
+        {
+          "lectureNumber": 19,
+          "subject": "Chemistry",
+          "chapterName": "Some Basic Concepts of Chemistry",
+          "chapter": "Some Basic Concepts of Chemistry",
+          "chapterNumber": 1,
+          "chapterId": "some-basic-concepts-of-chemistry",
+          "displayChapterName": "Some Basic Concepts of Chemistry",
+          "topic": "Concentration Terms & Application"
+        },
+        {
+          "lectureNumber": 20,
+          "subject": "Chemistry",
+          "chapterName": "Some Basic Concepts of Chemistry",
+          "chapter": "Some Basic Concepts of Chemistry",
+          "chapterNumber": 1,
+          "chapterId": "some-basic-concepts-of-chemistry",
+          "displayChapterName": "Some Basic Concepts of Chemistry",
+          "topic": "Concentration Terms & Application"
+        }
+      ],
+      "trackerLectureCount": 21
+    },
+    {
+      "chapterNumber": 2,
+      "chapterId": "structure-of-atom",
+      "chapterName": "Structure of Atom",
+      "name": "Structure of Atom",
+      "displayName": "Structure of Atom",
+      "lectureCount": 15,
+      "lectures": [
+        {
+          "lectureNumber": 1,
+          "subject": "Chemistry",
+          "chapterName": "Structure of Atom",
+          "chapter": "Structure of Atom",
+          "chapterNumber": 2,
+          "chapterId": "structure-of-atom",
+          "displayChapterName": "Structure of Atom",
+          "topic": "Introdution"
+        },
+        {
+          "lectureNumber": 2,
+          "subject": "Chemistry",
+          "chapterName": "Structure of Atom",
+          "chapter": "Structure of Atom",
+          "chapterNumber": 2,
+          "chapterId": "structure-of-atom",
+          "displayChapterName": "Structure of Atom",
+          "topic": "Fundamental Particles,Discovery of Fundamental Particles"
+        },
+        {
+          "lectureNumber": 3,
+          "subject": "Chemistry",
+          "chapterName": "Structure of Atom",
+          "chapter": "Structure of Atom",
+          "chapterNumber": 2,
+          "chapterId": "structure-of-atom",
+          "displayChapterName": "Structure of Atom",
+          "topic": "Atomic Models"
+        },
+        {
+          "lectureNumber": 4,
+          "subject": "Chemistry",
+          "chapterName": "Structure of Atom",
+          "chapter": "Structure of Atom",
+          "chapterNumber": 2,
+          "chapterId": "structure-of-atom",
+          "displayChapterName": "Structure of Atom",
+          "topic": "Some Important Atomic Terms,Nature of Light and Electromagnetic Spectrum,Particle Nature of Electromagnetic Radiation: Planck’s Quantum,Application of Planck’s Quantum Theory"
+        },
+        {
+          "lectureNumber": 5,
+          "subject": "Chemistry",
+          "chapterName": "Structure of Atom",
+          "chapter": "Structure of Atom",
+          "chapterNumber": 2,
+          "chapterId": "structure-of-atom",
+          "displayChapterName": "Structure of Atom",
+          "topic": "Some Important Atomic Terms,Nature of Light and Electromagnetic Spectrum,Particle Nature of Electromagnetic Radiation: Planck’s Quantum,Application of Planck’s Quantum Theory"
+        },
+        {
+          "lectureNumber": 6,
+          "subject": "Chemistry",
+          "chapterName": "Structure of Atom",
+          "chapter": "Structure of Atom",
+          "chapterNumber": 2,
+          "chapterId": "structure-of-atom",
+          "displayChapterName": "Structure of Atom",
+          "topic": "Some Important Atomic Terms,Nature of Light and Electromagnetic Spectrum,Particle Nature of Electromagnetic Radiation: Planck’s Quantum,Application of Planck’s Quantum Theory"
+        },
+        {
+          "lectureNumber": 7,
+          "subject": "Chemistry",
+          "chapterName": "Structure of Atom",
+          "chapter": "Structure of Atom",
+          "chapterNumber": 2,
+          "chapterId": "structure-of-atom",
+          "displayChapterName": "Structure of Atom",
+          "topic": "Bohr's Model for Hydrogen Atom"
+        },
+        {
+          "lectureNumber": 8,
+          "subject": "Chemistry",
+          "chapterName": "Structure of Atom",
+          "chapter": "Structure of Atom",
+          "chapterNumber": 2,
+          "chapterId": "structure-of-atom",
+          "displayChapterName": "Structure of Atom",
+          "topic": "Bohr's Model for Hydrogen Atom"
+        },
+        {
+          "lectureNumber": 9,
+          "subject": "Chemistry",
+          "chapterName": "Structure of Atom",
+          "chapter": "Structure of Atom",
+          "chapterNumber": 2,
+          "chapterId": "structure-of-atom",
+          "displayChapterName": "Structure of Atom",
+          "topic": "Ionization Energy of Hydrogen and Hydrogen-Like Particles"
+        },
+        {
+          "lectureNumber": 10,
+          "subject": "Chemistry",
+          "chapterName": "Structure of Atom",
+          "chapter": "Structure of Atom",
+          "chapterNumber": 2,
+          "chapterId": "structure-of-atom",
+          "displayChapterName": "Structure of Atom",
+          "topic": "Spectrum: Evidence for the Quantized Electronic Energy Levels"
+        },
+        {
+          "lectureNumber": 11,
+          "subject": "Chemistry",
+          "chapterName": "Structure of Atom",
+          "chapter": "Structure of Atom",
+          "chapterNumber": 2,
+          "chapterId": "structure-of-atom",
+          "displayChapterName": "Structure of Atom",
+          "topic": "Spectrum: Evidence for the Quantized Electronic Energy Levels"
+        },
+        {
+          "lectureNumber": 12,
+          "subject": "Chemistry",
+          "chapterName": "Structure of Atom",
+          "chapter": "Structure of Atom",
+          "chapterNumber": 2,
+          "chapterId": "structure-of-atom",
+          "displayChapterName": "Structure of Atom",
+          "topic": "Quantum Mechanical Model of the Atom"
+        },
+        {
+          "lectureNumber": 13,
+          "subject": "Chemistry",
+          "chapterName": "Structure of Atom",
+          "chapter": "Structure of Atom",
+          "chapterNumber": 2,
+          "chapterId": "structure-of-atom",
+          "displayChapterName": "Structure of Atom",
+          "topic": "Quantum Number"
+        },
+        {
+          "lectureNumber": 14,
+          "subject": "Chemistry",
+          "chapterName": "Structure of Atom",
+          "chapter": "Structure of Atom",
+          "chapterNumber": 2,
+          "chapterId": "structure-of-atom",
+          "displayChapterName": "Structure of Atom",
+          "topic": "Rules for Filling of electrons in Orbitals in Atom,Exchange and Pairing energy"
+        },
+        {
+          "lectureNumber": 15,
+          "subject": "Chemistry",
+          "chapterName": "Structure of Atom",
+          "chapter": "Structure of Atom",
+          "chapterNumber": 2,
+          "chapterId": "structure-of-atom",
+          "displayChapterName": "Structure of Atom",
+          "topic": "Rules for Filling of electrons in Orbitals in Atom,Exchange and Pairing energy"
+        }
+      ],
+      "trackerLectureCount": 18
+    },
+    {
+      "chapterNumber": 3,
+      "chapterId": "state-of-matter",
+      "chapterName": "State of matter",
+      "name": "State of matter",
+      "displayName": "State of matter",
+      "lectureCount": 10,
+      "lectures": [
+        {
+          "lectureNumber": 1,
+          "subject": "Chemistry",
+          "chapterName": "State of matter",
+          "chapter": "State of matter",
+          "chapterNumber": 3,
+          "chapterId": "state-of-matter",
+          "displayChapterName": "State of matter",
+          "topic": "The Gaseous State"
+        },
+        {
+          "lectureNumber": 2,
+          "subject": "Chemistry",
+          "chapterName": "State of matter",
+          "chapter": "State of matter",
+          "chapterNumber": 3,
+          "chapterId": "state-of-matter",
+          "displayChapterName": "State of matter",
+          "topic": "The Gaseous State"
+        },
+        {
+          "lectureNumber": 3,
+          "subject": "Chemistry",
+          "chapterName": "State of matter",
+          "chapter": "State of matter",
+          "chapterNumber": 3,
+          "chapterId": "state-of-matter",
+          "displayChapterName": "State of matter",
+          "topic": "The Gas Laws"
+        },
+        {
+          "lectureNumber": 4,
+          "subject": "Chemistry",
+          "chapterName": "State of matter",
+          "chapter": "State of matter",
+          "chapterNumber": 3,
+          "chapterId": "state-of-matter",
+          "displayChapterName": "State of matter",
+          "topic": "The Gas Laws,Ideal Gas Equation"
+        },
+        {
+          "lectureNumber": 5,
+          "subject": "Chemistry",
+          "chapterName": "State of matter",
+          "chapter": "State of matter",
+          "chapterNumber": 3,
+          "chapterId": "state-of-matter",
+          "displayChapterName": "State of matter",
+          "topic": "Dalton's Law of Partial Pressures Graham's Law of Diffusion/effusion"
+        },
+        {
+          "lectureNumber": 6,
+          "subject": "Chemistry",
+          "chapterName": "State of matter",
+          "chapter": "State of matter",
+          "chapterNumber": 3,
+          "chapterId": "state-of-matter",
+          "displayChapterName": "State of matter",
+          "topic": "Kinetic Molecular Theory of Gases Kinetic Gas Equation Explanation of Gas Law from Kinetic Theory Kinetic Energy and Molecular Speeds"
+        },
+        {
+          "lectureNumber": 7,
+          "subject": "Chemistry",
+          "chapterName": "State of matter",
+          "chapter": "State of matter",
+          "chapterNumber": 3,
+          "chapterId": "state-of-matter",
+          "displayChapterName": "State of matter",
+          "topic": "Maxwell-Boltzmann Distribution of Molecular Speeds Behaviour of Real Gases : Deviation from Ideal Gas Behaviour"
+        },
+        {
+          "lectureNumber": 8,
+          "subject": "Chemistry",
+          "chapterName": "State of matter",
+          "chapter": "State of matter",
+          "chapterNumber": 3,
+          "chapterId": "state-of-matter",
+          "displayChapterName": "State of matter",
+          "topic": "Equation of State for Real Gases (Van der Waals Equation)"
+        },
+        {
+          "lectureNumber": 9,
+          "subject": "Chemistry",
+          "chapterName": "State of matter",
+          "chapter": "State of matter",
+          "chapterNumber": 3,
+          "chapterId": "state-of-matter",
+          "displayChapterName": "State of matter",
+          "topic": "Liquefaction of Gases"
+        },
+        {
+          "lectureNumber": 10,
+          "subject": "Chemistry",
+          "chapterName": "State of matter",
+          "chapter": "State of matter",
+          "chapterNumber": 3,
+          "chapterId": "state-of-matter",
+          "displayChapterName": "State of matter",
+          "topic": "Eudiometry"
+        }
+      ],
+      "trackerLectureCount": 5
+    },
+    {
+      "chapterNumber": 4,
+      "chapterId": "thermodynamics",
+      "chapterName": "Thermodynamics",
+      "name": "Thermodynamics",
+      "displayName": "Thermodynamics",
+      "lectureCount": 13,
+      "lectures": [
+        {
+          "lectureNumber": 1,
+          "subject": "Chemistry",
+          "chapterName": "Thermodynamics",
+          "chapter": "Thermodynamics",
+          "chapterNumber": 4,
+          "chapterId": "thermodynamics",
+          "displayChapterName": "Thermodynamics",
+          "topic": "Introduction,Basic terms,Classification of system on the basis of nature,State of system"
+        },
+        {
+          "lectureNumber": 2,
+          "subject": "Chemistry",
+          "chapterName": "Thermodynamics",
+          "chapter": "Thermodynamics",
+          "chapterNumber": 4,
+          "chapterId": "thermodynamics",
+          "displayChapterName": "Thermodynamics",
+          "topic": "Types of properties,TYPES OF THERMODYNAMIC PROCESSES ON BASIS OF THE WAY THE PROCESSES ARE CARRIED OUT"
+        },
+        {
+          "lectureNumber": 3,
+          "subject": "Chemistry",
+          "chapterName": "Thermodynamics",
+          "chapter": "Thermodynamics",
+          "chapterNumber": 4,
+          "chapterId": "thermodynamics",
+          "displayChapterName": "Thermodynamics",
+          "topic": "Work, heat and internal energy,First Law of Thermodynamics Enthalpy Heat Capacity"
+        },
+        {
+          "lectureNumber": 4,
+          "subject": "Chemistry",
+          "chapterName": "Thermodynamics",
+          "chapter": "Thermodynamics",
+          "chapterNumber": 4,
+          "chapterId": "thermodynamics",
+          "displayChapterName": "Thermodynamics",
+          "topic": "CALCULATION OF Q, W, ΔU & ΔH IN VARIOUS PROCESS"
+        },
+        {
+          "lectureNumber": 5,
+          "subject": "Chemistry",
+          "chapterName": "Thermodynamics",
+          "chapter": "Thermodynamics",
+          "chapterNumber": 4,
+          "chapterId": "thermodynamics",
+          "displayChapterName": "Thermodynamics",
+          "topic": "Thermochemistry Enthalpy of a substance Standard state of substance Enthalpy of reaction Factor affecting heat of reaction LAWS OF THERMOCHEMISTRY"
+        },
+        {
+          "lectureNumber": 6,
+          "subject": "Chemistry",
+          "chapterName": "Thermodynamics",
+          "chapter": "Thermodynamics",
+          "chapterNumber": 4,
+          "chapterId": "thermodynamics",
+          "displayChapterName": "Thermodynamics",
+          "topic": "Enthalpy change for different type of reaction"
+        },
+        {
+          "lectureNumber": 7,
+          "subject": "Chemistry",
+          "chapterName": "Thermodynamics",
+          "chapter": "Thermodynamics",
+          "chapterNumber": 4,
+          "chapterId": "thermodynamics",
+          "displayChapterName": "Thermodynamics",
+          "topic": "Enthalpy change for different type of reaction"
+        },
+        {
+          "lectureNumber": 8,
+          "subject": "Chemistry",
+          "chapterName": "Thermodynamics",
+          "chapter": "Thermodynamics",
+          "chapterNumber": 4,
+          "chapterId": "thermodynamics",
+          "displayChapterName": "Thermodynamics",
+          "topic": "Limitation of Ist law of thermodynamics Spontaneous process Entropy"
+        },
+        {
+          "lectureNumber": 9,
+          "subject": "Chemistry",
+          "chapterName": "Thermodynamics",
+          "chapter": "Thermodynamics",
+          "chapterNumber": 4,
+          "chapterId": "thermodynamics",
+          "displayChapterName": "Thermodynamics",
+          "topic": "Second law of Thermodynamics ENTROPY CHANGE OF AN IDEAL GAS"
+        },
+        {
+          "lectureNumber": 10,
+          "subject": "Chemistry",
+          "chapterName": "Thermodynamics",
+          "chapter": "Thermodynamics",
+          "chapterNumber": 4,
+          "chapterId": "thermodynamics",
+          "displayChapterName": "Thermodynamics",
+          "topic": "Entropy Change of Solids and liquids Upon Heating Entropy Calculation for solid or liquid systems"
+        },
+        {
+          "lectureNumber": 11,
+          "subject": "Chemistry",
+          "chapterName": "Thermodynamics",
+          "chapter": "Thermodynamics",
+          "chapterNumber": 4,
+          "chapterId": "thermodynamics",
+          "displayChapterName": "Thermodynamics",
+          "topic": "Standard absolute molar entropy Comparing absolute entropies of substance"
+        },
+        {
+          "lectureNumber": 12,
+          "subject": "Chemistry",
+          "chapterName": "Thermodynamics",
+          "chapter": "Thermodynamics",
+          "chapterNumber": 4,
+          "chapterId": "thermodynamics",
+          "displayChapterName": "Thermodynamics",
+          "topic": "Entropy Change (DS) of a Chemical Reaction GIBBS FREE ENERGY"
+        },
+        {
+          "lectureNumber": 13,
+          "subject": "Chemistry",
+          "chapterName": "Thermodynamics",
+          "chapter": "Thermodynamics",
+          "chapterNumber": 4,
+          "chapterId": "thermodynamics",
+          "displayChapterName": "Thermodynamics",
+          "topic": "Entropy Change (DS) of a Chemical Reaction GIBBS FREE ENERGY"
+        }
+      ]
+    },
+    {
+      "chapterNumber": 5,
+      "chapterId": "redox-reaction",
+      "chapterName": "Redox Reaction",
+      "name": "Redox Reaction",
+      "displayName": "Redox Reaction",
+      "lectureCount": 5,
+      "lectures": [
+        {
+          "lectureNumber": 1,
+          "subject": "Chemistry",
+          "chapterName": "Redox Reaction",
+          "chapter": "Redox Reaction",
+          "chapterNumber": 5,
+          "chapterId": "redox-reaction",
+          "displayChapterName": "Redox Reaction",
+          "topic": "Introduction"
+        },
+        {
+          "lectureNumber": 2,
+          "subject": "Chemistry",
+          "chapterName": "Redox Reaction",
+          "chapter": "Redox Reaction",
+          "chapterNumber": 5,
+          "chapterId": "redox-reaction",
+          "displayChapterName": "Redox Reaction",
+          "topic": "Balancing of Redox Reaction Types of Redox Reaction"
+        },
+        {
+          "lectureNumber": 3,
+          "subject": "Chemistry",
+          "chapterName": "Redox Reaction",
+          "chapter": "Redox Reaction",
+          "chapterNumber": 5,
+          "chapterId": "redox-reaction",
+          "displayChapterName": "Redox Reaction",
+          "topic": "CONCEPT OF n-FACTOR OR"
+        },
+        {
+          "lectureNumber": 4,
+          "subject": "Chemistry",
+          "chapterName": "Redox Reaction",
+          "chapter": "Redox Reaction",
+          "chapterNumber": 5,
+          "chapterId": "redox-reaction",
+          "displayChapterName": "Redox Reaction",
+          "topic": "VALENCY FACTOR"
+        },
+        {
+          "lectureNumber": 5,
+          "subject": "Chemistry",
+          "chapterName": "Redox Reaction",
+          "chapter": "Redox Reaction",
+          "chapterNumber": 5,
+          "chapterId": "redox-reaction",
+          "displayChapterName": "Redox Reaction",
+          "topic": "LAW OF EQUIVALENCE"
+        }
+      ]
+    },
+    {
+      "chapterNumber": 6,
+      "chapterId": "chemical-equilibrium",
+      "chapterName": "Chemical Equilibrium",
+      "name": "Chemical Equilibrium",
+      "displayName": "Chemical Equilibrium",
+      "lectureCount": 8,
+      "lectures": [
+        {
+          "lectureNumber": 1,
+          "subject": "Chemistry",
+          "chapterName": "Chemical Equilibrium",
+          "chapter": "Chemical Equilibrium",
+          "chapterNumber": 6,
+          "chapterId": "chemical-equilibrium",
+          "displayChapterName": "Chemical Equilibrium",
+          "topic": "Introduction,Characteristics of chemical equilibrium Law of mass action"
+        },
+        {
+          "lectureNumber": 2,
+          "subject": "Chemistry",
+          "chapterName": "Chemical Equilibrium",
+          "chapter": "Chemical Equilibrium",
+          "chapterNumber": 6,
+          "chapterId": "chemical-equilibrium",
+          "displayChapterName": "Chemical Equilibrium",
+          "topic": "Law of mass action"
+        },
+        {
+          "lectureNumber": 3,
+          "subject": "Chemistry",
+          "chapterName": "Chemical Equilibrium",
+          "chapter": "Chemical Equilibrium",
+          "chapterNumber": 6,
+          "chapterId": "chemical-equilibrium",
+          "displayChapterName": "Chemical Equilibrium",
+          "topic": "Variation of equilibrium constant with the change of stoichiometric coefficients,Multiple Equilibrium"
+        },
+        {
+          "lectureNumber": 4,
+          "subject": "Chemistry",
+          "chapterName": "Chemical Equilibrium",
+          "chapter": "Chemical Equilibrium",
+          "chapterNumber": 6,
+          "chapterId": "chemical-equilibrium",
+          "displayChapterName": "Chemical Equilibrium",
+          "topic": "Reaction Quotient"
+        },
+        {
+          "lectureNumber": 5,
+          "subject": "Chemistry",
+          "chapterName": "Chemical Equilibrium",
+          "chapter": "Chemical Equilibrium",
+          "chapterNumber": 6,
+          "chapterId": "chemical-equilibrium",
+          "displayChapterName": "Chemical Equilibrium",
+          "topic": "Equilibrium Constant of Various equilibrium,"
+        },
+        {
+          "lectureNumber": 6,
+          "subject": "Chemistry",
+          "chapterName": "Chemical Equilibrium",
+          "chapter": "Chemical Equilibrium",
+          "chapterNumber": 6,
+          "chapterId": "chemical-equilibrium",
+          "displayChapterName": "Chemical Equilibrium",
+          "topic": "Calculation of degree of dissociation from vapour density measurement"
+        },
+        {
+          "lectureNumber": 7,
+          "subject": "Chemistry",
+          "chapterName": "Chemical Equilibrium",
+          "chapter": "Chemical Equilibrium",
+          "chapterNumber": 6,
+          "chapterId": "chemical-equilibrium",
+          "displayChapterName": "Chemical Equilibrium",
+          "topic": "Le chatelier's principle"
+        },
+        {
+          "lectureNumber": 8,
+          "subject": "Chemistry",
+          "chapterName": "Chemical Equilibrium",
+          "chapter": "Chemical Equilibrium",
+          "chapterNumber": 6,
+          "chapterId": "chemical-equilibrium",
+          "displayChapterName": "Chemical Equilibrium",
+          "topic": "Effect of temperature on equilibrium constant Free energy and chemical equilibrium Physical Equilibrium"
+        }
+      ]
+    },
+    {
+      "chapterNumber": 7,
+      "chapterId": "ionic-equilibrium",
+      "chapterName": "Ionic Equilibrium",
+      "name": "Ionic Equilibrium",
+      "displayName": "Ionic Equilibrium",
+      "lectureCount": 7,
+      "lectures": [
+        {
+          "lectureNumber": 1,
+          "subject": "Chemistry",
+          "chapterName": "Ionic Equilibrium",
+          "chapter": "Ionic Equilibrium",
+          "chapterNumber": 7,
+          "chapterId": "ionic-equilibrium",
+          "displayChapterName": "Ionic Equilibrium",
+          "topic": "Type of electrolytes,Different theory for acid and base,The autoionization of water"
+        },
+        {
+          "lectureNumber": 2,
+          "subject": "Chemistry",
+          "chapterName": "Ionic Equilibrium",
+          "chapter": "Ionic Equilibrium",
+          "chapterNumber": 7,
+          "chapterId": "ionic-equilibrium",
+          "displayChapterName": "Ionic Equilibrium",
+          "topic": "The pH–Scale Ionisation of weak electrolyte"
+        },
+        {
+          "lectureNumber": 3,
+          "subject": "Chemistry",
+          "chapterName": "Ionic Equilibrium",
+          "chapter": "Ionic Equilibrium",
+          "chapterNumber": 7,
+          "chapterId": "ionic-equilibrium",
+          "displayChapterName": "Ionic Equilibrium",
+          "topic": "Common ion effect and levelling effect"
+        },
+        {
+          "lectureNumber": 4,
+          "subject": "Chemistry",
+          "chapterName": "Ionic Equilibrium",
+          "chapter": "Ionic Equilibrium",
+          "chapterNumber": 7,
+          "chapterId": "ionic-equilibrium",
+          "displayChapterName": "Ionic Equilibrium",
+          "topic": "pH–Calculation"
+        },
+        {
+          "lectureNumber": 5,
+          "subject": "Chemistry",
+          "chapterName": "Ionic Equilibrium",
+          "chapter": "Ionic Equilibrium",
+          "chapterNumber": 7,
+          "chapterId": "ionic-equilibrium",
+          "displayChapterName": "Ionic Equilibrium",
+          "topic": "Buffer Solution"
+        },
+        {
+          "lectureNumber": 6,
+          "subject": "Chemistry",
+          "chapterName": "Ionic Equilibrium",
+          "chapter": "Ionic Equilibrium",
+          "chapterNumber": 7,
+          "chapterId": "ionic-equilibrium",
+          "displayChapterName": "Ionic Equilibrium",
+          "topic": "Salt hydrolysis"
+        },
+        {
+          "lectureNumber": 7,
+          "subject": "Chemistry",
+          "chapterName": "Ionic Equilibrium",
+          "chapter": "Ionic Equilibrium",
+          "chapterNumber": 7,
+          "chapterId": "ionic-equilibrium",
+          "displayChapterName": "Ionic Equilibrium",
+          "topic": "Indicator Acid-base titration Solubility and Solubility product"
+        }
+      ]
+    }
+  ],
+  "lectureRecords": [
+    {
+      "lectureNumber": 1,
+      "subject": "Chemistry",
+      "chapterName": "Some Basic Concepts of Chemistry",
+      "chapter": "Some Basic Concepts of Chemistry",
+      "chapterNumber": 1,
+      "chapterId": "some-basic-concepts-of-chemistry",
+      "displayChapterName": "Some Basic Concepts of Chemistry",
+      "topic": "Nature of Matter,Classification of Matter,Properties of Matter and their Measurement, International System of Units (S.I)"
+    },
+    {
+      "lectureNumber": 2,
+      "subject": "Chemistry",
+      "chapterName": "Some Basic Concepts of Chemistry",
+      "chapter": "Some Basic Concepts of Chemistry",
+      "chapterNumber": 1,
+      "chapterId": "some-basic-concepts-of-chemistry",
+      "displayChapterName": "Some Basic Concepts of Chemistry",
+      "topic": "Uncertainty in Measurement"
+    },
+    {
+      "lectureNumber": 3,
+      "subject": "Chemistry",
+      "chapterName": "Some Basic Concepts of Chemistry",
+      "chapter": "Some Basic Concepts of Chemistry",
+      "chapterNumber": 1,
+      "chapterId": "some-basic-concepts-of-chemistry",
+      "displayChapterName": "Some Basic Concepts of Chemistry",
+      "topic": "Laws of Chemical Combinations"
+    },
+    {
+      "lectureNumber": 4,
+      "subject": "Chemistry",
+      "chapterName": "Some Basic Concepts of Chemistry",
+      "chapter": "Some Basic Concepts of Chemistry",
+      "chapterNumber": 1,
+      "chapterId": "some-basic-concepts-of-chemistry",
+      "displayChapterName": "Some Basic Concepts of Chemistry",
+      "topic": "Laws of Chemical Combinations"
+    },
+    {
+      "lectureNumber": 5,
+      "subject": "Chemistry",
+      "chapterName": "Some Basic Concepts of Chemistry",
+      "chapter": "Some Basic Concepts of Chemistry",
+      "chapterNumber": 1,
+      "chapterId": "some-basic-concepts-of-chemistry",
+      "displayChapterName": "Some Basic Concepts of Chemistry",
+      "topic": "Dalton's Atomic Theory,Atomic Mass"
+    },
+    {
+      "lectureNumber": 6,
+      "subject": "Chemistry",
+      "chapterName": "Some Basic Concepts of Chemistry",
+      "chapter": "Some Basic Concepts of Chemistry",
+      "chapterNumber": 1,
+      "chapterId": "some-basic-concepts-of-chemistry",
+      "displayChapterName": "Some Basic Concepts of Chemistry",
+      "topic": "Atomic Mass Unit"
+    },
+    {
+      "lectureNumber": 7,
+      "subject": "Chemistry",
+      "chapterName": "Some Basic Concepts of Chemistry",
+      "chapter": "Some Basic Concepts of Chemistry",
+      "chapterNumber": 1,
+      "chapterId": "some-basic-concepts-of-chemistry",
+      "displayChapterName": "Some Basic Concepts of Chemistry",
+      "topic": "Gram Atomic Mass"
+    },
+    {
+      "lectureNumber": 8,
+      "subject": "Chemistry",
+      "chapterName": "Some Basic Concepts of Chemistry",
+      "chapter": "Some Basic Concepts of Chemistry",
+      "chapterNumber": 1,
+      "chapterId": "some-basic-concepts-of-chemistry",
+      "displayChapterName": "Some Basic Concepts of Chemistry",
+      "topic": "Average Atomic Mass"
+    },
+    {
+      "lectureNumber": 9,
+      "subject": "Chemistry",
+      "chapterName": "Some Basic Concepts of Chemistry",
+      "chapter": "Some Basic Concepts of Chemistry",
+      "chapterNumber": 1,
+      "chapterId": "some-basic-concepts-of-chemistry",
+      "displayChapterName": "Some Basic Concepts of Chemistry",
+      "topic": "Molecular Mass,Gram Molecular Mass"
+    },
+    {
+      "lectureNumber": 10,
+      "subject": "Chemistry",
+      "chapterName": "Some Basic Concepts of Chemistry",
+      "chapter": "Some Basic Concepts of Chemistry",
+      "chapterNumber": 1,
+      "chapterId": "some-basic-concepts-of-chemistry",
+      "displayChapterName": "Some Basic Concepts of Chemistry",
+      "topic": "Average Molecular Mass Formula Mass"
+    },
+    {
+      "lectureNumber": 11,
+      "subject": "Chemistry",
+      "chapterName": "Some Basic Concepts of Chemistry",
+      "chapter": "Some Basic Concepts of Chemistry",
+      "chapterNumber": 1,
+      "chapterId": "some-basic-concepts-of-chemistry",
+      "displayChapterName": "Some Basic Concepts of Chemistry",
+      "topic": "Percentage Composition,Empirical and Molecular formula"
+    },
+    {
+      "lectureNumber": 12,
+      "subject": "Chemistry",
+      "chapterName": "Some Basic Concepts of Chemistry",
+      "chapter": "Some Basic Concepts of Chemistry",
+      "chapterNumber": 1,
+      "chapterId": "some-basic-concepts-of-chemistry",
+      "displayChapterName": "Some Basic Concepts of Chemistry",
+      "topic": "Mole,Vapour density,Atomicity Mole Concept"
+    },
+    {
+      "lectureNumber": 13,
+      "subject": "Chemistry",
+      "chapterName": "Some Basic Concepts of Chemistry",
+      "chapter": "Some Basic Concepts of Chemistry",
+      "chapterNumber": 1,
+      "chapterId": "some-basic-concepts-of-chemistry",
+      "displayChapterName": "Some Basic Concepts of Chemistry",
+      "topic": "Stoichiometry and Stoichiometric Calculations"
+    },
+    {
+      "lectureNumber": 14,
+      "subject": "Chemistry",
+      "chapterName": "Some Basic Concepts of Chemistry",
+      "chapter": "Some Basic Concepts of Chemistry",
+      "chapterNumber": 1,
+      "chapterId": "some-basic-concepts-of-chemistry",
+      "displayChapterName": "Some Basic Concepts of Chemistry",
+      "topic": "Stoichiometry and Stoichiometric Calculations"
+    },
+    {
+      "lectureNumber": 15,
+      "subject": "Chemistry",
+      "chapterName": "Some Basic Concepts of Chemistry",
+      "chapter": "Some Basic Concepts of Chemistry",
+      "chapterNumber": 1,
+      "chapterId": "some-basic-concepts-of-chemistry",
+      "displayChapterName": "Some Basic Concepts of Chemistry",
+      "topic": "Stoichiometry and Stoichiometric Calculations"
+    },
+    {
+      "lectureNumber": 16,
+      "subject": "Chemistry",
+      "chapterName": "Some Basic Concepts of Chemistry",
+      "chapter": "Some Basic Concepts of Chemistry",
+      "chapterNumber": 1,
+      "chapterId": "some-basic-concepts-of-chemistry",
+      "displayChapterName": "Some Basic Concepts of Chemistry",
+      "topic": "Concentration Terms & Application"
+    },
+    {
+      "lectureNumber": 17,
+      "subject": "Chemistry",
+      "chapterName": "Some Basic Concepts of Chemistry",
+      "chapter": "Some Basic Concepts of Chemistry",
+      "chapterNumber": 1,
+      "chapterId": "some-basic-concepts-of-chemistry",
+      "displayChapterName": "Some Basic Concepts of Chemistry",
+      "topic": "Concentration Terms & Application"
+    },
+    {
+      "lectureNumber": 18,
+      "subject": "Chemistry",
+      "chapterName": "Some Basic Concepts of Chemistry",
+      "chapter": "Some Basic Concepts of Chemistry",
+      "chapterNumber": 1,
+      "chapterId": "some-basic-concepts-of-chemistry",
+      "displayChapterName": "Some Basic Concepts of Chemistry",
+      "topic": "Concentration Terms & Application"
+    },
+    {
+      "lectureNumber": 19,
+      "subject": "Chemistry",
+      "chapterName": "Some Basic Concepts of Chemistry",
+      "chapter": "Some Basic Concepts of Chemistry",
+      "chapterNumber": 1,
+      "chapterId": "some-basic-concepts-of-chemistry",
+      "displayChapterName": "Some Basic Concepts of Chemistry",
+      "topic": "Concentration Terms & Application"
+    },
+    {
+      "lectureNumber": 20,
+      "subject": "Chemistry",
+      "chapterName": "Some Basic Concepts of Chemistry",
+      "chapter": "Some Basic Concepts of Chemistry",
+      "chapterNumber": 1,
+      "chapterId": "some-basic-concepts-of-chemistry",
+      "displayChapterName": "Some Basic Concepts of Chemistry",
+      "topic": "Concentration Terms & Application"
+    },
+    {
+      "lectureNumber": 1,
+      "subject": "Chemistry",
+      "chapterName": "Structure of Atom",
+      "chapter": "Structure of Atom",
+      "chapterNumber": 2,
+      "chapterId": "structure-of-atom",
+      "displayChapterName": "Structure of Atom",
+      "topic": "Introdution"
+    },
+    {
+      "lectureNumber": 2,
+      "subject": "Chemistry",
+      "chapterName": "Structure of Atom",
+      "chapter": "Structure of Atom",
+      "chapterNumber": 2,
+      "chapterId": "structure-of-atom",
+      "displayChapterName": "Structure of Atom",
+      "topic": "Fundamental Particles,Discovery of Fundamental Particles"
+    },
+    {
+      "lectureNumber": 3,
+      "subject": "Chemistry",
+      "chapterName": "Structure of Atom",
+      "chapter": "Structure of Atom",
+      "chapterNumber": 2,
+      "chapterId": "structure-of-atom",
+      "displayChapterName": "Structure of Atom",
+      "topic": "Atomic Models"
+    },
+    {
+      "lectureNumber": 4,
+      "subject": "Chemistry",
+      "chapterName": "Structure of Atom",
+      "chapter": "Structure of Atom",
+      "chapterNumber": 2,
+      "chapterId": "structure-of-atom",
+      "displayChapterName": "Structure of Atom",
+      "topic": "Some Important Atomic Terms,Nature of Light and Electromagnetic Spectrum,Particle Nature of Electromagnetic Radiation: Planck’s Quantum,Application of Planck’s Quantum Theory"
+    },
+    {
+      "lectureNumber": 5,
+      "subject": "Chemistry",
+      "chapterName": "Structure of Atom",
+      "chapter": "Structure of Atom",
+      "chapterNumber": 2,
+      "chapterId": "structure-of-atom",
+      "displayChapterName": "Structure of Atom",
+      "topic": "Some Important Atomic Terms,Nature of Light and Electromagnetic Spectrum,Particle Nature of Electromagnetic Radiation: Planck’s Quantum,Application of Planck’s Quantum Theory"
+    },
+    {
+      "lectureNumber": 6,
+      "subject": "Chemistry",
+      "chapterName": "Structure of Atom",
+      "chapter": "Structure of Atom",
+      "chapterNumber": 2,
+      "chapterId": "structure-of-atom",
+      "displayChapterName": "Structure of Atom",
+      "topic": "Some Important Atomic Terms,Nature of Light and Electromagnetic Spectrum,Particle Nature of Electromagnetic Radiation: Planck’s Quantum,Application of Planck’s Quantum Theory"
+    },
+    {
+      "lectureNumber": 7,
+      "subject": "Chemistry",
+      "chapterName": "Structure of Atom",
+      "chapter": "Structure of Atom",
+      "chapterNumber": 2,
+      "chapterId": "structure-of-atom",
+      "displayChapterName": "Structure of Atom",
+      "topic": "Bohr's Model for Hydrogen Atom"
+    },
+    {
+      "lectureNumber": 8,
+      "subject": "Chemistry",
+      "chapterName": "Structure of Atom",
+      "chapter": "Structure of Atom",
+      "chapterNumber": 2,
+      "chapterId": "structure-of-atom",
+      "displayChapterName": "Structure of Atom",
+      "topic": "Bohr's Model for Hydrogen Atom"
+    },
+    {
+      "lectureNumber": 9,
+      "subject": "Chemistry",
+      "chapterName": "Structure of Atom",
+      "chapter": "Structure of Atom",
+      "chapterNumber": 2,
+      "chapterId": "structure-of-atom",
+      "displayChapterName": "Structure of Atom",
+      "topic": "Ionization Energy of Hydrogen and Hydrogen-Like Particles"
+    },
+    {
+      "lectureNumber": 10,
+      "subject": "Chemistry",
+      "chapterName": "Structure of Atom",
+      "chapter": "Structure of Atom",
+      "chapterNumber": 2,
+      "chapterId": "structure-of-atom",
+      "displayChapterName": "Structure of Atom",
+      "topic": "Spectrum: Evidence for the Quantized Electronic Energy Levels"
+    },
+    {
+      "lectureNumber": 11,
+      "subject": "Chemistry",
+      "chapterName": "Structure of Atom",
+      "chapter": "Structure of Atom",
+      "chapterNumber": 2,
+      "chapterId": "structure-of-atom",
+      "displayChapterName": "Structure of Atom",
+      "topic": "Spectrum: Evidence for the Quantized Electronic Energy Levels"
+    },
+    {
+      "lectureNumber": 12,
+      "subject": "Chemistry",
+      "chapterName": "Structure of Atom",
+      "chapter": "Structure of Atom",
+      "chapterNumber": 2,
+      "chapterId": "structure-of-atom",
+      "displayChapterName": "Structure of Atom",
+      "topic": "Quantum Mechanical Model of the Atom"
+    },
+    {
+      "lectureNumber": 13,
+      "subject": "Chemistry",
+      "chapterName": "Structure of Atom",
+      "chapter": "Structure of Atom",
+      "chapterNumber": 2,
+      "chapterId": "structure-of-atom",
+      "displayChapterName": "Structure of Atom",
+      "topic": "Quantum Number"
+    },
+    {
+      "lectureNumber": 14,
+      "subject": "Chemistry",
+      "chapterName": "Structure of Atom",
+      "chapter": "Structure of Atom",
+      "chapterNumber": 2,
+      "chapterId": "structure-of-atom",
+      "displayChapterName": "Structure of Atom",
+      "topic": "Rules for Filling of electrons in Orbitals in Atom,Exchange and Pairing energy"
+    },
+    {
+      "lectureNumber": 15,
+      "subject": "Chemistry",
+      "chapterName": "Structure of Atom",
+      "chapter": "Structure of Atom",
+      "chapterNumber": 2,
+      "chapterId": "structure-of-atom",
+      "displayChapterName": "Structure of Atom",
+      "topic": "Rules for Filling of electrons in Orbitals in Atom,Exchange and Pairing energy"
+    },
+    {
+      "lectureNumber": 1,
+      "subject": "Chemistry",
+      "chapterName": "State of matter",
+      "chapter": "State of matter",
+      "chapterNumber": 3,
+      "chapterId": "state-of-matter",
+      "displayChapterName": "State of matter",
+      "topic": "The Gaseous State"
+    },
+    {
+      "lectureNumber": 2,
+      "subject": "Chemistry",
+      "chapterName": "State of matter",
+      "chapter": "State of matter",
+      "chapterNumber": 3,
+      "chapterId": "state-of-matter",
+      "displayChapterName": "State of matter",
+      "topic": "The Gaseous State"
+    },
+    {
+      "lectureNumber": 3,
+      "subject": "Chemistry",
+      "chapterName": "State of matter",
+      "chapter": "State of matter",
+      "chapterNumber": 3,
+      "chapterId": "state-of-matter",
+      "displayChapterName": "State of matter",
+      "topic": "The Gas Laws"
+    },
+    {
+      "lectureNumber": 4,
+      "subject": "Chemistry",
+      "chapterName": "State of matter",
+      "chapter": "State of matter",
+      "chapterNumber": 3,
+      "chapterId": "state-of-matter",
+      "displayChapterName": "State of matter",
+      "topic": "The Gas Laws,Ideal Gas Equation"
+    },
+    {
+      "lectureNumber": 5,
+      "subject": "Chemistry",
+      "chapterName": "State of matter",
+      "chapter": "State of matter",
+      "chapterNumber": 3,
+      "chapterId": "state-of-matter",
+      "displayChapterName": "State of matter",
+      "topic": "Dalton's Law of Partial Pressures Graham's Law of Diffusion/effusion"
+    },
+    {
+      "lectureNumber": 6,
+      "subject": "Chemistry",
+      "chapterName": "State of matter",
+      "chapter": "State of matter",
+      "chapterNumber": 3,
+      "chapterId": "state-of-matter",
+      "displayChapterName": "State of matter",
+      "topic": "Kinetic Molecular Theory of Gases Kinetic Gas Equation Explanation of Gas Law from Kinetic Theory Kinetic Energy and Molecular Speeds"
+    },
+    {
+      "lectureNumber": 7,
+      "subject": "Chemistry",
+      "chapterName": "State of matter",
+      "chapter": "State of matter",
+      "chapterNumber": 3,
+      "chapterId": "state-of-matter",
+      "displayChapterName": "State of matter",
+      "topic": "Maxwell-Boltzmann Distribution of Molecular Speeds Behaviour of Real Gases : Deviation from Ideal Gas Behaviour"
+    },
+    {
+      "lectureNumber": 8,
+      "subject": "Chemistry",
+      "chapterName": "State of matter",
+      "chapter": "State of matter",
+      "chapterNumber": 3,
+      "chapterId": "state-of-matter",
+      "displayChapterName": "State of matter",
+      "topic": "Equation of State for Real Gases (Van der Waals Equation)"
+    },
+    {
+      "lectureNumber": 9,
+      "subject": "Chemistry",
+      "chapterName": "State of matter",
+      "chapter": "State of matter",
+      "chapterNumber": 3,
+      "chapterId": "state-of-matter",
+      "displayChapterName": "State of matter",
+      "topic": "Liquefaction of Gases"
+    },
+    {
+      "lectureNumber": 10,
+      "subject": "Chemistry",
+      "chapterName": "State of matter",
+      "chapter": "State of matter",
+      "chapterNumber": 3,
+      "chapterId": "state-of-matter",
+      "displayChapterName": "State of matter",
+      "topic": "Eudiometry"
+    },
+    {
+      "lectureNumber": 1,
+      "subject": "Chemistry",
+      "chapterName": "Thermodynamics",
+      "chapter": "Thermodynamics",
+      "chapterNumber": 4,
+      "chapterId": "thermodynamics",
+      "displayChapterName": "Thermodynamics",
+      "topic": "Introduction,Basic terms,Classification of system on the basis of nature,State of system"
+    },
+    {
+      "lectureNumber": 2,
+      "subject": "Chemistry",
+      "chapterName": "Thermodynamics",
+      "chapter": "Thermodynamics",
+      "chapterNumber": 4,
+      "chapterId": "thermodynamics",
+      "displayChapterName": "Thermodynamics",
+      "topic": "Types of properties,TYPES OF THERMODYNAMIC PROCESSES ON BASIS OF THE WAY THE PROCESSES ARE CARRIED OUT"
+    },
+    {
+      "lectureNumber": 3,
+      "subject": "Chemistry",
+      "chapterName": "Thermodynamics",
+      "chapter": "Thermodynamics",
+      "chapterNumber": 4,
+      "chapterId": "thermodynamics",
+      "displayChapterName": "Thermodynamics",
+      "topic": "Work, heat and internal energy,First Law of Thermodynamics Enthalpy Heat Capacity"
+    },
+    {
+      "lectureNumber": 4,
+      "subject": "Chemistry",
+      "chapterName": "Thermodynamics",
+      "chapter": "Thermodynamics",
+      "chapterNumber": 4,
+      "chapterId": "thermodynamics",
+      "displayChapterName": "Thermodynamics",
+      "topic": "CALCULATION OF Q, W, ΔU & ΔH IN VARIOUS PROCESS"
+    },
+    {
+      "lectureNumber": 5,
+      "subject": "Chemistry",
+      "chapterName": "Thermodynamics",
+      "chapter": "Thermodynamics",
+      "chapterNumber": 4,
+      "chapterId": "thermodynamics",
+      "displayChapterName": "Thermodynamics",
+      "topic": "Thermochemistry Enthalpy of a substance Standard state of substance Enthalpy of reaction Factor affecting heat of reaction LAWS OF THERMOCHEMISTRY"
+    },
+    {
+      "lectureNumber": 6,
+      "subject": "Chemistry",
+      "chapterName": "Thermodynamics",
+      "chapter": "Thermodynamics",
+      "chapterNumber": 4,
+      "chapterId": "thermodynamics",
+      "displayChapterName": "Thermodynamics",
+      "topic": "Enthalpy change for different type of reaction"
+    },
+    {
+      "lectureNumber": 7,
+      "subject": "Chemistry",
+      "chapterName": "Thermodynamics",
+      "chapter": "Thermodynamics",
+      "chapterNumber": 4,
+      "chapterId": "thermodynamics",
+      "displayChapterName": "Thermodynamics",
+      "topic": "Enthalpy change for different type of reaction"
+    },
+    {
+      "lectureNumber": 8,
+      "subject": "Chemistry",
+      "chapterName": "Thermodynamics",
+      "chapter": "Thermodynamics",
+      "chapterNumber": 4,
+      "chapterId": "thermodynamics",
+      "displayChapterName": "Thermodynamics",
+      "topic": "Limitation of Ist law of thermodynamics Spontaneous process Entropy"
+    },
+    {
+      "lectureNumber": 9,
+      "subject": "Chemistry",
+      "chapterName": "Thermodynamics",
+      "chapter": "Thermodynamics",
+      "chapterNumber": 4,
+      "chapterId": "thermodynamics",
+      "displayChapterName": "Thermodynamics",
+      "topic": "Second law of Thermodynamics ENTROPY CHANGE OF AN IDEAL GAS"
+    },
+    {
+      "lectureNumber": 10,
+      "subject": "Chemistry",
+      "chapterName": "Thermodynamics",
+      "chapter": "Thermodynamics",
+      "chapterNumber": 4,
+      "chapterId": "thermodynamics",
+      "displayChapterName": "Thermodynamics",
+      "topic": "Entropy Change of Solids and liquids Upon Heating Entropy Calculation for solid or liquid systems"
+    },
+    {
+      "lectureNumber": 11,
+      "subject": "Chemistry",
+      "chapterName": "Thermodynamics",
+      "chapter": "Thermodynamics",
+      "chapterNumber": 4,
+      "chapterId": "thermodynamics",
+      "displayChapterName": "Thermodynamics",
+      "topic": "Standard absolute molar entropy Comparing absolute entropies of substance"
+    },
+    {
+      "lectureNumber": 12,
+      "subject": "Chemistry",
+      "chapterName": "Thermodynamics",
+      "chapter": "Thermodynamics",
+      "chapterNumber": 4,
+      "chapterId": "thermodynamics",
+      "displayChapterName": "Thermodynamics",
+      "topic": "Entropy Change (DS) of a Chemical Reaction GIBBS FREE ENERGY"
+    },
+    {
+      "lectureNumber": 13,
+      "subject": "Chemistry",
+      "chapterName": "Thermodynamics",
+      "chapter": "Thermodynamics",
+      "chapterNumber": 4,
+      "chapterId": "thermodynamics",
+      "displayChapterName": "Thermodynamics",
+      "topic": "Entropy Change (DS) of a Chemical Reaction GIBBS FREE ENERGY"
+    },
+    {
+      "lectureNumber": 1,
+      "subject": "Chemistry",
+      "chapterName": "Redox Reaction",
+      "chapter": "Redox Reaction",
+      "chapterNumber": 5,
+      "chapterId": "redox-reaction",
+      "displayChapterName": "Redox Reaction",
+      "topic": "Introduction"
+    },
+    {
+      "lectureNumber": 2,
+      "subject": "Chemistry",
+      "chapterName": "Redox Reaction",
+      "chapter": "Redox Reaction",
+      "chapterNumber": 5,
+      "chapterId": "redox-reaction",
+      "displayChapterName": "Redox Reaction",
+      "topic": "Balancing of Redox Reaction Types of Redox Reaction"
+    },
+    {
+      "lectureNumber": 3,
+      "subject": "Chemistry",
+      "chapterName": "Redox Reaction",
+      "chapter": "Redox Reaction",
+      "chapterNumber": 5,
+      "chapterId": "redox-reaction",
+      "displayChapterName": "Redox Reaction",
+      "topic": "CONCEPT OF n-FACTOR OR"
+    },
+    {
+      "lectureNumber": 4,
+      "subject": "Chemistry",
+      "chapterName": "Redox Reaction",
+      "chapter": "Redox Reaction",
+      "chapterNumber": 5,
+      "chapterId": "redox-reaction",
+      "displayChapterName": "Redox Reaction",
+      "topic": "VALENCY FACTOR"
+    },
+    {
+      "lectureNumber": 5,
+      "subject": "Chemistry",
+      "chapterName": "Redox Reaction",
+      "chapter": "Redox Reaction",
+      "chapterNumber": 5,
+      "chapterId": "redox-reaction",
+      "displayChapterName": "Redox Reaction",
+      "topic": "LAW OF EQUIVALENCE"
+    },
+    {
+      "lectureNumber": 1,
+      "subject": "Chemistry",
+      "chapterName": "Chemical Equilibrium",
+      "chapter": "Chemical Equilibrium",
+      "chapterNumber": 6,
+      "chapterId": "chemical-equilibrium",
+      "displayChapterName": "Chemical Equilibrium",
+      "topic": "Introduction,Characteristics of chemical equilibrium Law of mass action"
+    },
+    {
+      "lectureNumber": 2,
+      "subject": "Chemistry",
+      "chapterName": "Chemical Equilibrium",
+      "chapter": "Chemical Equilibrium",
+      "chapterNumber": 6,
+      "chapterId": "chemical-equilibrium",
+      "displayChapterName": "Chemical Equilibrium",
+      "topic": "Law of mass action"
+    },
+    {
+      "lectureNumber": 3,
+      "subject": "Chemistry",
+      "chapterName": "Chemical Equilibrium",
+      "chapter": "Chemical Equilibrium",
+      "chapterNumber": 6,
+      "chapterId": "chemical-equilibrium",
+      "displayChapterName": "Chemical Equilibrium",
+      "topic": "Variation of equilibrium constant with the change of stoichiometric coefficients,Multiple Equilibrium"
+    },
+    {
+      "lectureNumber": 4,
+      "subject": "Chemistry",
+      "chapterName": "Chemical Equilibrium",
+      "chapter": "Chemical Equilibrium",
+      "chapterNumber": 6,
+      "chapterId": "chemical-equilibrium",
+      "displayChapterName": "Chemical Equilibrium",
+      "topic": "Reaction Quotient"
+    },
+    {
+      "lectureNumber": 5,
+      "subject": "Chemistry",
+      "chapterName": "Chemical Equilibrium",
+      "chapter": "Chemical Equilibrium",
+      "chapterNumber": 6,
+      "chapterId": "chemical-equilibrium",
+      "displayChapterName": "Chemical Equilibrium",
+      "topic": "Equilibrium Constant of Various equilibrium,"
+    },
+    {
+      "lectureNumber": 6,
+      "subject": "Chemistry",
+      "chapterName": "Chemical Equilibrium",
+      "chapter": "Chemical Equilibrium",
+      "chapterNumber": 6,
+      "chapterId": "chemical-equilibrium",
+      "displayChapterName": "Chemical Equilibrium",
+      "topic": "Calculation of degree of dissociation from vapour density measurement"
+    },
+    {
+      "lectureNumber": 7,
+      "subject": "Chemistry",
+      "chapterName": "Chemical Equilibrium",
+      "chapter": "Chemical Equilibrium",
+      "chapterNumber": 6,
+      "chapterId": "chemical-equilibrium",
+      "displayChapterName": "Chemical Equilibrium",
+      "topic": "Le chatelier's principle"
+    },
+    {
+      "lectureNumber": 8,
+      "subject": "Chemistry",
+      "chapterName": "Chemical Equilibrium",
+      "chapter": "Chemical Equilibrium",
+      "chapterNumber": 6,
+      "chapterId": "chemical-equilibrium",
+      "displayChapterName": "Chemical Equilibrium",
+      "topic": "Effect of temperature on equilibrium constant Free energy and chemical equilibrium Physical Equilibrium"
+    },
+    {
+      "lectureNumber": 1,
+      "subject": "Chemistry",
+      "chapterName": "Ionic Equilibrium",
+      "chapter": "Ionic Equilibrium",
+      "chapterNumber": 7,
+      "chapterId": "ionic-equilibrium",
+      "displayChapterName": "Ionic Equilibrium",
+      "topic": "Type of electrolytes,Different theory for acid and base,The autoionization of water"
+    },
+    {
+      "lectureNumber": 2,
+      "subject": "Chemistry",
+      "chapterName": "Ionic Equilibrium",
+      "chapter": "Ionic Equilibrium",
+      "chapterNumber": 7,
+      "chapterId": "ionic-equilibrium",
+      "displayChapterName": "Ionic Equilibrium",
+      "topic": "The pH–Scale Ionisation of weak electrolyte"
+    },
+    {
+      "lectureNumber": 3,
+      "subject": "Chemistry",
+      "chapterName": "Ionic Equilibrium",
+      "chapter": "Ionic Equilibrium",
+      "chapterNumber": 7,
+      "chapterId": "ionic-equilibrium",
+      "displayChapterName": "Ionic Equilibrium",
+      "topic": "Common ion effect and levelling effect"
+    },
+    {
+      "lectureNumber": 4,
+      "subject": "Chemistry",
+      "chapterName": "Ionic Equilibrium",
+      "chapter": "Ionic Equilibrium",
+      "chapterNumber": 7,
+      "chapterId": "ionic-equilibrium",
+      "displayChapterName": "Ionic Equilibrium",
+      "topic": "pH–Calculation"
+    },
+    {
+      "lectureNumber": 5,
+      "subject": "Chemistry",
+      "chapterName": "Ionic Equilibrium",
+      "chapter": "Ionic Equilibrium",
+      "chapterNumber": 7,
+      "chapterId": "ionic-equilibrium",
+      "displayChapterName": "Ionic Equilibrium",
+      "topic": "Buffer Solution"
+    },
+    {
+      "lectureNumber": 6,
+      "subject": "Chemistry",
+      "chapterName": "Ionic Equilibrium",
+      "chapter": "Ionic Equilibrium",
+      "chapterNumber": 7,
+      "chapterId": "ionic-equilibrium",
+      "displayChapterName": "Ionic Equilibrium",
+      "topic": "Salt hydrolysis"
+    },
+    {
+      "lectureNumber": 7,
+      "subject": "Chemistry",
+      "chapterName": "Ionic Equilibrium",
+      "chapter": "Ionic Equilibrium",
+      "chapterNumber": 7,
+      "chapterId": "ionic-equilibrium",
+      "displayChapterName": "Ionic Equilibrium",
+      "topic": "Indicator Acid-base titration Solubility and Solubility product"
+    }
+  ],
+  "trackerSnapshot": {
+    "source": "User-provided Tracker 360 screenshot",
+    "chapterLectureTotals": {
+      "Some Basic Concepts of Chemistry": 21,
+      "Structure of Atom": 18,
+      "State of matter": 5
+    },
+    "note": "The screenshot provides current chapter totals for the first three chapters. The complete PDF lecture records are preserved below because the screenshot does not provide the names/topics of added or removed lectures."
+  }
+}

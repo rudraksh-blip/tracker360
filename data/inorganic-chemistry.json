@@ -1,0 +1,926 @@
+{
+  "schemaVersion": "tracker360-chemistry-v2",
+  "displayRule": "Always display chapterName/displayChapterName; never generate Chapter 1, Chapter 2, etc.",
+  "subject": "Chemistry",
+  "batchName": "Arjuna JEE 2027",
+  "totalChapters": 5,
+  "totalLectures": 48,
+  "chapters": [
+    {
+      "chapterNumber": 1,
+      "chapterId": "chemistry-inorganic-ch-01",
+      "chapterName": "Classification of Elements and Periodicity in Properties",
+      "name": "Classification of Elements and Periodicity in Properties",
+      "displayName": "Classification of Elements and Periodicity in Properties",
+      "lectureCount": 14,
+      "lectures": [
+        {
+          "lectureNumber": 1,
+          "subject": "Chemistry",
+          "chapterName": "Classification of Elements and Periodicity in Properties",
+          "chapter": "Classification of Elements and Periodicity in Properties",
+          "chapterNumber": 1,
+          "chapterId": "chemistry-inorganic-ch-01",
+          "displayChapterName": "Classification of Elements and Periodicity in Properties"
+        },
+        {
+          "lectureNumber": 2,
+          "subject": "Chemistry",
+          "chapterName": "Classification of Elements and Periodicity in Properties",
+          "chapter": "Classification of Elements and Periodicity in Properties",
+          "chapterNumber": 1,
+          "chapterId": "chemistry-inorganic-ch-01",
+          "displayChapterName": "Classification of Elements and Periodicity in Properties"
+        },
+        {
+          "lectureNumber": 3,
+          "subject": "Chemistry",
+          "chapterName": "Classification of Elements and Periodicity in Properties",
+          "chapter": "Classification of Elements and Periodicity in Properties",
+          "chapterNumber": 1,
+          "chapterId": "chemistry-inorganic-ch-01",
+          "displayChapterName": "Classification of Elements and Periodicity in Properties"
+        },
+        {
+          "lectureNumber": 4,
+          "subject": "Chemistry",
+          "chapterName": "Classification of Elements and Periodicity in Properties",
+          "chapter": "Classification of Elements and Periodicity in Properties",
+          "chapterNumber": 1,
+          "chapterId": "chemistry-inorganic-ch-01",
+          "displayChapterName": "Classification of Elements and Periodicity in Properties"
+        },
+        {
+          "lectureNumber": 5,
+          "subject": "Chemistry",
+          "chapterName": "Classification of Elements and Periodicity in Properties",
+          "chapter": "Classification of Elements and Periodicity in Properties",
+          "chapterNumber": 1,
+          "chapterId": "chemistry-inorganic-ch-01",
+          "displayChapterName": "Classification of Elements and Periodicity in Properties"
+        },
+        {
+          "lectureNumber": 6,
+          "subject": "Chemistry",
+          "chapterName": "Classification of Elements and Periodicity in Properties",
+          "chapter": "Classification of Elements and Periodicity in Properties",
+          "chapterNumber": 1,
+          "chapterId": "chemistry-inorganic-ch-01",
+          "displayChapterName": "Classification of Elements and Periodicity in Properties"
+        },
+        {
+          "lectureNumber": 7,
+          "subject": "Chemistry",
+          "chapterName": "Classification of Elements and Periodicity in Properties",
+          "chapter": "Classification of Elements and Periodicity in Properties",
+          "chapterNumber": 1,
+          "chapterId": "chemistry-inorganic-ch-01",
+          "displayChapterName": "Classification of Elements and Periodicity in Properties"
+        },
+        {
+          "lectureNumber": 8,
+          "subject": "Chemistry",
+          "chapterName": "Classification of Elements and Periodicity in Properties",
+          "chapter": "Classification of Elements and Periodicity in Properties",
+          "chapterNumber": 1,
+          "chapterId": "chemistry-inorganic-ch-01",
+          "displayChapterName": "Classification of Elements and Periodicity in Properties"
+        },
+        {
+          "lectureNumber": 9,
+          "subject": "Chemistry",
+          "chapterName": "Classification of Elements and Periodicity in Properties",
+          "chapter": "Classification of Elements and Periodicity in Properties",
+          "chapterNumber": 1,
+          "chapterId": "chemistry-inorganic-ch-01",
+          "displayChapterName": "Classification of Elements and Periodicity in Properties"
+        },
+        {
+          "lectureNumber": 10,
+          "subject": "Chemistry",
+          "chapterName": "Classification of Elements and Periodicity in Properties",
+          "chapter": "Classification of Elements and Periodicity in Properties",
+          "chapterNumber": 1,
+          "chapterId": "chemistry-inorganic-ch-01",
+          "displayChapterName": "Classification of Elements and Periodicity in Properties"
+        },
+        {
+          "lectureNumber": 11,
+          "subject": "Chemistry",
+          "chapterName": "Classification of Elements and Periodicity in Properties",
+          "chapter": "Classification of Elements and Periodicity in Properties",
+          "chapterNumber": 1,
+          "chapterId": "chemistry-inorganic-ch-01",
+          "displayChapterName": "Classification of Elements and Periodicity in Properties"
+        },
+        {
+          "lectureNumber": 12,
+          "subject": "Chemistry",
+          "chapterName": "Classification of Elements and Periodicity in Properties",
+          "chapter": "Classification of Elements and Periodicity in Properties",
+          "chapterNumber": 1,
+          "chapterId": "chemistry-inorganic-ch-01",
+          "displayChapterName": "Classification of Elements and Periodicity in Properties"
+        },
+        {
+          "lectureNumber": 13,
+          "subject": "Chemistry",
+          "chapterName": "Classification of Elements and Periodicity in Properties",
+          "chapter": "Classification of Elements and Periodicity in Properties",
+          "chapterNumber": 1,
+          "chapterId": "chemistry-inorganic-ch-01",
+          "displayChapterName": "Classification of Elements and Periodicity in Properties"
+        },
+        {
+          "lectureNumber": 14,
+          "subject": "Chemistry",
+          "chapterName": "Classification of Elements and Periodicity in Properties",
+          "chapter": "Classification of Elements and Periodicity in Properties",
+          "chapterNumber": 1,
+          "chapterId": "chemistry-inorganic-ch-01",
+          "displayChapterName": "Classification of Elements and Periodicity in Properties"
+        }
+      ]
+    },
+    {
+      "chapterNumber": 2,
+      "chapterId": "chemistry-inorganic-ch-02",
+      "chapterName": "Chemical Bonding and Molecular Structure",
+      "name": "Chemical Bonding and Molecular Structure",
+      "displayName": "Chemical Bonding and Molecular Structure",
+      "lectureCount": 26,
+      "lectures": [
+        {
+          "lectureNumber": 1,
+          "subject": "Chemistry",
+          "chapterName": "Chemical Bonding and Molecular Structure",
+          "chapter": "Chemical Bonding and Molecular Structure",
+          "chapterNumber": 2,
+          "chapterId": "chemistry-inorganic-ch-02",
+          "displayChapterName": "Chemical Bonding and Molecular Structure"
+        },
+        {
+          "lectureNumber": 2,
+          "subject": "Chemistry",
+          "chapterName": "Chemical Bonding and Molecular Structure",
+          "chapter": "Chemical Bonding and Molecular Structure",
+          "chapterNumber": 2,
+          "chapterId": "chemistry-inorganic-ch-02",
+          "displayChapterName": "Chemical Bonding and Molecular Structure"
+        },
+        {
+          "lectureNumber": 3,
+          "subject": "Chemistry",
+          "chapterName": "Chemical Bonding and Molecular Structure",
+          "chapter": "Chemical Bonding and Molecular Structure",
+          "chapterNumber": 2,
+          "chapterId": "chemistry-inorganic-ch-02",
+          "displayChapterName": "Chemical Bonding and Molecular Structure"
+        },
+        {
+          "lectureNumber": 4,
+          "subject": "Chemistry",
+          "chapterName": "Chemical Bonding and Molecular Structure",
+          "chapter": "Chemical Bonding and Molecular Structure",
+          "chapterNumber": 2,
+          "chapterId": "chemistry-inorganic-ch-02",
+          "displayChapterName": "Chemical Bonding and Molecular Structure"
+        },
+        {
+          "lectureNumber": 5,
+          "subject": "Chemistry",
+          "chapterName": "Chemical Bonding and Molecular Structure",
+          "chapter": "Chemical Bonding and Molecular Structure",
+          "chapterNumber": 2,
+          "chapterId": "chemistry-inorganic-ch-02",
+          "displayChapterName": "Chemical Bonding and Molecular Structure"
+        },
+        {
+          "lectureNumber": 6,
+          "subject": "Chemistry",
+          "chapterName": "Chemical Bonding and Molecular Structure",
+          "chapter": "Chemical Bonding and Molecular Structure",
+          "chapterNumber": 2,
+          "chapterId": "chemistry-inorganic-ch-02",
+          "displayChapterName": "Chemical Bonding and Molecular Structure"
+        },
+        {
+          "lectureNumber": 7,
+          "subject": "Chemistry",
+          "chapterName": "Chemical Bonding and Molecular Structure",
+          "chapter": "Chemical Bonding and Molecular Structure",
+          "chapterNumber": 2,
+          "chapterId": "chemistry-inorganic-ch-02",
+          "displayChapterName": "Chemical Bonding and Molecular Structure"
+        },
+        {
+          "lectureNumber": 8,
+          "subject": "Chemistry",
+          "chapterName": "Chemical Bonding and Molecular Structure",
+          "chapter": "Chemical Bonding and Molecular Structure",
+          "chapterNumber": 2,
+          "chapterId": "chemistry-inorganic-ch-02",
+          "displayChapterName": "Chemical Bonding and Molecular Structure"
+        },
+        {
+          "lectureNumber": 9,
+          "subject": "Chemistry",
+          "chapterName": "Chemical Bonding and Molecular Structure",
+          "chapter": "Chemical Bonding and Molecular Structure",
+          "chapterNumber": 2,
+          "chapterId": "chemistry-inorganic-ch-02",
+          "displayChapterName": "Chemical Bonding and Molecular Structure"
+        },
+        {
+          "lectureNumber": 10,
+          "subject": "Chemistry",
+          "chapterName": "Chemical Bonding and Molecular Structure",
+          "chapter": "Chemical Bonding and Molecular Structure",
+          "chapterNumber": 2,
+          "chapterId": "chemistry-inorganic-ch-02",
+          "displayChapterName": "Chemical Bonding and Molecular Structure"
+        },
+        {
+          "lectureNumber": 11,
+          "subject": "Chemistry",
+          "chapterName": "Chemical Bonding and Molecular Structure",
+          "chapter": "Chemical Bonding and Molecular Structure",
+          "chapterNumber": 2,
+          "chapterId": "chemistry-inorganic-ch-02",
+          "displayChapterName": "Chemical Bonding and Molecular Structure"
+        },
+        {
+          "lectureNumber": 12,
+          "subject": "Chemistry",
+          "chapterName": "Chemical Bonding and Molecular Structure",
+          "chapter": "Chemical Bonding and Molecular Structure",
+          "chapterNumber": 2,
+          "chapterId": "chemistry-inorganic-ch-02",
+          "displayChapterName": "Chemical Bonding and Molecular Structure"
+        },
+        {
+          "lectureNumber": 13,
+          "subject": "Chemistry",
+          "chapterName": "Chemical Bonding and Molecular Structure",
+          "chapter": "Chemical Bonding and Molecular Structure",
+          "chapterNumber": 2,
+          "chapterId": "chemistry-inorganic-ch-02",
+          "displayChapterName": "Chemical Bonding and Molecular Structure"
+        },
+        {
+          "lectureNumber": 14,
+          "subject": "Chemistry",
+          "chapterName": "Chemical Bonding and Molecular Structure",
+          "chapter": "Chemical Bonding and Molecular Structure",
+          "chapterNumber": 2,
+          "chapterId": "chemistry-inorganic-ch-02",
+          "displayChapterName": "Chemical Bonding and Molecular Structure"
+        },
+        {
+          "lectureNumber": 15,
+          "subject": "Chemistry",
+          "chapterName": "Chemical Bonding and Molecular Structure",
+          "chapter": "Chemical Bonding and Molecular Structure",
+          "chapterNumber": 2,
+          "chapterId": "chemistry-inorganic-ch-02",
+          "displayChapterName": "Chemical Bonding and Molecular Structure"
+        },
+        {
+          "lectureNumber": 16,
+          "subject": "Chemistry",
+          "chapterName": "Chemical Bonding and Molecular Structure",
+          "chapter": "Chemical Bonding and Molecular Structure",
+          "chapterNumber": 2,
+          "chapterId": "chemistry-inorganic-ch-02",
+          "displayChapterName": "Chemical Bonding and Molecular Structure"
+        },
+        {
+          "lectureNumber": 17,
+          "subject": "Chemistry",
+          "chapterName": "Chemical Bonding and Molecular Structure",
+          "chapter": "Chemical Bonding and Molecular Structure",
+          "chapterNumber": 2,
+          "chapterId": "chemistry-inorganic-ch-02",
+          "displayChapterName": "Chemical Bonding and Molecular Structure"
+        },
+        {
+          "lectureNumber": 18,
+          "subject": "Chemistry",
+          "chapterName": "Chemical Bonding and Molecular Structure",
+          "chapter": "Chemical Bonding and Molecular Structure",
+          "chapterNumber": 2,
+          "chapterId": "chemistry-inorganic-ch-02",
+          "displayChapterName": "Chemical Bonding and Molecular Structure"
+        },
+        {
+          "lectureNumber": 19,
+          "subject": "Chemistry",
+          "chapterName": "Chemical Bonding and Molecular Structure",
+          "chapter": "Chemical Bonding and Molecular Structure",
+          "chapterNumber": 2,
+          "chapterId": "chemistry-inorganic-ch-02",
+          "displayChapterName": "Chemical Bonding and Molecular Structure"
+        },
+        {
+          "lectureNumber": 20,
+          "subject": "Chemistry",
+          "chapterName": "Chemical Bonding and Molecular Structure",
+          "chapter": "Chemical Bonding and Molecular Structure",
+          "chapterNumber": 2,
+          "chapterId": "chemistry-inorganic-ch-02",
+          "displayChapterName": "Chemical Bonding and Molecular Structure"
+        },
+        {
+          "lectureNumber": 21,
+          "subject": "Chemistry",
+          "chapterName": "Chemical Bonding and Molecular Structure",
+          "chapter": "Chemical Bonding and Molecular Structure",
+          "chapterNumber": 2,
+          "chapterId": "chemistry-inorganic-ch-02",
+          "displayChapterName": "Chemical Bonding and Molecular Structure"
+        },
+        {
+          "lectureNumber": 22,
+          "subject": "Chemistry",
+          "chapterName": "Chemical Bonding and Molecular Structure",
+          "chapter": "Chemical Bonding and Molecular Structure",
+          "chapterNumber": 2,
+          "chapterId": "chemistry-inorganic-ch-02",
+          "displayChapterName": "Chemical Bonding and Molecular Structure"
+        },
+        {
+          "lectureNumber": 23,
+          "subject": "Chemistry",
+          "chapterName": "Chemical Bonding and Molecular Structure",
+          "chapter": "Chemical Bonding and Molecular Structure",
+          "chapterNumber": 2,
+          "chapterId": "chemistry-inorganic-ch-02",
+          "displayChapterName": "Chemical Bonding and Molecular Structure"
+        },
+        {
+          "lectureNumber": 24,
+          "subject": "Chemistry",
+          "chapterName": "Chemical Bonding and Molecular Structure",
+          "chapter": "Chemical Bonding and Molecular Structure",
+          "chapterNumber": 2,
+          "chapterId": "chemistry-inorganic-ch-02",
+          "displayChapterName": "Chemical Bonding and Molecular Structure"
+        },
+        {
+          "lectureNumber": 25,
+          "subject": "Chemistry",
+          "chapterName": "Chemical Bonding and Molecular Structure",
+          "chapter": "Chemical Bonding and Molecular Structure",
+          "chapterNumber": 2,
+          "chapterId": "chemistry-inorganic-ch-02",
+          "displayChapterName": "Chemical Bonding and Molecular Structure"
+        },
+        {
+          "lectureNumber": 26,
+          "subject": "Chemistry",
+          "chapterName": "Chemical Bonding and Molecular Structure",
+          "chapter": "Chemical Bonding and Molecular Structure",
+          "chapterNumber": 2,
+          "chapterId": "chemistry-inorganic-ch-02",
+          "displayChapterName": "Chemical Bonding and Molecular Structure"
+        }
+      ]
+    },
+    {
+      "chapterNumber": 3,
+      "chapterId": "chemistry-inorganic-ch-03",
+      "chapterName": "P-block Elements (Group 13 and 14)",
+      "name": "P-block Elements (Group 13 and 14)",
+      "displayName": "P-block Elements (Group 13 and 14)",
+      "lectureCount": 5,
+      "lectures": [
+        {
+          "lectureNumber": 1,
+          "subject": "Chemistry",
+          "chapterName": "P-block Elements (Group 13 and 14)",
+          "chapter": "P-block Elements (Group 13 and 14)",
+          "chapterNumber": 3,
+          "chapterId": "chemistry-inorganic-ch-03",
+          "displayChapterName": "P-block Elements (Group 13 and 14)"
+        },
+        {
+          "lectureNumber": 2,
+          "subject": "Chemistry",
+          "chapterName": "P-block Elements (Group 13 and 14)",
+          "chapter": "P-block Elements (Group 13 and 14)",
+          "chapterNumber": 3,
+          "chapterId": "chemistry-inorganic-ch-03",
+          "displayChapterName": "P-block Elements (Group 13 and 14)"
+        },
+        {
+          "lectureNumber": 3,
+          "subject": "Chemistry",
+          "chapterName": "P-block Elements (Group 13 and 14)",
+          "chapter": "P-block Elements (Group 13 and 14)",
+          "chapterNumber": 3,
+          "chapterId": "chemistry-inorganic-ch-03",
+          "displayChapterName": "P-block Elements (Group 13 and 14)"
+        },
+        {
+          "lectureNumber": 4,
+          "subject": "Chemistry",
+          "chapterName": "P-block Elements (Group 13 and 14)",
+          "chapter": "P-block Elements (Group 13 and 14)",
+          "chapterNumber": 3,
+          "chapterId": "chemistry-inorganic-ch-03",
+          "displayChapterName": "P-block Elements (Group 13 and 14)"
+        },
+        {
+          "lectureNumber": 5,
+          "subject": "Chemistry",
+          "chapterName": "P-block Elements (Group 13 and 14)",
+          "chapter": "P-block Elements (Group 13 and 14)",
+          "chapterNumber": 3,
+          "chapterId": "chemistry-inorganic-ch-03",
+          "displayChapterName": "P-block Elements (Group 13 and 14)"
+        }
+      ]
+    },
+    {
+      "chapterNumber": 4,
+      "chapterId": "chemistry-inorganic-ch-04",
+      "chapterName": "S-block Element",
+      "name": "S-block Element",
+      "displayName": "S-block Element",
+      "lectureCount": 2,
+      "lectures": [
+        {
+          "lectureNumber": 1,
+          "subject": "Chemistry",
+          "chapterName": "S-block Element",
+          "chapter": "S-block Element",
+          "chapterNumber": 4,
+          "chapterId": "chemistry-inorganic-ch-04",
+          "displayChapterName": "S-block Element"
+        },
+        {
+          "lectureNumber": 2,
+          "subject": "Chemistry",
+          "chapterName": "S-block Element",
+          "chapter": "S-block Element",
+          "chapterNumber": 4,
+          "chapterId": "chemistry-inorganic-ch-04",
+          "displayChapterName": "S-block Element"
+        }
+      ]
+    },
+    {
+      "chapterNumber": 5,
+      "chapterId": "chemistry-inorganic-ch-05",
+      "chapterName": "Hydrogen and its Compound",
+      "name": "Hydrogen and its Compound",
+      "displayName": "Hydrogen and its Compound",
+      "lectureCount": 1,
+      "lectures": [
+        {
+          "lectureNumber": 1,
+          "subject": "Chemistry",
+          "chapterName": "Hydrogen and its Compound",
+          "chapter": "Hydrogen and its Compound",
+          "chapterNumber": 5,
+          "chapterId": "chemistry-inorganic-ch-05",
+          "displayChapterName": "Hydrogen and its Compound"
+        }
+      ]
+    }
+  ],
+  "lectureRecords": [
+    {
+      "lectureNumber": 1,
+      "subject": "Chemistry",
+      "chapterName": "Classification of Elements and Periodicity in Properties",
+      "chapter": "Classification of Elements and Periodicity in Properties",
+      "chapterNumber": 1,
+      "chapterId": "chemistry-inorganic-ch-01",
+      "displayChapterName": "Classification of Elements and Periodicity in Properties"
+    },
+    {
+      "lectureNumber": 2,
+      "subject": "Chemistry",
+      "chapterName": "Classification of Elements and Periodicity in Properties",
+      "chapter": "Classification of Elements and Periodicity in Properties",
+      "chapterNumber": 1,
+      "chapterId": "chemistry-inorganic-ch-01",
+      "displayChapterName": "Classification of Elements and Periodicity in Properties"
+    },
+    {
+      "lectureNumber": 3,
+      "subject": "Chemistry",
+      "chapterName": "Classification of Elements and Periodicity in Properties",
+      "chapter": "Classification of Elements and Periodicity in Properties",
+      "chapterNumber": 1,
+      "chapterId": "chemistry-inorganic-ch-01",
+      "displayChapterName": "Classification of Elements and Periodicity in Properties"
+    },
+    {
+      "lectureNumber": 4,
+      "subject": "Chemistry",
+      "chapterName": "Classification of Elements and Periodicity in Properties",
+      "chapter": "Classification of Elements and Periodicity in Properties",
+      "chapterNumber": 1,
+      "chapterId": "chemistry-inorganic-ch-01",
+      "displayChapterName": "Classification of Elements and Periodicity in Properties"
+    },
+    {
+      "lectureNumber": 5,
+      "subject": "Chemistry",
+      "chapterName": "Classification of Elements and Periodicity in Properties",
+      "chapter": "Classification of Elements and Periodicity in Properties",
+      "chapterNumber": 1,
+      "chapterId": "chemistry-inorganic-ch-01",
+      "displayChapterName": "Classification of Elements and Periodicity in Properties"
+    },
+    {
+      "lectureNumber": 6,
+      "subject": "Chemistry",
+      "chapterName": "Classification of Elements and Periodicity in Properties",
+      "chapter": "Classification of Elements and Periodicity in Properties",
+      "chapterNumber": 1,
+      "chapterId": "chemistry-inorganic-ch-01",
+      "displayChapterName": "Classification of Elements and Periodicity in Properties"
+    },
+    {
+      "lectureNumber": 7,
+      "subject": "Chemistry",
+      "chapterName": "Classification of Elements and Periodicity in Properties",
+      "chapter": "Classification of Elements and Periodicity in Properties",
+      "chapterNumber": 1,
+      "chapterId": "chemistry-inorganic-ch-01",
+      "displayChapterName": "Classification of Elements and Periodicity in Properties"
+    },
+    {
+      "lectureNumber": 8,
+      "subject": "Chemistry",
+      "chapterName": "Classification of Elements and Periodicity in Properties",
+      "chapter": "Classification of Elements and Periodicity in Properties",
+      "chapterNumber": 1,
+      "chapterId": "chemistry-inorganic-ch-01",
+      "displayChapterName": "Classification of Elements and Periodicity in Properties"
+    },
+    {
+      "lectureNumber": 9,
+      "subject": "Chemistry",
+      "chapterName": "Classification of Elements and Periodicity in Properties",
+      "chapter": "Classification of Elements and Periodicity in Properties",
+      "chapterNumber": 1,
+      "chapterId": "chemistry-inorganic-ch-01",
+      "displayChapterName": "Classification of Elements and Periodicity in Properties"
+    },
+    {
+      "lectureNumber": 10,
+      "subject": "Chemistry",
+      "chapterName": "Classification of Elements and Periodicity in Properties",
+      "chapter": "Classification of Elements and Periodicity in Properties",
+      "chapterNumber": 1,
+      "chapterId": "chemistry-inorganic-ch-01",
+      "displayChapterName": "Classification of Elements and Periodicity in Properties"
+    },
+    {
+      "lectureNumber": 11,
+      "subject": "Chemistry",
+      "chapterName": "Classification of Elements and Periodicity in Properties",
+      "chapter": "Classification of Elements and Periodicity in Properties",
+      "chapterNumber": 1,
+      "chapterId": "chemistry-inorganic-ch-01",
+      "displayChapterName": "Classification of Elements and Periodicity in Properties"
+    },
+    {
+      "lectureNumber": 12,
+      "subject": "Chemistry",
+      "chapterName": "Classification of Elements and Periodicity in Properties",
+      "chapter": "Classification of Elements and Periodicity in Properties",
+      "chapterNumber": 1,
+      "chapterId": "chemistry-inorganic-ch-01",
+      "displayChapterName": "Classification of Elements and Periodicity in Properties"
+    },
+    {
+      "lectureNumber": 13,
+      "subject": "Chemistry",
+      "chapterName": "Classification of Elements and Periodicity in Properties",
+      "chapter": "Classification of Elements and Periodicity in Properties",
+      "chapterNumber": 1,
+      "chapterId": "chemistry-inorganic-ch-01",
+      "displayChapterName": "Classification of Elements and Periodicity in Properties"
+    },
+    {
+      "lectureNumber": 14,
+      "subject": "Chemistry",
+      "chapterName": "Classification of Elements and Periodicity in Properties",
+      "chapter": "Classification of Elements and Periodicity in Properties",
+      "chapterNumber": 1,
+      "chapterId": "chemistry-inorganic-ch-01",
+      "displayChapterName": "Classification of Elements and Periodicity in Properties"
+    },
+    {
+      "lectureNumber": 1,
+      "subject": "Chemistry",
+      "chapterName": "Chemical Bonding and Molecular Structure",
+      "chapter": "Chemical Bonding and Molecular Structure",
+      "chapterNumber": 2,
+      "chapterId": "chemistry-inorganic-ch-02",
+      "displayChapterName": "Chemical Bonding and Molecular Structure"
+    },
+    {
+      "lectureNumber": 2,
+      "subject": "Chemistry",
+      "chapterName": "Chemical Bonding and Molecular Structure",
+      "chapter": "Chemical Bonding and Molecular Structure",
+      "chapterNumber": 2,
+      "chapterId": "chemistry-inorganic-ch-02",
+      "displayChapterName": "Chemical Bonding and Molecular Structure"
+    },
+    {
+      "lectureNumber": 3,
+      "subject": "Chemistry",
+      "chapterName": "Chemical Bonding and Molecular Structure",
+      "chapter": "Chemical Bonding and Molecular Structure",
+      "chapterNumber": 2,
+      "chapterId": "chemistry-inorganic-ch-02",
+      "displayChapterName": "Chemical Bonding and Molecular Structure"
+    },
+    {
+      "lectureNumber": 4,
+      "subject": "Chemistry",
+      "chapterName": "Chemical Bonding and Molecular Structure",
+      "chapter": "Chemical Bonding and Molecular Structure",
+      "chapterNumber": 2,
+      "chapterId": "chemistry-inorganic-ch-02",
+      "displayChapterName": "Chemical Bonding and Molecular Structure"
+    },
+    {
+      "lectureNumber": 5,
+      "subject": "Chemistry",
+      "chapterName": "Chemical Bonding and Molecular Structure",
+      "chapter": "Chemical Bonding and Molecular Structure",
+      "chapterNumber": 2,
+      "chapterId": "chemistry-inorganic-ch-02",
+      "displayChapterName": "Chemical Bonding and Molecular Structure"
+    },
+    {
+      "lectureNumber": 6,
+      "subject": "Chemistry",
+      "chapterName": "Chemical Bonding and Molecular Structure",
+      "chapter": "Chemical Bonding and Molecular Structure",
+      "chapterNumber": 2,
+      "chapterId": "chemistry-inorganic-ch-02",
+      "displayChapterName": "Chemical Bonding and Molecular Structure"
+    },
+    {
+      "lectureNumber": 7,
+      "subject": "Chemistry",
+      "chapterName": "Chemical Bonding and Molecular Structure",
+      "chapter": "Chemical Bonding and Molecular Structure",
+      "chapterNumber": 2,
+      "chapterId": "chemistry-inorganic-ch-02",
+      "displayChapterName": "Chemical Bonding and Molecular Structure"
+    },
+    {
+      "lectureNumber": 8,
+      "subject": "Chemistry",
+      "chapterName": "Chemical Bonding and Molecular Structure",
+      "chapter": "Chemical Bonding and Molecular Structure",
+      "chapterNumber": 2,
+      "chapterId": "chemistry-inorganic-ch-02",
+      "displayChapterName": "Chemical Bonding and Molecular Structure"
+    },
+    {
+      "lectureNumber": 9,
+      "subject": "Chemistry",
+      "chapterName": "Chemical Bonding and Molecular Structure",
+      "chapter": "Chemical Bonding and Molecular Structure",
+      "chapterNumber": 2,
+      "chapterId": "chemistry-inorganic-ch-02",
+      "displayChapterName": "Chemical Bonding and Molecular Structure"
+    },
+    {
+      "lectureNumber": 10,
+      "subject": "Chemistry",
+      "chapterName": "Chemical Bonding and Molecular Structure",
+      "chapter": "Chemical Bonding and Molecular Structure",
+      "chapterNumber": 2,
+      "chapterId": "chemistry-inorganic-ch-02",
+      "displayChapterName": "Chemical Bonding and Molecular Structure"
+    },
+    {
+      "lectureNumber": 11,
+      "subject": "Chemistry",
+      "chapterName": "Chemical Bonding and Molecular Structure",
+      "chapter": "Chemical Bonding and Molecular Structure",
+      "chapterNumber": 2,
+      "chapterId": "chemistry-inorganic-ch-02",
+      "displayChapterName": "Chemical Bonding and Molecular Structure"
+    },
+    {
+      "lectureNumber": 12,
+      "subject": "Chemistry",
+      "chapterName": "Chemical Bonding and Molecular Structure",
+      "chapter": "Chemical Bonding and Molecular Structure",
+      "chapterNumber": 2,
+      "chapterId": "chemistry-inorganic-ch-02",
+      "displayChapterName": "Chemical Bonding and Molecular Structure"
+    },
+    {
+      "lectureNumber": 13,
+      "subject": "Chemistry",
+      "chapterName": "Chemical Bonding and Molecular Structure",
+      "chapter": "Chemical Bonding and Molecular Structure",
+      "chapterNumber": 2,
+      "chapterId": "chemistry-inorganic-ch-02",
+      "displayChapterName": "Chemical Bonding and Molecular Structure"
+    },
+    {
+      "lectureNumber": 14,
+      "subject": "Chemistry",
+      "chapterName": "Chemical Bonding and Molecular Structure",
+      "chapter": "Chemical Bonding and Molecular Structure",
+      "chapterNumber": 2,
+      "chapterId": "chemistry-inorganic-ch-02",
+      "displayChapterName": "Chemical Bonding and Molecular Structure"
+    },
+    {
+      "lectureNumber": 15,
+      "subject": "Chemistry",
+      "chapterName": "Chemical Bonding and Molecular Structure",
+      "chapter": "Chemical Bonding and Molecular Structure",
+      "chapterNumber": 2,
+      "chapterId": "chemistry-inorganic-ch-02",
+      "displayChapterName": "Chemical Bonding and Molecular Structure"
+    },
+    {
+      "lectureNumber": 16,
+      "subject": "Chemistry",
+      "chapterName": "Chemical Bonding and Molecular Structure",
+      "chapter": "Chemical Bonding and Molecular Structure",
+      "chapterNumber": 2,
+      "chapterId": "chemistry-inorganic-ch-02",
+      "displayChapterName": "Chemical Bonding and Molecular Structure"
+    },
+    {
+      "lectureNumber": 17,
+      "subject": "Chemistry",
+      "chapterName": "Chemical Bonding and Molecular Structure",
+      "chapter": "Chemical Bonding and Molecular Structure",
+      "chapterNumber": 2,
+      "chapterId": "chemistry-inorganic-ch-02",
+      "displayChapterName": "Chemical Bonding and Molecular Structure"
+    },
+    {
+      "lectureNumber": 18,
+      "subject": "Chemistry",
+      "chapterName": "Chemical Bonding and Molecular Structure",
+      "chapter": "Chemical Bonding and Molecular Structure",
+      "chapterNumber": 2,
+      "chapterId": "chemistry-inorganic-ch-02",
+      "displayChapterName": "Chemical Bonding and Molecular Structure"
+    },
+    {
+      "lectureNumber": 19,
+      "subject": "Chemistry",
+      "chapterName": "Chemical Bonding and Molecular Structure",
+      "chapter": "Chemical Bonding and Molecular Structure",
+      "chapterNumber": 2,
+      "chapterId": "chemistry-inorganic-ch-02",
+      "displayChapterName": "Chemical Bonding and Molecular Structure"
+    },
+    {
+      "lectureNumber": 20,
+      "subject": "Chemistry",
+      "chapterName": "Chemical Bonding and Molecular Structure",
+      "chapter": "Chemical Bonding and Molecular Structure",
+      "chapterNumber": 2,
+      "chapterId": "chemistry-inorganic-ch-02",
+      "displayChapterName": "Chemical Bonding and Molecular Structure"
+    },
+    {
+      "lectureNumber": 21,
+      "subject": "Chemistry",
+      "chapterName": "Chemical Bonding and Molecular Structure",
+      "chapter": "Chemical Bonding and Molecular Structure",
+      "chapterNumber": 2,
+      "chapterId": "chemistry-inorganic-ch-02",
+      "displayChapterName": "Chemical Bonding and Molecular Structure"
+    },
+    {
+      "lectureNumber": 22,
+      "subject": "Chemistry",
+      "chapterName": "Chemical Bonding and Molecular Structure",
+      "chapter": "Chemical Bonding and Molecular Structure",
+      "chapterNumber": 2,
+      "chapterId": "chemistry-inorganic-ch-02",
+      "displayChapterName": "Chemical Bonding and Molecular Structure"
+    },
+    {
+      "lectureNumber": 23,
+      "subject": "Chemistry",
+      "chapterName": "Chemical Bonding and Molecular Structure",
+      "chapter": "Chemical Bonding and Molecular Structure",
+      "chapterNumber": 2,
+      "chapterId": "chemistry-inorganic-ch-02",
+      "displayChapterName": "Chemical Bonding and Molecular Structure"
+    },
+    {
+      "lectureNumber": 24,
+      "subject": "Chemistry",
+      "chapterName": "Chemical Bonding and Molecular Structure",
+      "chapter": "Chemical Bonding and Molecular Structure",
+      "chapterNumber": 2,
+      "chapterId": "chemistry-inorganic-ch-02",
+      "displayChapterName": "Chemical Bonding and Molecular Structure"
+    },
+    {
+      "lectureNumber": 25,
+      "subject": "Chemistry",
+      "chapterName": "Chemical Bonding and Molecular Structure",
+      "chapter": "Chemical Bonding and Molecular Structure",
+      "chapterNumber": 2,
+      "chapterId": "chemistry-inorganic-ch-02",
+      "displayChapterName": "Chemical Bonding and Molecular Structure"
+    },
+    {
+      "lectureNumber": 26,
+      "subject": "Chemistry",
+      "chapterName": "Chemical Bonding and Molecular Structure",
+      "chapter": "Chemical Bonding and Molecular Structure",
+      "chapterNumber": 2,
+      "chapterId": "chemistry-inorganic-ch-02",
+      "displayChapterName": "Chemical Bonding and Molecular Structure"
+    },
+    {
+      "lectureNumber": 1,
+      "subject": "Chemistry",
+      "chapterName": "P-block Elements (Group 13 and 14)",
+      "chapter": "P-block Elements (Group 13 and 14)",
+      "chapterNumber": 3,
+      "chapterId": "chemistry-inorganic-ch-03",
+      "displayChapterName": "P-block Elements (Group 13 and 14)"
+    },
+    {
+      "lectureNumber": 2,
+      "subject": "Chemistry",
+      "chapterName": "P-block Elements (Group 13 and 14)",
+      "chapter": "P-block Elements (Group 13 and 14)",
+      "chapterNumber": 3,
+      "chapterId": "chemistry-inorganic-ch-03",
+      "displayChapterName": "P-block Elements (Group 13 and 14)"
+    },
+    {
+      "lectureNumber": 3,
+      "subject": "Chemistry",
+      "chapterName": "P-block Elements (Group 13 and 14)",
+      "chapter": "P-block Elements (Group 13 and 14)",
+      "chapterNumber": 3,
+      "chapterId": "chemistry-inorganic-ch-03",
+      "displayChapterName": "P-block Elements (Group 13 and 14)"
+    },
+    {
+      "lectureNumber": 4,
+      "subject": "Chemistry",
+      "chapterName": "P-block Elements (Group 13 and 14)",
+      "chapter": "P-block Elements (Group 13 and 14)",
+      "chapterNumber": 3,
+      "chapterId": "chemistry-inorganic-ch-03",
+      "displayChapterName": "P-block Elements (Group 13 and 14)"
+    },
+    {
+      "lectureNumber": 5,
+      "subject": "Chemistry",
+      "chapterName": "P-block Elements (Group 13 and 14)",
+      "chapter": "P-block Elements (Group 13 and 14)",
+      "chapterNumber": 3,
+      "chapterId": "chemistry-inorganic-ch-03",
+      "displayChapterName": "P-block Elements (Group 13 and 14)"
+    },
+    {
+      "lectureNumber": 1,
+      "subject": "Chemistry",
+      "chapterName": "S-block Element",
+      "chapter": "S-block Element",
+      "chapterNumber": 4,
+      "chapterId": "chemistry-inorganic-ch-04",
+      "displayChapterName": "S-block Element"
+    },
+    {
+      "lectureNumber": 2,
+      "subject": "Chemistry",
+      "chapterName": "S-block Element",
+      "chapter": "S-block Element",
+      "chapterNumber": 4,
+      "chapterId": "chemistry-inorganic-ch-04",
+      "displayChapterName": "S-block Element"
+    },
+    {
+      "lectureNumber": 1,
+      "subject": "Chemistry",
+      "chapterName": "Hydrogen and its Compound",
+      "chapter": "Hydrogen and its Compound",
+      "chapterNumber": 5,
+      "chapterId": "chemistry-inorganic-ch-05",
+      "displayChapterName": "Hydrogen and its Compound"
+    }
+  ]
+}

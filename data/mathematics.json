@@ -1,0 +1,3128 @@
+{
+  "schemaVersion": "tracker360-mathematics-v2",
+  "displayRule": "Always display chapterName/displayChapterName; never generate Chapter 1, Chapter 2, etc.",
+  "subject": "Mathematics",
+  "batchName": "Arjuna JEE 2027",
+  "totalChapters": 21,
+  "totalLectures": 161,
+  "chapters": [
+    {
+      "chapterNumber": 1,
+      "chapterId": "CH-01",
+      "chapterName": "Sets",
+      "name": "Sets",
+      "displayName": "Sets",
+      "lectureCount": 7,
+      "lectures": [
+        {
+          "lectureNumber": 1,
+          "subject": "Mathematics",
+          "chapterName": "Sets",
+          "chapter": "Sets",
+          "chapterNumber": 1,
+          "chapterId": "CH-01",
+          "displayChapterName": "Sets"
+        },
+        {
+          "lectureNumber": 2,
+          "subject": "Mathematics",
+          "chapterName": "Sets",
+          "chapter": "Sets",
+          "chapterNumber": 1,
+          "chapterId": "CH-01",
+          "displayChapterName": "Sets"
+        },
+        {
+          "lectureNumber": 3,
+          "subject": "Mathematics",
+          "chapterName": "Sets",
+          "chapter": "Sets",
+          "chapterNumber": 1,
+          "chapterId": "CH-01",
+          "displayChapterName": "Sets"
+        },
+        {
+          "lectureNumber": 4,
+          "subject": "Mathematics",
+          "chapterName": "Sets",
+          "chapter": "Sets",
+          "chapterNumber": 1,
+          "chapterId": "CH-01",
+          "displayChapterName": "Sets"
+        },
+        {
+          "lectureNumber": 5,
+          "subject": "Mathematics",
+          "chapterName": "Sets",
+          "chapter": "Sets",
+          "chapterNumber": 1,
+          "chapterId": "CH-01",
+          "displayChapterName": "Sets"
+        },
+        {
+          "lectureNumber": 6,
+          "subject": "Mathematics",
+          "chapterName": "Sets",
+          "chapter": "Sets",
+          "chapterNumber": 1,
+          "chapterId": "CH-01",
+          "displayChapterName": "Sets"
+        },
+        {
+          "lectureNumber": 7,
+          "subject": "Mathematics",
+          "chapterName": "Sets",
+          "chapter": "Sets",
+          "chapterNumber": 1,
+          "chapterId": "CH-01",
+          "displayChapterName": "Sets"
+        }
+      ],
+      "screenshotLectureCount": 8
+    },
+    {
+      "chapterNumber": 2,
+      "chapterId": "CH-02",
+      "chapterName": "Basic Mathematics",
+      "name": "Basic Mathematics",
+      "displayName": "Basic Mathematics",
+      "lectureCount": 20,
+      "lectures": [
+        {
+          "lectureNumber": 1,
+          "subject": "Mathematics",
+          "chapterName": "Basic Mathematics",
+          "chapter": "Basic Mathematics",
+          "chapterNumber": 2,
+          "chapterId": "CH-02",
+          "displayChapterName": "Basic Mathematics"
+        },
+        {
+          "lectureNumber": 2,
+          "subject": "Mathematics",
+          "chapterName": "Basic Mathematics",
+          "chapter": "Basic Mathematics",
+          "chapterNumber": 2,
+          "chapterId": "CH-02",
+          "displayChapterName": "Basic Mathematics"
+        },
+        {
+          "lectureNumber": 3,
+          "subject": "Mathematics",
+          "chapterName": "Basic Mathematics",
+          "chapter": "Basic Mathematics",
+          "chapterNumber": 2,
+          "chapterId": "CH-02",
+          "displayChapterName": "Basic Mathematics"
+        },
+        {
+          "lectureNumber": 4,
+          "subject": "Mathematics",
+          "chapterName": "Basic Mathematics",
+          "chapter": "Basic Mathematics",
+          "chapterNumber": 2,
+          "chapterId": "CH-02",
+          "displayChapterName": "Basic Mathematics"
+        },
+        {
+          "lectureNumber": 5,
+          "subject": "Mathematics",
+          "chapterName": "Basic Mathematics",
+          "chapter": "Basic Mathematics",
+          "chapterNumber": 2,
+          "chapterId": "CH-02",
+          "displayChapterName": "Basic Mathematics"
+        },
+        {
+          "lectureNumber": 6,
+          "subject": "Mathematics",
+          "chapterName": "Basic Mathematics",
+          "chapter": "Basic Mathematics",
+          "chapterNumber": 2,
+          "chapterId": "CH-02",
+          "displayChapterName": "Basic Mathematics"
+        },
+        {
+          "lectureNumber": 7,
+          "subject": "Mathematics",
+          "chapterName": "Basic Mathematics",
+          "chapter": "Basic Mathematics",
+          "chapterNumber": 2,
+          "chapterId": "CH-02",
+          "displayChapterName": "Basic Mathematics"
+        },
+        {
+          "lectureNumber": 8,
+          "subject": "Mathematics",
+          "chapterName": "Basic Mathematics",
+          "chapter": "Basic Mathematics",
+          "chapterNumber": 2,
+          "chapterId": "CH-02",
+          "displayChapterName": "Basic Mathematics"
+        },
+        {
+          "lectureNumber": 9,
+          "subject": "Mathematics",
+          "chapterName": "Basic Mathematics",
+          "chapter": "Basic Mathematics",
+          "chapterNumber": 2,
+          "chapterId": "CH-02",
+          "displayChapterName": "Basic Mathematics"
+        },
+        {
+          "lectureNumber": 10,
+          "subject": "Mathematics",
+          "chapterName": "Basic Mathematics",
+          "chapter": "Basic Mathematics",
+          "chapterNumber": 2,
+          "chapterId": "CH-02",
+          "displayChapterName": "Basic Mathematics"
+        },
+        {
+          "lectureNumber": 11,
+          "subject": "Mathematics",
+          "chapterName": "Basic Mathematics",
+          "chapter": "Basic Mathematics",
+          "chapterNumber": 2,
+          "chapterId": "CH-02",
+          "displayChapterName": "Basic Mathematics"
+        },
+        {
+          "lectureNumber": 12,
+          "subject": "Mathematics",
+          "chapterName": "Basic Mathematics",
+          "chapter": "Basic Mathematics",
+          "chapterNumber": 2,
+          "chapterId": "CH-02",
+          "displayChapterName": "Basic Mathematics"
+        },
+        {
+          "lectureNumber": 13,
+          "subject": "Mathematics",
+          "chapterName": "Basic Mathematics",
+          "chapter": "Basic Mathematics",
+          "chapterNumber": 2,
+          "chapterId": "CH-02",
+          "displayChapterName": "Basic Mathematics"
+        },
+        {
+          "lectureNumber": 14,
+          "subject": "Mathematics",
+          "chapterName": "Basic Mathematics",
+          "chapter": "Basic Mathematics",
+          "chapterNumber": 2,
+          "chapterId": "CH-02",
+          "displayChapterName": "Basic Mathematics"
+        },
+        {
+          "lectureNumber": 15,
+          "subject": "Mathematics",
+          "chapterName": "Basic Mathematics",
+          "chapter": "Basic Mathematics",
+          "chapterNumber": 2,
+          "chapterId": "CH-02",
+          "displayChapterName": "Basic Mathematics"
+        },
+        {
+          "lectureNumber": 16,
+          "subject": "Mathematics",
+          "chapterName": "Basic Mathematics",
+          "chapter": "Basic Mathematics",
+          "chapterNumber": 2,
+          "chapterId": "CH-02",
+          "displayChapterName": "Basic Mathematics"
+        },
+        {
+          "lectureNumber": 17,
+          "subject": "Mathematics",
+          "chapterName": "Basic Mathematics",
+          "chapter": "Basic Mathematics",
+          "chapterNumber": 2,
+          "chapterId": "CH-02",
+          "displayChapterName": "Basic Mathematics"
+        },
+        {
+          "lectureNumber": 18,
+          "subject": "Mathematics",
+          "chapterName": "Basic Mathematics",
+          "chapter": "Basic Mathematics",
+          "chapterNumber": 2,
+          "chapterId": "CH-02",
+          "displayChapterName": "Basic Mathematics"
+        },
+        {
+          "lectureNumber": 19,
+          "subject": "Mathematics",
+          "chapterName": "Basic Mathematics",
+          "chapter": "Basic Mathematics",
+          "chapterNumber": 2,
+          "chapterId": "CH-02",
+          "displayChapterName": "Basic Mathematics"
+        },
+        {
+          "lectureNumber": 20,
+          "subject": "Mathematics",
+          "chapterName": "Basic Mathematics",
+          "chapter": "Basic Mathematics",
+          "chapterNumber": 2,
+          "chapterId": "CH-02",
+          "displayChapterName": "Basic Mathematics"
+        }
+      ],
+      "screenshotLectureCount": 21
+    },
+    {
+      "chapterNumber": 3,
+      "chapterId": "CH-03",
+      "chapterName": "Quadratic Equations",
+      "name": "Quadratic Equations",
+      "displayName": "Quadratic Equations",
+      "lectureCount": 9,
+      "lectures": [
+        {
+          "lectureNumber": 1,
+          "subject": "Mathematics",
+          "chapterName": "Quadratic Equations",
+          "chapter": "Quadratic Equations",
+          "chapterNumber": 3,
+          "chapterId": "CH-03",
+          "displayChapterName": "Quadratic Equations"
+        },
+        {
+          "lectureNumber": 2,
+          "subject": "Mathematics",
+          "chapterName": "Quadratic Equations",
+          "chapter": "Quadratic Equations",
+          "chapterNumber": 3,
+          "chapterId": "CH-03",
+          "displayChapterName": "Quadratic Equations"
+        },
+        {
+          "lectureNumber": 3,
+          "subject": "Mathematics",
+          "chapterName": "Quadratic Equations",
+          "chapter": "Quadratic Equations",
+          "chapterNumber": 3,
+          "chapterId": "CH-03",
+          "displayChapterName": "Quadratic Equations"
+        },
+        {
+          "lectureNumber": 4,
+          "subject": "Mathematics",
+          "chapterName": "Quadratic Equations",
+          "chapter": "Quadratic Equations",
+          "chapterNumber": 3,
+          "chapterId": "CH-03",
+          "displayChapterName": "Quadratic Equations"
+        },
+        {
+          "lectureNumber": 5,
+          "subject": "Mathematics",
+          "chapterName": "Quadratic Equations",
+          "chapter": "Quadratic Equations",
+          "chapterNumber": 3,
+          "chapterId": "CH-03",
+          "displayChapterName": "Quadratic Equations"
+        },
+        {
+          "lectureNumber": 6,
+          "subject": "Mathematics",
+          "chapterName": "Quadratic Equations",
+          "chapter": "Quadratic Equations",
+          "chapterNumber": 3,
+          "chapterId": "CH-03",
+          "displayChapterName": "Quadratic Equations"
+        },
+        {
+          "lectureNumber": 7,
+          "subject": "Mathematics",
+          "chapterName": "Quadratic Equations",
+          "chapter": "Quadratic Equations",
+          "chapterNumber": 3,
+          "chapterId": "CH-03",
+          "displayChapterName": "Quadratic Equations"
+        },
+        {
+          "lectureNumber": 8,
+          "subject": "Mathematics",
+          "chapterName": "Quadratic Equations",
+          "chapter": "Quadratic Equations",
+          "chapterNumber": 3,
+          "chapterId": "CH-03",
+          "displayChapterName": "Quadratic Equations"
+        },
+        {
+          "lectureNumber": 9,
+          "subject": "Mathematics",
+          "chapterName": "Quadratic Equations",
+          "chapter": "Quadratic Equations",
+          "chapterNumber": 3,
+          "chapterId": "CH-03",
+          "displayChapterName": "Quadratic Equations"
+        }
+      ],
+      "screenshotLectureCount": 14
+    },
+    {
+      "chapterNumber": 4,
+      "chapterId": "CH-04",
+      "chapterName": "Sequence and Series",
+      "name": "Sequence and Series",
+      "displayName": "Sequence and Series",
+      "lectureCount": 9,
+      "lectures": [
+        {
+          "lectureNumber": 1,
+          "subject": "Mathematics",
+          "chapterName": "Sequence and Series",
+          "chapter": "Sequence and Series",
+          "chapterNumber": 4,
+          "chapterId": "CH-04",
+          "displayChapterName": "Sequence and Series"
+        },
+        {
+          "lectureNumber": 2,
+          "subject": "Mathematics",
+          "chapterName": "Sequence and Series",
+          "chapter": "Sequence and Series",
+          "chapterNumber": 4,
+          "chapterId": "CH-04",
+          "displayChapterName": "Sequence and Series"
+        },
+        {
+          "lectureNumber": 3,
+          "subject": "Mathematics",
+          "chapterName": "Sequence and Series",
+          "chapter": "Sequence and Series",
+          "chapterNumber": 4,
+          "chapterId": "CH-04",
+          "displayChapterName": "Sequence and Series"
+        },
+        {
+          "lectureNumber": 4,
+          "subject": "Mathematics",
+          "chapterName": "Sequence and Series",
+          "chapter": "Sequence and Series",
+          "chapterNumber": 4,
+          "chapterId": "CH-04",
+          "displayChapterName": "Sequence and Series"
+        },
+        {
+          "lectureNumber": 5,
+          "subject": "Mathematics",
+          "chapterName": "Sequence and Series",
+          "chapter": "Sequence and Series",
+          "chapterNumber": 4,
+          "chapterId": "CH-04",
+          "displayChapterName": "Sequence and Series"
+        },
+        {
+          "lectureNumber": 6,
+          "subject": "Mathematics",
+          "chapterName": "Sequence and Series",
+          "chapter": "Sequence and Series",
+          "chapterNumber": 4,
+          "chapterId": "CH-04",
+          "displayChapterName": "Sequence and Series"
+        },
+        {
+          "lectureNumber": 7,
+          "subject": "Mathematics",
+          "chapterName": "Sequence and Series",
+          "chapter": "Sequence and Series",
+          "chapterNumber": 4,
+          "chapterId": "CH-04",
+          "displayChapterName": "Sequence and Series"
+        },
+        {
+          "lectureNumber": 8,
+          "subject": "Mathematics",
+          "chapterName": "Sequence and Series",
+          "chapter": "Sequence and Series",
+          "chapterNumber": 4,
+          "chapterId": "CH-04",
+          "displayChapterName": "Sequence and Series"
+        },
+        {
+          "lectureNumber": 9,
+          "subject": "Mathematics",
+          "chapterName": "Sequence and Series",
+          "chapter": "Sequence and Series",
+          "chapterNumber": 4,
+          "chapterId": "CH-04",
+          "displayChapterName": "Sequence and Series"
+        }
+      ],
+      "screenshotLectureCount": 12
+    },
+    {
+      "chapterNumber": 5,
+      "chapterId": "CH-05",
+      "chapterName": "Trigonometric Functions",
+      "name": "Trigonometric Functions",
+      "displayName": "Trigonometric Functions",
+      "lectureCount": 11,
+      "lectures": [
+        {
+          "lectureNumber": 1,
+          "subject": "Mathematics",
+          "chapterName": "Trigonometric Functions",
+          "chapter": "Trigonometric Functions",
+          "chapterNumber": 5,
+          "chapterId": "CH-05",
+          "displayChapterName": "Trigonometric Functions"
+        },
+        {
+          "lectureNumber": 2,
+          "subject": "Mathematics",
+          "chapterName": "Trigonometric Functions",
+          "chapter": "Trigonometric Functions",
+          "chapterNumber": 5,
+          "chapterId": "CH-05",
+          "displayChapterName": "Trigonometric Functions"
+        },
+        {
+          "lectureNumber": 3,
+          "subject": "Mathematics",
+          "chapterName": "Trigonometric Functions",
+          "chapter": "Trigonometric Functions",
+          "chapterNumber": 5,
+          "chapterId": "CH-05",
+          "displayChapterName": "Trigonometric Functions"
+        },
+        {
+          "lectureNumber": 4,
+          "subject": "Mathematics",
+          "chapterName": "Trigonometric Functions",
+          "chapter": "Trigonometric Functions",
+          "chapterNumber": 5,
+          "chapterId": "CH-05",
+          "displayChapterName": "Trigonometric Functions"
+        },
+        {
+          "lectureNumber": 5,
+          "subject": "Mathematics",
+          "chapterName": "Trigonometric Functions",
+          "chapter": "Trigonometric Functions",
+          "chapterNumber": 5,
+          "chapterId": "CH-05",
+          "displayChapterName": "Trigonometric Functions"
+        },
+        {
+          "lectureNumber": 6,
+          "subject": "Mathematics",
+          "chapterName": "Trigonometric Functions",
+          "chapter": "Trigonometric Functions",
+          "chapterNumber": 5,
+          "chapterId": "CH-05",
+          "displayChapterName": "Trigonometric Functions"
+        },
+        {
+          "lectureNumber": 7,
+          "subject": "Mathematics",
+          "chapterName": "Trigonometric Functions",
+          "chapter": "Trigonometric Functions",
+          "chapterNumber": 5,
+          "chapterId": "CH-05",
+          "displayChapterName": "Trigonometric Functions"
+        },
+        {
+          "lectureNumber": 8,
+          "subject": "Mathematics",
+          "chapterName": "Trigonometric Functions",
+          "chapter": "Trigonometric Functions",
+          "chapterNumber": 5,
+          "chapterId": "CH-05",
+          "displayChapterName": "Trigonometric Functions"
+        },
+        {
+          "lectureNumber": 9,
+          "subject": "Mathematics",
+          "chapterName": "Trigonometric Functions",
+          "chapter": "Trigonometric Functions",
+          "chapterNumber": 5,
+          "chapterId": "CH-05",
+          "displayChapterName": "Trigonometric Functions"
+        },
+        {
+          "lectureNumber": 10,
+          "subject": "Mathematics",
+          "chapterName": "Trigonometric Functions",
+          "chapter": "Trigonometric Functions",
+          "chapterNumber": 5,
+          "chapterId": "CH-05",
+          "displayChapterName": "Trigonometric Functions"
+        },
+        {
+          "lectureNumber": 11,
+          "subject": "Mathematics",
+          "chapterName": "Trigonometric Functions",
+          "chapter": "Trigonometric Functions",
+          "chapterNumber": 5,
+          "chapterId": "CH-05",
+          "displayChapterName": "Trigonometric Functions"
+        }
+      ],
+      "screenshotLectureCount": 13
+    },
+    {
+      "chapterNumber": 6,
+      "chapterId": "CH-06",
+      "chapterName": "Trigonometric Equation",
+      "name": "Trigonometric Equation",
+      "displayName": "Trigonometric Equation",
+      "lectureCount": 8,
+      "lectures": [
+        {
+          "lectureNumber": 1,
+          "subject": "Mathematics",
+          "chapterName": "Trigonometric Equation",
+          "chapter": "Trigonometric Equation",
+          "chapterNumber": 6,
+          "chapterId": "CH-06",
+          "displayChapterName": "Trigonometric Equation"
+        },
+        {
+          "lectureNumber": 2,
+          "subject": "Mathematics",
+          "chapterName": "Trigonometric Equation",
+          "chapter": "Trigonometric Equation",
+          "chapterNumber": 6,
+          "chapterId": "CH-06",
+          "displayChapterName": "Trigonometric Equation"
+        },
+        {
+          "lectureNumber": 3,
+          "subject": "Mathematics",
+          "chapterName": "Trigonometric Equation",
+          "chapter": "Trigonometric Equation",
+          "chapterNumber": 6,
+          "chapterId": "CH-06",
+          "displayChapterName": "Trigonometric Equation"
+        },
+        {
+          "lectureNumber": 4,
+          "subject": "Mathematics",
+          "chapterName": "Trigonometric Equation",
+          "chapter": "Trigonometric Equation",
+          "chapterNumber": 6,
+          "chapterId": "CH-06",
+          "displayChapterName": "Trigonometric Equation"
+        },
+        {
+          "lectureNumber": 5,
+          "subject": "Mathematics",
+          "chapterName": "Trigonometric Equation",
+          "chapter": "Trigonometric Equation",
+          "chapterNumber": 6,
+          "chapterId": "CH-06",
+          "displayChapterName": "Trigonometric Equation"
+        },
+        {
+          "lectureNumber": 6,
+          "subject": "Mathematics",
+          "chapterName": "Trigonometric Equation",
+          "chapter": "Trigonometric Equation",
+          "chapterNumber": 6,
+          "chapterId": "CH-06",
+          "displayChapterName": "Trigonometric Equation"
+        },
+        {
+          "lectureNumber": 7,
+          "subject": "Mathematics",
+          "chapterName": "Trigonometric Equation",
+          "chapter": "Trigonometric Equation",
+          "chapterNumber": 6,
+          "chapterId": "CH-06",
+          "displayChapterName": "Trigonometric Equation"
+        },
+        {
+          "lectureNumber": 8,
+          "subject": "Mathematics",
+          "chapterName": "Trigonometric Equation",
+          "chapter": "Trigonometric Equation",
+          "chapterNumber": 6,
+          "chapterId": "CH-06",
+          "displayChapterName": "Trigonometric Equation"
+        }
+      ],
+      "screenshotLectureCount": 7
+    },
+    {
+      "chapterNumber": 7,
+      "chapterId": "CH-07",
+      "chapterName": "Relation Function",
+      "name": "Relation Function",
+      "displayName": "Relation Function",
+      "lectureCount": 7,
+      "lectures": [
+        {
+          "lectureNumber": 1,
+          "subject": "Mathematics",
+          "chapterName": "Relation Function",
+          "chapter": "Relation Function",
+          "chapterNumber": 7,
+          "chapterId": "CH-07",
+          "displayChapterName": "Relation Function"
+        },
+        {
+          "lectureNumber": 2,
+          "subject": "Mathematics",
+          "chapterName": "Relation Function",
+          "chapter": "Relation Function",
+          "chapterNumber": 7,
+          "chapterId": "CH-07",
+          "displayChapterName": "Relation Function"
+        },
+        {
+          "lectureNumber": 3,
+          "subject": "Mathematics",
+          "chapterName": "Relation Function",
+          "chapter": "Relation Function",
+          "chapterNumber": 7,
+          "chapterId": "CH-07",
+          "displayChapterName": "Relation Function"
+        },
+        {
+          "lectureNumber": 4,
+          "subject": "Mathematics",
+          "chapterName": "Relation Function",
+          "chapter": "Relation Function",
+          "chapterNumber": 7,
+          "chapterId": "CH-07",
+          "displayChapterName": "Relation Function"
+        },
+        {
+          "lectureNumber": 5,
+          "subject": "Mathematics",
+          "chapterName": "Relation Function",
+          "chapter": "Relation Function",
+          "chapterNumber": 7,
+          "chapterId": "CH-07",
+          "displayChapterName": "Relation Function"
+        },
+        {
+          "lectureNumber": 6,
+          "subject": "Mathematics",
+          "chapterName": "Relation Function",
+          "chapter": "Relation Function",
+          "chapterNumber": 7,
+          "chapterId": "CH-07",
+          "displayChapterName": "Relation Function"
+        },
+        {
+          "lectureNumber": 7,
+          "subject": "Mathematics",
+          "chapterName": "Relation Function",
+          "chapter": "Relation Function",
+          "chapterNumber": 7,
+          "chapterId": "CH-07",
+          "displayChapterName": "Relation Function"
+        }
+      ],
+      "screenshotLectureCount": 5
+    },
+    {
+      "chapterNumber": 8,
+      "chapterId": "CH-08",
+      "chapterName": "Permutations and Combinations",
+      "name": "Permutations and Combinations",
+      "displayName": "Permutations and Combinations",
+      "lectureCount": 11,
+      "lectures": [
+        {
+          "lectureNumber": 1,
+          "subject": "Mathematics",
+          "chapterName": "Permutations and Combinations",
+          "chapter": "Permutations and Combinations",
+          "chapterNumber": 8,
+          "chapterId": "CH-08",
+          "displayChapterName": "Permutations and Combinations"
+        },
+        {
+          "lectureNumber": 2,
+          "subject": "Mathematics",
+          "chapterName": "Permutations and Combinations",
+          "chapter": "Permutations and Combinations",
+          "chapterNumber": 8,
+          "chapterId": "CH-08",
+          "displayChapterName": "Permutations and Combinations"
+        },
+        {
+          "lectureNumber": 3,
+          "subject": "Mathematics",
+          "chapterName": "Permutations and Combinations",
+          "chapter": "Permutations and Combinations",
+          "chapterNumber": 8,
+          "chapterId": "CH-08",
+          "displayChapterName": "Permutations and Combinations"
+        },
+        {
+          "lectureNumber": 4,
+          "subject": "Mathematics",
+          "chapterName": "Permutations and Combinations",
+          "chapter": "Permutations and Combinations",
+          "chapterNumber": 8,
+          "chapterId": "CH-08",
+          "displayChapterName": "Permutations and Combinations"
+        },
+        {
+          "lectureNumber": 5,
+          "subject": "Mathematics",
+          "chapterName": "Permutations and Combinations",
+          "chapter": "Permutations and Combinations",
+          "chapterNumber": 8,
+          "chapterId": "CH-08",
+          "displayChapterName": "Permutations and Combinations"
+        },
+        {
+          "lectureNumber": 6,
+          "subject": "Mathematics",
+          "chapterName": "Permutations and Combinations",
+          "chapter": "Permutations and Combinations",
+          "chapterNumber": 8,
+          "chapterId": "CH-08",
+          "displayChapterName": "Permutations and Combinations"
+        },
+        {
+          "lectureNumber": 7,
+          "subject": "Mathematics",
+          "chapterName": "Permutations and Combinations",
+          "chapter": "Permutations and Combinations",
+          "chapterNumber": 8,
+          "chapterId": "CH-08",
+          "displayChapterName": "Permutations and Combinations"
+        },
+        {
+          "lectureNumber": 8,
+          "subject": "Mathematics",
+          "chapterName": "Permutations and Combinations",
+          "chapter": "Permutations and Combinations",
+          "chapterNumber": 8,
+          "chapterId": "CH-08",
+          "displayChapterName": "Permutations and Combinations"
+        },
+        {
+          "lectureNumber": 9,
+          "subject": "Mathematics",
+          "chapterName": "Permutations and Combinations",
+          "chapter": "Permutations and Combinations",
+          "chapterNumber": 8,
+          "chapterId": "CH-08",
+          "displayChapterName": "Permutations and Combinations"
+        },
+        {
+          "lectureNumber": 10,
+          "subject": "Mathematics",
+          "chapterName": "Permutations and Combinations",
+          "chapter": "Permutations and Combinations",
+          "chapterNumber": 8,
+          "chapterId": "CH-08",
+          "displayChapterName": "Permutations and Combinations"
+        },
+        {
+          "lectureNumber": 11,
+          "subject": "Mathematics",
+          "chapterName": "Permutations and Combinations",
+          "chapter": "Permutations and Combinations",
+          "chapterNumber": 8,
+          "chapterId": "CH-08",
+          "displayChapterName": "Permutations and Combinations"
+        }
+      ],
+      "screenshotLectureCount": 11
+    },
+    {
+      "chapterNumber": 9,
+      "chapterId": "CH-09",
+      "chapterName": "Binomial theorem",
+      "name": "Binomial theorem",
+      "displayName": "Binomial theorem",
+      "lectureCount": 10,
+      "lectures": [
+        {
+          "lectureNumber": 1,
+          "subject": "Mathematics",
+          "chapterName": "Binomial theorem",
+          "chapter": "Binomial theorem",
+          "chapterNumber": 9,
+          "chapterId": "CH-09",
+          "displayChapterName": "Binomial theorem"
+        },
+        {
+          "lectureNumber": 2,
+          "subject": "Mathematics",
+          "chapterName": "Binomial theorem",
+          "chapter": "Binomial theorem",
+          "chapterNumber": 9,
+          "chapterId": "CH-09",
+          "displayChapterName": "Binomial theorem"
+        },
+        {
+          "lectureNumber": 3,
+          "subject": "Mathematics",
+          "chapterName": "Binomial theorem",
+          "chapter": "Binomial theorem",
+          "chapterNumber": 9,
+          "chapterId": "CH-09",
+          "displayChapterName": "Binomial theorem"
+        },
+        {
+          "lectureNumber": 4,
+          "subject": "Mathematics",
+          "chapterName": "Binomial theorem",
+          "chapter": "Binomial theorem",
+          "chapterNumber": 9,
+          "chapterId": "CH-09",
+          "displayChapterName": "Binomial theorem"
+        },
+        {
+          "lectureNumber": 5,
+          "subject": "Mathematics",
+          "chapterName": "Binomial theorem",
+          "chapter": "Binomial theorem",
+          "chapterNumber": 9,
+          "chapterId": "CH-09",
+          "displayChapterName": "Binomial theorem"
+        },
+        {
+          "lectureNumber": 6,
+          "subject": "Mathematics",
+          "chapterName": "Binomial theorem",
+          "chapter": "Binomial theorem",
+          "chapterNumber": 9,
+          "chapterId": "CH-09",
+          "displayChapterName": "Binomial theorem"
+        },
+        {
+          "lectureNumber": 7,
+          "subject": "Mathematics",
+          "chapterName": "Binomial theorem",
+          "chapter": "Binomial theorem",
+          "chapterNumber": 9,
+          "chapterId": "CH-09",
+          "displayChapterName": "Binomial theorem"
+        },
+        {
+          "lectureNumber": 8,
+          "subject": "Mathematics",
+          "chapterName": "Binomial theorem",
+          "chapter": "Binomial theorem",
+          "chapterNumber": 9,
+          "chapterId": "CH-09",
+          "displayChapterName": "Binomial theorem"
+        },
+        {
+          "lectureNumber": 9,
+          "subject": "Mathematics",
+          "chapterName": "Binomial theorem",
+          "chapter": "Binomial theorem",
+          "chapterNumber": 9,
+          "chapterId": "CH-09",
+          "displayChapterName": "Binomial theorem"
+        },
+        {
+          "lectureNumber": 10,
+          "subject": "Mathematics",
+          "chapterName": "Binomial theorem",
+          "chapter": "Binomial theorem",
+          "chapterNumber": 9,
+          "chapterId": "CH-09",
+          "displayChapterName": "Binomial theorem"
+        }
+      ]
+    },
+    {
+      "chapterNumber": 10,
+      "chapterId": "CH-10",
+      "chapterName": "Straight Lines",
+      "name": "Straight Lines",
+      "displayName": "Straight Lines",
+      "lectureCount": 13,
+      "lectures": [
+        {
+          "lectureNumber": 1,
+          "subject": "Mathematics",
+          "chapterName": "Straight Lines",
+          "chapter": "Straight Lines",
+          "chapterNumber": 10,
+          "chapterId": "CH-10",
+          "displayChapterName": "Straight Lines"
+        },
+        {
+          "lectureNumber": 2,
+          "subject": "Mathematics",
+          "chapterName": "Straight Lines",
+          "chapter": "Straight Lines",
+          "chapterNumber": 10,
+          "chapterId": "CH-10",
+          "displayChapterName": "Straight Lines"
+        },
+        {
+          "lectureNumber": 3,
+          "subject": "Mathematics",
+          "chapterName": "Straight Lines",
+          "chapter": "Straight Lines",
+          "chapterNumber": 10,
+          "chapterId": "CH-10",
+          "displayChapterName": "Straight Lines"
+        },
+        {
+          "lectureNumber": 4,
+          "subject": "Mathematics",
+          "chapterName": "Straight Lines",
+          "chapter": "Straight Lines",
+          "chapterNumber": 10,
+          "chapterId": "CH-10",
+          "displayChapterName": "Straight Lines"
+        },
+        {
+          "lectureNumber": 5,
+          "subject": "Mathematics",
+          "chapterName": "Straight Lines",
+          "chapter": "Straight Lines",
+          "chapterNumber": 10,
+          "chapterId": "CH-10",
+          "displayChapterName": "Straight Lines"
+        },
+        {
+          "lectureNumber": 6,
+          "subject": "Mathematics",
+          "chapterName": "Straight Lines",
+          "chapter": "Straight Lines",
+          "chapterNumber": 10,
+          "chapterId": "CH-10",
+          "displayChapterName": "Straight Lines"
+        },
+        {
+          "lectureNumber": 7,
+          "subject": "Mathematics",
+          "chapterName": "Straight Lines",
+          "chapter": "Straight Lines",
+          "chapterNumber": 10,
+          "chapterId": "CH-10",
+          "displayChapterName": "Straight Lines"
+        },
+        {
+          "lectureNumber": 8,
+          "subject": "Mathematics",
+          "chapterName": "Straight Lines",
+          "chapter": "Straight Lines",
+          "chapterNumber": 10,
+          "chapterId": "CH-10",
+          "displayChapterName": "Straight Lines"
+        },
+        {
+          "lectureNumber": 9,
+          "subject": "Mathematics",
+          "chapterName": "Straight Lines",
+          "chapter": "Straight Lines",
+          "chapterNumber": 10,
+          "chapterId": "CH-10",
+          "displayChapterName": "Straight Lines"
+        },
+        {
+          "lectureNumber": 10,
+          "subject": "Mathematics",
+          "chapterName": "Straight Lines",
+          "chapter": "Straight Lines",
+          "chapterNumber": 10,
+          "chapterId": "CH-10",
+          "displayChapterName": "Straight Lines"
+        },
+        {
+          "lectureNumber": 11,
+          "subject": "Mathematics",
+          "chapterName": "Straight Lines",
+          "chapter": "Straight Lines",
+          "chapterNumber": 10,
+          "chapterId": "CH-10",
+          "displayChapterName": "Straight Lines"
+        },
+        {
+          "lectureNumber": 12,
+          "subject": "Mathematics",
+          "chapterName": "Straight Lines",
+          "chapter": "Straight Lines",
+          "chapterNumber": 10,
+          "chapterId": "CH-10",
+          "displayChapterName": "Straight Lines"
+        },
+        {
+          "lectureNumber": 13,
+          "subject": "Mathematics",
+          "chapterName": "Straight Lines",
+          "chapter": "Straight Lines",
+          "chapterNumber": 10,
+          "chapterId": "CH-10",
+          "displayChapterName": "Straight Lines"
+        }
+      ]
+    },
+    {
+      "chapterNumber": 11,
+      "chapterId": "CH-11",
+      "chapterName": "Circles",
+      "name": "Circles",
+      "displayName": "Circles",
+      "lectureCount": 10,
+      "lectures": [
+        {
+          "lectureNumber": 1,
+          "subject": "Mathematics",
+          "chapterName": "Circles",
+          "chapter": "Circles",
+          "chapterNumber": 11,
+          "chapterId": "CH-11",
+          "displayChapterName": "Circles"
+        },
+        {
+          "lectureNumber": 2,
+          "subject": "Mathematics",
+          "chapterName": "Circles",
+          "chapter": "Circles",
+          "chapterNumber": 11,
+          "chapterId": "CH-11",
+          "displayChapterName": "Circles"
+        },
+        {
+          "lectureNumber": 3,
+          "subject": "Mathematics",
+          "chapterName": "Circles",
+          "chapter": "Circles",
+          "chapterNumber": 11,
+          "chapterId": "CH-11",
+          "displayChapterName": "Circles"
+        },
+        {
+          "lectureNumber": 4,
+          "subject": "Mathematics",
+          "chapterName": "Circles",
+          "chapter": "Circles",
+          "chapterNumber": 11,
+          "chapterId": "CH-11",
+          "displayChapterName": "Circles"
+        },
+        {
+          "lectureNumber": 5,
+          "subject": "Mathematics",
+          "chapterName": "Circles",
+          "chapter": "Circles",
+          "chapterNumber": 11,
+          "chapterId": "CH-11",
+          "displayChapterName": "Circles"
+        },
+        {
+          "lectureNumber": 6,
+          "subject": "Mathematics",
+          "chapterName": "Circles",
+          "chapter": "Circles",
+          "chapterNumber": 11,
+          "chapterId": "CH-11",
+          "displayChapterName": "Circles"
+        },
+        {
+          "lectureNumber": 7,
+          "subject": "Mathematics",
+          "chapterName": "Circles",
+          "chapter": "Circles",
+          "chapterNumber": 11,
+          "chapterId": "CH-11",
+          "displayChapterName": "Circles"
+        },
+        {
+          "lectureNumber": 8,
+          "subject": "Mathematics",
+          "chapterName": "Circles",
+          "chapter": "Circles",
+          "chapterNumber": 11,
+          "chapterId": "CH-11",
+          "displayChapterName": "Circles"
+        },
+        {
+          "lectureNumber": 9,
+          "subject": "Mathematics",
+          "chapterName": "Circles",
+          "chapter": "Circles",
+          "chapterNumber": 11,
+          "chapterId": "CH-11",
+          "displayChapterName": "Circles"
+        },
+        {
+          "lectureNumber": 10,
+          "subject": "Mathematics",
+          "chapterName": "Circles",
+          "chapter": "Circles",
+          "chapterNumber": 11,
+          "chapterId": "CH-11",
+          "displayChapterName": "Circles"
+        }
+      ]
+    },
+    {
+      "chapterNumber": 12,
+      "chapterId": "CH-12",
+      "chapterName": "Conic Sections:Parabola",
+      "name": "Conic Sections:Parabola",
+      "displayName": "Conic Sections:Parabola",
+      "lectureCount": 9,
+      "lectures": [
+        {
+          "lectureNumber": 1,
+          "subject": "Mathematics",
+          "chapterName": "Conic Sections:Parabola",
+          "chapter": "Conic Sections:Parabola",
+          "chapterNumber": 12,
+          "chapterId": "CH-12",
+          "displayChapterName": "Conic Sections:Parabola"
+        },
+        {
+          "lectureNumber": 2,
+          "subject": "Mathematics",
+          "chapterName": "Conic Sections:Parabola",
+          "chapter": "Conic Sections:Parabola",
+          "chapterNumber": 12,
+          "chapterId": "CH-12",
+          "displayChapterName": "Conic Sections:Parabola"
+        },
+        {
+          "lectureNumber": 3,
+          "subject": "Mathematics",
+          "chapterName": "Conic Sections:Parabola",
+          "chapter": "Conic Sections:Parabola",
+          "chapterNumber": 12,
+          "chapterId": "CH-12",
+          "displayChapterName": "Conic Sections:Parabola"
+        },
+        {
+          "lectureNumber": 4,
+          "subject": "Mathematics",
+          "chapterName": "Conic Sections:Parabola",
+          "chapter": "Conic Sections:Parabola",
+          "chapterNumber": 12,
+          "chapterId": "CH-12",
+          "displayChapterName": "Conic Sections:Parabola"
+        },
+        {
+          "lectureNumber": 5,
+          "subject": "Mathematics",
+          "chapterName": "Conic Sections:Parabola",
+          "chapter": "Conic Sections:Parabola",
+          "chapterNumber": 12,
+          "chapterId": "CH-12",
+          "displayChapterName": "Conic Sections:Parabola"
+        },
+        {
+          "lectureNumber": 6,
+          "subject": "Mathematics",
+          "chapterName": "Conic Sections:Parabola",
+          "chapter": "Conic Sections:Parabola",
+          "chapterNumber": 12,
+          "chapterId": "CH-12",
+          "displayChapterName": "Conic Sections:Parabola"
+        },
+        {
+          "lectureNumber": 7,
+          "subject": "Mathematics",
+          "chapterName": "Conic Sections:Parabola",
+          "chapter": "Conic Sections:Parabola",
+          "chapterNumber": 12,
+          "chapterId": "CH-12",
+          "displayChapterName": "Conic Sections:Parabola"
+        },
+        {
+          "lectureNumber": 8,
+          "subject": "Mathematics",
+          "chapterName": "Conic Sections:Parabola",
+          "chapter": "Conic Sections:Parabola",
+          "chapterNumber": 12,
+          "chapterId": "CH-12",
+          "displayChapterName": "Conic Sections:Parabola"
+        },
+        {
+          "lectureNumber": 9,
+          "subject": "Mathematics",
+          "chapterName": "Conic Sections:Parabola",
+          "chapter": "Conic Sections:Parabola",
+          "chapterNumber": 12,
+          "chapterId": "CH-12",
+          "displayChapterName": "Conic Sections:Parabola"
+        }
+      ]
+    },
+    {
+      "chapterNumber": 13,
+      "chapterId": "CH-13",
+      "chapterName": "Conic Sections:Ellipse",
+      "name": "Conic Sections:Ellipse",
+      "displayName": "Conic Sections:Ellipse",
+      "lectureCount": 7,
+      "lectures": [
+        {
+          "lectureNumber": 1,
+          "subject": "Mathematics",
+          "chapterName": "Conic Sections:Ellipse",
+          "chapter": "Conic Sections:Ellipse",
+          "chapterNumber": 13,
+          "chapterId": "CH-13",
+          "displayChapterName": "Conic Sections:Ellipse"
+        },
+        {
+          "lectureNumber": 2,
+          "subject": "Mathematics",
+          "chapterName": "Conic Sections:Ellipse",
+          "chapter": "Conic Sections:Ellipse",
+          "chapterNumber": 13,
+          "chapterId": "CH-13",
+          "displayChapterName": "Conic Sections:Ellipse"
+        },
+        {
+          "lectureNumber": 3,
+          "subject": "Mathematics",
+          "chapterName": "Conic Sections:Ellipse",
+          "chapter": "Conic Sections:Ellipse",
+          "chapterNumber": 13,
+          "chapterId": "CH-13",
+          "displayChapterName": "Conic Sections:Ellipse"
+        },
+        {
+          "lectureNumber": 4,
+          "subject": "Mathematics",
+          "chapterName": "Conic Sections:Ellipse",
+          "chapter": "Conic Sections:Ellipse",
+          "chapterNumber": 13,
+          "chapterId": "CH-13",
+          "displayChapterName": "Conic Sections:Ellipse"
+        },
+        {
+          "lectureNumber": 5,
+          "subject": "Mathematics",
+          "chapterName": "Conic Sections:Ellipse",
+          "chapter": "Conic Sections:Ellipse",
+          "chapterNumber": 13,
+          "chapterId": "CH-13",
+          "displayChapterName": "Conic Sections:Ellipse"
+        },
+        {
+          "lectureNumber": 6,
+          "subject": "Mathematics",
+          "chapterName": "Conic Sections:Ellipse",
+          "chapter": "Conic Sections:Ellipse",
+          "chapterNumber": 13,
+          "chapterId": "CH-13",
+          "displayChapterName": "Conic Sections:Ellipse"
+        },
+        {
+          "lectureNumber": 7,
+          "subject": "Mathematics",
+          "chapterName": "Conic Sections:Ellipse",
+          "chapter": "Conic Sections:Ellipse",
+          "chapterNumber": 13,
+          "chapterId": "CH-13",
+          "displayChapterName": "Conic Sections:Ellipse"
+        }
+      ]
+    },
+    {
+      "chapterNumber": 14,
+      "chapterId": "CH-14",
+      "chapterName": "Conic Sections:Hyperbola",
+      "name": "Conic Sections:Hyperbola",
+      "displayName": "Conic Sections:Hyperbola",
+      "lectureCount": 5,
+      "lectures": [
+        {
+          "lectureNumber": 1,
+          "subject": "Mathematics",
+          "chapterName": "Conic Sections:Hyperbola",
+          "chapter": "Conic Sections:Hyperbola",
+          "chapterNumber": 14,
+          "chapterId": "CH-14",
+          "displayChapterName": "Conic Sections:Hyperbola"
+        },
+        {
+          "lectureNumber": 2,
+          "subject": "Mathematics",
+          "chapterName": "Conic Sections:Hyperbola",
+          "chapter": "Conic Sections:Hyperbola",
+          "chapterNumber": 14,
+          "chapterId": "CH-14",
+          "displayChapterName": "Conic Sections:Hyperbola"
+        },
+        {
+          "lectureNumber": 3,
+          "subject": "Mathematics",
+          "chapterName": "Conic Sections:Hyperbola",
+          "chapter": "Conic Sections:Hyperbola",
+          "chapterNumber": 14,
+          "chapterId": "CH-14",
+          "displayChapterName": "Conic Sections:Hyperbola"
+        },
+        {
+          "lectureNumber": 4,
+          "subject": "Mathematics",
+          "chapterName": "Conic Sections:Hyperbola",
+          "chapter": "Conic Sections:Hyperbola",
+          "chapterNumber": 14,
+          "chapterId": "CH-14",
+          "displayChapterName": "Conic Sections:Hyperbola"
+        },
+        {
+          "lectureNumber": 5,
+          "subject": "Mathematics",
+          "chapterName": "Conic Sections:Hyperbola",
+          "chapter": "Conic Sections:Hyperbola",
+          "chapterNumber": 14,
+          "chapterId": "CH-14",
+          "displayChapterName": "Conic Sections:Hyperbola"
+        }
+      ]
+    },
+    {
+      "chapterNumber": 15,
+      "chapterId": "CH-15",
+      "chapterName": "Complex Number",
+      "name": "Complex Number",
+      "displayName": "Complex Number",
+      "lectureCount": 10,
+      "lectures": [
+        {
+          "lectureNumber": 1,
+          "subject": "Mathematics",
+          "chapterName": "Complex Number",
+          "chapter": "Complex Number",
+          "chapterNumber": 15,
+          "chapterId": "CH-15",
+          "displayChapterName": "Complex Number"
+        },
+        {
+          "lectureNumber": 2,
+          "subject": "Mathematics",
+          "chapterName": "Complex Number",
+          "chapter": "Complex Number",
+          "chapterNumber": 15,
+          "chapterId": "CH-15",
+          "displayChapterName": "Complex Number"
+        },
+        {
+          "lectureNumber": 3,
+          "subject": "Mathematics",
+          "chapterName": "Complex Number",
+          "chapter": "Complex Number",
+          "chapterNumber": 15,
+          "chapterId": "CH-15",
+          "displayChapterName": "Complex Number"
+        },
+        {
+          "lectureNumber": 4,
+          "subject": "Mathematics",
+          "chapterName": "Complex Number",
+          "chapter": "Complex Number",
+          "chapterNumber": 15,
+          "chapterId": "CH-15",
+          "displayChapterName": "Complex Number"
+        },
+        {
+          "lectureNumber": 5,
+          "subject": "Mathematics",
+          "chapterName": "Complex Number",
+          "chapter": "Complex Number",
+          "chapterNumber": 15,
+          "chapterId": "CH-15",
+          "displayChapterName": "Complex Number"
+        },
+        {
+          "lectureNumber": 6,
+          "subject": "Mathematics",
+          "chapterName": "Complex Number",
+          "chapter": "Complex Number",
+          "chapterNumber": 15,
+          "chapterId": "CH-15",
+          "displayChapterName": "Complex Number"
+        },
+        {
+          "lectureNumber": 7,
+          "subject": "Mathematics",
+          "chapterName": "Complex Number",
+          "chapter": "Complex Number",
+          "chapterNumber": 15,
+          "chapterId": "CH-15",
+          "displayChapterName": "Complex Number"
+        },
+        {
+          "lectureNumber": 8,
+          "subject": "Mathematics",
+          "chapterName": "Complex Number",
+          "chapter": "Complex Number",
+          "chapterNumber": 15,
+          "chapterId": "CH-15",
+          "displayChapterName": "Complex Number"
+        },
+        {
+          "lectureNumber": 9,
+          "subject": "Mathematics",
+          "chapterName": "Complex Number",
+          "chapter": "Complex Number",
+          "chapterNumber": 15,
+          "chapterId": "CH-15",
+          "displayChapterName": "Complex Number"
+        },
+        {
+          "lectureNumber": 10,
+          "subject": "Mathematics",
+          "chapterName": "Complex Number",
+          "chapter": "Complex Number",
+          "chapterNumber": 15,
+          "chapterId": "CH-15",
+          "displayChapterName": "Complex Number"
+        }
+      ]
+    },
+    {
+      "chapterNumber": 16,
+      "chapterId": "CH-16",
+      "chapterName": "Limits and Derivatives",
+      "name": "Limits and Derivatives",
+      "displayName": "Limits and Derivatives",
+      "lectureCount": 3,
+      "lectures": [
+        {
+          "lectureNumber": 1,
+          "subject": "Mathematics",
+          "chapterName": "Limits and Derivatives",
+          "chapter": "Limits and Derivatives",
+          "chapterNumber": 16,
+          "chapterId": "CH-16",
+          "displayChapterName": "Limits and Derivatives"
+        },
+        {
+          "lectureNumber": 2,
+          "subject": "Mathematics",
+          "chapterName": "Limits and Derivatives",
+          "chapter": "Limits and Derivatives",
+          "chapterNumber": 16,
+          "chapterId": "CH-16",
+          "displayChapterName": "Limits and Derivatives"
+        },
+        {
+          "lectureNumber": 3,
+          "subject": "Mathematics",
+          "chapterName": "Limits and Derivatives",
+          "chapter": "Limits and Derivatives",
+          "chapterNumber": 16,
+          "chapterId": "CH-16",
+          "displayChapterName": "Limits and Derivatives"
+        }
+      ]
+    },
+    {
+      "chapterNumber": 17,
+      "chapterId": "CH-17",
+      "chapterName": "Statistics",
+      "name": "Statistics",
+      "displayName": "Statistics",
+      "lectureCount": 4,
+      "lectures": [
+        {
+          "lectureNumber": 1,
+          "subject": "Mathematics",
+          "chapterName": "Statistics",
+          "chapter": "Statistics",
+          "chapterNumber": 17,
+          "chapterId": "CH-17",
+          "displayChapterName": "Statistics"
+        },
+        {
+          "lectureNumber": 2,
+          "subject": "Mathematics",
+          "chapterName": "Statistics",
+          "chapter": "Statistics",
+          "chapterNumber": 17,
+          "chapterId": "CH-17",
+          "displayChapterName": "Statistics"
+        },
+        {
+          "lectureNumber": 3,
+          "subject": "Mathematics",
+          "chapterName": "Statistics",
+          "chapter": "Statistics",
+          "chapterNumber": 17,
+          "chapterId": "CH-17",
+          "displayChapterName": "Statistics"
+        },
+        {
+          "lectureNumber": 4,
+          "subject": "Mathematics",
+          "chapterName": "Statistics",
+          "chapter": "Statistics",
+          "chapterNumber": 17,
+          "chapterId": "CH-17",
+          "displayChapterName": "Statistics"
+        }
+      ]
+    },
+    {
+      "chapterNumber": 18,
+      "chapterId": "CH-18",
+      "chapterName": "Probability",
+      "name": "Probability",
+      "displayName": "Probability",
+      "lectureCount": 2,
+      "lectures": [
+        {
+          "lectureNumber": 1,
+          "subject": "Mathematics",
+          "chapterName": "Probability",
+          "chapter": "Probability",
+          "chapterNumber": 18,
+          "chapterId": "CH-18",
+          "displayChapterName": "Probability"
+        },
+        {
+          "lectureNumber": 2,
+          "subject": "Mathematics",
+          "chapterName": "Probability",
+          "chapter": "Probability",
+          "chapterNumber": 18,
+          "chapterId": "CH-18",
+          "displayChapterName": "Probability"
+        }
+      ]
+    },
+    {
+      "chapterNumber": 19,
+      "chapterId": "CH-19",
+      "chapterName": "Introduction to Three Dimensional Geometry",
+      "name": "Introduction to Three Dimensional Geometry",
+      "displayName": "Introduction to Three Dimensional Geometry",
+      "lectureCount": 2,
+      "lectures": [
+        {
+          "lectureNumber": 1,
+          "subject": "Mathematics",
+          "chapterName": "Introduction to Three Dimensional Geometry",
+          "chapter": "Introduction to Three Dimensional Geometry",
+          "chapterNumber": 19,
+          "chapterId": "CH-19",
+          "displayChapterName": "Introduction to Three Dimensional Geometry"
+        },
+        {
+          "lectureNumber": 2,
+          "subject": "Mathematics",
+          "chapterName": "Introduction to Three Dimensional Geometry",
+          "chapter": "Introduction to Three Dimensional Geometry",
+          "chapterNumber": 19,
+          "chapterId": "CH-19",
+          "displayChapterName": "Introduction to Three Dimensional Geometry"
+        }
+      ]
+    },
+    {
+      "chapterNumber": 20,
+      "chapterId": "CH-20",
+      "chapterName": "Linear Inequalities",
+      "name": "Linear Inequalities",
+      "displayName": "Linear Inequalities",
+      "lectureCount": 2,
+      "lectures": [
+        {
+          "lectureNumber": 1,
+          "subject": "Mathematics",
+          "chapterName": "Linear Inequalities",
+          "chapter": "Linear Inequalities",
+          "chapterNumber": 20,
+          "chapterId": "CH-20",
+          "displayChapterName": "Linear Inequalities"
+        },
+        {
+          "lectureNumber": 2,
+          "subject": "Mathematics",
+          "chapterName": "Linear Inequalities",
+          "chapter": "Linear Inequalities",
+          "chapterNumber": 20,
+          "chapterId": "CH-20",
+          "displayChapterName": "Linear Inequalities"
+        }
+      ]
+    },
+    {
+      "chapterNumber": 21,
+      "chapterId": "CH-21",
+      "chapterName": "Solution of Triangle",
+      "name": "Solution of Triangle",
+      "displayName": "Solution of Triangle",
+      "lectureCount": 2,
+      "lectures": [
+        {
+          "lectureNumber": 1,
+          "subject": "Mathematics",
+          "chapterName": "Solution of Triangle",
+          "chapter": "Solution of Triangle",
+          "chapterNumber": 21,
+          "chapterId": "CH-21",
+          "displayChapterName": "Solution of Triangle"
+        },
+        {
+          "lectureNumber": 2,
+          "subject": "Mathematics",
+          "chapterName": "Solution of Triangle",
+          "chapter": "Solution of Triangle",
+          "chapterNumber": 21,
+          "chapterId": "CH-21",
+          "displayChapterName": "Solution of Triangle"
+        }
+      ]
+    }
+  ],
+  "lectureRecords": [
+    {
+      "lectureNumber": 1,
+      "subject": "Mathematics",
+      "chapterName": "Sets",
+      "chapter": "Sets",
+      "chapterNumber": 1,
+      "chapterId": "CH-01",
+      "displayChapterName": "Sets"
+    },
+    {
+      "lectureNumber": 2,
+      "subject": "Mathematics",
+      "chapterName": "Sets",
+      "chapter": "Sets",
+      "chapterNumber": 1,
+      "chapterId": "CH-01",
+      "displayChapterName": "Sets"
+    },
+    {
+      "lectureNumber": 3,
+      "subject": "Mathematics",
+      "chapterName": "Sets",
+      "chapter": "Sets",
+      "chapterNumber": 1,
+      "chapterId": "CH-01",
+      "displayChapterName": "Sets"
+    },
+    {
+      "lectureNumber": 4,
+      "subject": "Mathematics",
+      "chapterName": "Sets",
+      "chapter": "Sets",
+      "chapterNumber": 1,
+      "chapterId": "CH-01",
+      "displayChapterName": "Sets"
+    },
+    {
+      "lectureNumber": 5,
+      "subject": "Mathematics",
+      "chapterName": "Sets",
+      "chapter": "Sets",
+      "chapterNumber": 1,
+      "chapterId": "CH-01",
+      "displayChapterName": "Sets"
+    },
+    {
+      "lectureNumber": 6,
+      "subject": "Mathematics",
+      "chapterName": "Sets",
+      "chapter": "Sets",
+      "chapterNumber": 1,
+      "chapterId": "CH-01",
+      "displayChapterName": "Sets"
+    },
+    {
+      "lectureNumber": 7,
+      "subject": "Mathematics",
+      "chapterName": "Sets",
+      "chapter": "Sets",
+      "chapterNumber": 1,
+      "chapterId": "CH-01",
+      "displayChapterName": "Sets"
+    },
+    {
+      "lectureNumber": 1,
+      "subject": "Mathematics",
+      "chapterName": "Basic Mathematics",
+      "chapter": "Basic Mathematics",
+      "chapterNumber": 2,
+      "chapterId": "CH-02",
+      "displayChapterName": "Basic Mathematics"
+    },
+    {
+      "lectureNumber": 2,
+      "subject": "Mathematics",
+      "chapterName": "Basic Mathematics",
+      "chapter": "Basic Mathematics",
+      "chapterNumber": 2,
+      "chapterId": "CH-02",
+      "displayChapterName": "Basic Mathematics"
+    },
+    {
+      "lectureNumber": 3,
+      "subject": "Mathematics",
+      "chapterName": "Basic Mathematics",
+      "chapter": "Basic Mathematics",
+      "chapterNumber": 2,
+      "chapterId": "CH-02",
+      "displayChapterName": "Basic Mathematics"
+    },
+    {
+      "lectureNumber": 4,
+      "subject": "Mathematics",
+      "chapterName": "Basic Mathematics",
+      "chapter": "Basic Mathematics",
+      "chapterNumber": 2,
+      "chapterId": "CH-02",
+      "displayChapterName": "Basic Mathematics"
+    },
+    {
+      "lectureNumber": 5,
+      "subject": "Mathematics",
+      "chapterName": "Basic Mathematics",
+      "chapter": "Basic Mathematics",
+      "chapterNumber": 2,
+      "chapterId": "CH-02",
+      "displayChapterName": "Basic Mathematics"
+    },
+    {
+      "lectureNumber": 6,
+      "subject": "Mathematics",
+      "chapterName": "Basic Mathematics",
+      "chapter": "Basic Mathematics",
+      "chapterNumber": 2,
+      "chapterId": "CH-02",
+      "displayChapterName": "Basic Mathematics"
+    },
+    {
+      "lectureNumber": 7,
+      "subject": "Mathematics",
+      "chapterName": "Basic Mathematics",
+      "chapter": "Basic Mathematics",
+      "chapterNumber": 2,
+      "chapterId": "CH-02",
+      "displayChapterName": "Basic Mathematics"
+    },
+    {
+      "lectureNumber": 8,
+      "subject": "Mathematics",
+      "chapterName": "Basic Mathematics",
+      "chapter": "Basic Mathematics",
+      "chapterNumber": 2,
+      "chapterId": "CH-02",
+      "displayChapterName": "Basic Mathematics"
+    },
+    {
+      "lectureNumber": 9,
+      "subject": "Mathematics",
+      "chapterName": "Basic Mathematics",
+      "chapter": "Basic Mathematics",
+      "chapterNumber": 2,
+      "chapterId": "CH-02",
+      "displayChapterName": "Basic Mathematics"
+    },
+    {
+      "lectureNumber": 10,
+      "subject": "Mathematics",
+      "chapterName": "Basic Mathematics",
+      "chapter": "Basic Mathematics",
+      "chapterNumber": 2,
+      "chapterId": "CH-02",
+      "displayChapterName": "Basic Mathematics"
+    },
+    {
+      "lectureNumber": 11,
+      "subject": "Mathematics",
+      "chapterName": "Basic Mathematics",
+      "chapter": "Basic Mathematics",
+      "chapterNumber": 2,
+      "chapterId": "CH-02",
+      "displayChapterName": "Basic Mathematics"
+    },
+    {
+      "lectureNumber": 12,
+      "subject": "Mathematics",
+      "chapterName": "Basic Mathematics",
+      "chapter": "Basic Mathematics",
+      "chapterNumber": 2,
+      "chapterId": "CH-02",
+      "displayChapterName": "Basic Mathematics"
+    },
+    {
+      "lectureNumber": 13,
+      "subject": "Mathematics",
+      "chapterName": "Basic Mathematics",
+      "chapter": "Basic Mathematics",
+      "chapterNumber": 2,
+      "chapterId": "CH-02",
+      "displayChapterName": "Basic Mathematics"
+    },
+    {
+      "lectureNumber": 14,
+      "subject": "Mathematics",
+      "chapterName": "Basic Mathematics",
+      "chapter": "Basic Mathematics",
+      "chapterNumber": 2,
+      "chapterId": "CH-02",
+      "displayChapterName": "Basic Mathematics"
+    },
+    {
+      "lectureNumber": 15,
+      "subject": "Mathematics",
+      "chapterName": "Basic Mathematics",
+      "chapter": "Basic Mathematics",
+      "chapterNumber": 2,
+      "chapterId": "CH-02",
+      "displayChapterName": "Basic Mathematics"
+    },
+    {
+      "lectureNumber": 16,
+      "subject": "Mathematics",
+      "chapterName": "Basic Mathematics",
+      "chapter": "Basic Mathematics",
+      "chapterNumber": 2,
+      "chapterId": "CH-02",
+      "displayChapterName": "Basic Mathematics"
+    },
+    {
+      "lectureNumber": 17,
+      "subject": "Mathematics",
+      "chapterName": "Basic Mathematics",
+      "chapter": "Basic Mathematics",
+      "chapterNumber": 2,
+      "chapterId": "CH-02",
+      "displayChapterName": "Basic Mathematics"
+    },
+    {
+      "lectureNumber": 18,
+      "subject": "Mathematics",
+      "chapterName": "Basic Mathematics",
+      "chapter": "Basic Mathematics",
+      "chapterNumber": 2,
+      "chapterId": "CH-02",
+      "displayChapterName": "Basic Mathematics"
+    },
+    {
+      "lectureNumber": 19,
+      "subject": "Mathematics",
+      "chapterName": "Basic Mathematics",
+      "chapter": "Basic Mathematics",
+      "chapterNumber": 2,
+      "chapterId": "CH-02",
+      "displayChapterName": "Basic Mathematics"
+    },
+    {
+      "lectureNumber": 20,
+      "subject": "Mathematics",
+      "chapterName": "Basic Mathematics",
+      "chapter": "Basic Mathematics",
+      "chapterNumber": 2,
+      "chapterId": "CH-02",
+      "displayChapterName": "Basic Mathematics"
+    },
+    {
+      "lectureNumber": 1,
+      "subject": "Mathematics",
+      "chapterName": "Quadratic Equations",
+      "chapter": "Quadratic Equations",
+      "chapterNumber": 3,
+      "chapterId": "CH-03",
+      "displayChapterName": "Quadratic Equations"
+    },
+    {
+      "lectureNumber": 2,
+      "subject": "Mathematics",
+      "chapterName": "Quadratic Equations",
+      "chapter": "Quadratic Equations",
+      "chapterNumber": 3,
+      "chapterId": "CH-03",
+      "displayChapterName": "Quadratic Equations"
+    },
+    {
+      "lectureNumber": 3,
+      "subject": "Mathematics",
+      "chapterName": "Quadratic Equations",
+      "chapter": "Quadratic Equations",
+      "chapterNumber": 3,
+      "chapterId": "CH-03",
+      "displayChapterName": "Quadratic Equations"
+    },
+    {
+      "lectureNumber": 4,
+      "subject": "Mathematics",
+      "chapterName": "Quadratic Equations",
+      "chapter": "Quadratic Equations",
+      "chapterNumber": 3,
+      "chapterId": "CH-03",
+      "displayChapterName": "Quadratic Equations"
+    },
+    {
+      "lectureNumber": 5,
+      "subject": "Mathematics",
+      "chapterName": "Quadratic Equations",
+      "chapter": "Quadratic Equations",
+      "chapterNumber": 3,
+      "chapterId": "CH-03",
+      "displayChapterName": "Quadratic Equations"
+    },
+    {
+      "lectureNumber": 6,
+      "subject": "Mathematics",
+      "chapterName": "Quadratic Equations",
+      "chapter": "Quadratic Equations",
+      "chapterNumber": 3,
+      "chapterId": "CH-03",
+      "displayChapterName": "Quadratic Equations"
+    },
+    {
+      "lectureNumber": 7,
+      "subject": "Mathematics",
+      "chapterName": "Quadratic Equations",
+      "chapter": "Quadratic Equations",
+      "chapterNumber": 3,
+      "chapterId": "CH-03",
+      "displayChapterName": "Quadratic Equations"
+    },
+    {
+      "lectureNumber": 8,
+      "subject": "Mathematics",
+      "chapterName": "Quadratic Equations",
+      "chapter": "Quadratic Equations",
+      "chapterNumber": 3,
+      "chapterId": "CH-03",
+      "displayChapterName": "Quadratic Equations"
+    },
+    {
+      "lectureNumber": 9,
+      "subject": "Mathematics",
+      "chapterName": "Quadratic Equations",
+      "chapter": "Quadratic Equations",
+      "chapterNumber": 3,
+      "chapterId": "CH-03",
+      "displayChapterName": "Quadratic Equations"
+    },
+    {
+      "lectureNumber": 1,
+      "subject": "Mathematics",
+      "chapterName": "Sequence and Series",
+      "chapter": "Sequence and Series",
+      "chapterNumber": 4,
+      "chapterId": "CH-04",
+      "displayChapterName": "Sequence and Series"
+    },
+    {
+      "lectureNumber": 2,
+      "subject": "Mathematics",
+      "chapterName": "Sequence and Series",
+      "chapter": "Sequence and Series",
+      "chapterNumber": 4,
+      "chapterId": "CH-04",
+      "displayChapterName": "Sequence and Series"
+    },
+    {
+      "lectureNumber": 3,
+      "subject": "Mathematics",
+      "chapterName": "Sequence and Series",
+      "chapter": "Sequence and Series",
+      "chapterNumber": 4,
+      "chapterId": "CH-04",
+      "displayChapterName": "Sequence and Series"
+    },
+    {
+      "lectureNumber": 4,
+      "subject": "Mathematics",
+      "chapterName": "Sequence and Series",
+      "chapter": "Sequence and Series",
+      "chapterNumber": 4,
+      "chapterId": "CH-04",
+      "displayChapterName": "Sequence and Series"
+    },
+    {
+      "lectureNumber": 5,
+      "subject": "Mathematics",
+      "chapterName": "Sequence and Series",
+      "chapter": "Sequence and Series",
+      "chapterNumber": 4,
+      "chapterId": "CH-04",
+      "displayChapterName": "Sequence and Series"
+    },
+    {
+      "lectureNumber": 6,
+      "subject": "Mathematics",
+      "chapterName": "Sequence and Series",
+      "chapter": "Sequence and Series",
+      "chapterNumber": 4,
+      "chapterId": "CH-04",
+      "displayChapterName": "Sequence and Series"
+    },
+    {
+      "lectureNumber": 7,
+      "subject": "Mathematics",
+      "chapterName": "Sequence and Series",
+      "chapter": "Sequence and Series",
+      "chapterNumber": 4,
+      "chapterId": "CH-04",
+      "displayChapterName": "Sequence and Series"
+    },
+    {
+      "lectureNumber": 8,
+      "subject": "Mathematics",
+      "chapterName": "Sequence and Series",
+      "chapter": "Sequence and Series",
+      "chapterNumber": 4,
+      "chapterId": "CH-04",
+      "displayChapterName": "Sequence and Series"
+    },
+    {
+      "lectureNumber": 9,
+      "subject": "Mathematics",
+      "chapterName": "Sequence and Series",
+      "chapter": "Sequence and Series",
+      "chapterNumber": 4,
+      "chapterId": "CH-04",
+      "displayChapterName": "Sequence and Series"
+    },
+    {
+      "lectureNumber": 1,
+      "subject": "Mathematics",
+      "chapterName": "Trigonometric Functions",
+      "chapter": "Trigonometric Functions",
+      "chapterNumber": 5,
+      "chapterId": "CH-05",
+      "displayChapterName": "Trigonometric Functions"
+    },
+    {
+      "lectureNumber": 2,
+      "subject": "Mathematics",
+      "chapterName": "Trigonometric Functions",
+      "chapter": "Trigonometric Functions",
+      "chapterNumber": 5,
+      "chapterId": "CH-05",
+      "displayChapterName": "Trigonometric Functions"
+    },
+    {
+      "lectureNumber": 3,
+      "subject": "Mathematics",
+      "chapterName": "Trigonometric Functions",
+      "chapter": "Trigonometric Functions",
+      "chapterNumber": 5,
+      "chapterId": "CH-05",
+      "displayChapterName": "Trigonometric Functions"
+    },
+    {
+      "lectureNumber": 4,
+      "subject": "Mathematics",
+      "chapterName": "Trigonometric Functions",
+      "chapter": "Trigonometric Functions",
+      "chapterNumber": 5,
+      "chapterId": "CH-05",
+      "displayChapterName": "Trigonometric Functions"
+    },
+    {
+      "lectureNumber": 5,
+      "subject": "Mathematics",
+      "chapterName": "Trigonometric Functions",
+      "chapter": "Trigonometric Functions",
+      "chapterNumber": 5,
+      "chapterId": "CH-05",
+      "displayChapterName": "Trigonometric Functions"
+    },
+    {
+      "lectureNumber": 6,
+      "subject": "Mathematics",
+      "chapterName": "Trigonometric Functions",
+      "chapter": "Trigonometric Functions",
+      "chapterNumber": 5,
+      "chapterId": "CH-05",
+      "displayChapterName": "Trigonometric Functions"
+    },
+    {
+      "lectureNumber": 7,
+      "subject": "Mathematics",
+      "chapterName": "Trigonometric Functions",
+      "chapter": "Trigonometric Functions",
+      "chapterNumber": 5,
+      "chapterId": "CH-05",
+      "displayChapterName": "Trigonometric Functions"
+    },
+    {
+      "lectureNumber": 8,
+      "subject": "Mathematics",
+      "chapterName": "Trigonometric Functions",
+      "chapter": "Trigonometric Functions",
+      "chapterNumber": 5,
+      "chapterId": "CH-05",
+      "displayChapterName": "Trigonometric Functions"
+    },
+    {
+      "lectureNumber": 9,
+      "subject": "Mathematics",
+      "chapterName": "Trigonometric Functions",
+      "chapter": "Trigonometric Functions",
+      "chapterNumber": 5,
+      "chapterId": "CH-05",
+      "displayChapterName": "Trigonometric Functions"
+    },
+    {
+      "lectureNumber": 10,
+      "subject": "Mathematics",
+      "chapterName": "Trigonometric Functions",
+      "chapter": "Trigonometric Functions",
+      "chapterNumber": 5,
+      "chapterId": "CH-05",
+      "displayChapterName": "Trigonometric Functions"
+    },
+    {
+      "lectureNumber": 11,
+      "subject": "Mathematics",
+      "chapterName": "Trigonometric Functions",
+      "chapter": "Trigonometric Functions",
+      "chapterNumber": 5,
+      "chapterId": "CH-05",
+      "displayChapterName": "Trigonometric Functions"
+    },
+    {
+      "lectureNumber": 1,
+      "subject": "Mathematics",
+      "chapterName": "Trigonometric Equation",
+      "chapter": "Trigonometric Equation",
+      "chapterNumber": 6,
+      "chapterId": "CH-06",
+      "displayChapterName": "Trigonometric Equation"
+    },
+    {
+      "lectureNumber": 2,
+      "subject": "Mathematics",
+      "chapterName": "Trigonometric Equation",
+      "chapter": "Trigonometric Equation",
+      "chapterNumber": 6,
+      "chapterId": "CH-06",
+      "displayChapterName": "Trigonometric Equation"
+    },
+    {
+      "lectureNumber": 3,
+      "subject": "Mathematics",
+      "chapterName": "Trigonometric Equation",
+      "chapter": "Trigonometric Equation",
+      "chapterNumber": 6,
+      "chapterId": "CH-06",
+      "displayChapterName": "Trigonometric Equation"
+    },
+    {
+      "lectureNumber": 4,
+      "subject": "Mathematics",
+      "chapterName": "Trigonometric Equation",
+      "chapter": "Trigonometric Equation",
+      "chapterNumber": 6,
+      "chapterId": "CH-06",
+      "displayChapterName": "Trigonometric Equation"
+    },
+    {
+      "lectureNumber": 5,
+      "subject": "Mathematics",
+      "chapterName": "Trigonometric Equation",
+      "chapter": "Trigonometric Equation",
+      "chapterNumber": 6,
+      "chapterId": "CH-06",
+      "displayChapterName": "Trigonometric Equation"
+    },
+    {
+      "lectureNumber": 6,
+      "subject": "Mathematics",
+      "chapterName": "Trigonometric Equation",
+      "chapter": "Trigonometric Equation",
+      "chapterNumber": 6,
+      "chapterId": "CH-06",
+      "displayChapterName": "Trigonometric Equation"
+    },
+    {
+      "lectureNumber": 7,
+      "subject": "Mathematics",
+      "chapterName": "Trigonometric Equation",
+      "chapter": "Trigonometric Equation",
+      "chapterNumber": 6,
+      "chapterId": "CH-06",
+      "displayChapterName": "Trigonometric Equation"
+    },
+    {
+      "lectureNumber": 8,
+      "subject": "Mathematics",
+      "chapterName": "Trigonometric Equation",
+      "chapter": "Trigonometric Equation",
+      "chapterNumber": 6,
+      "chapterId": "CH-06",
+      "displayChapterName": "Trigonometric Equation"
+    },
+    {
+      "lectureNumber": 1,
+      "subject": "Mathematics",
+      "chapterName": "Relation Function",
+      "chapter": "Relation Function",
+      "chapterNumber": 7,
+      "chapterId": "CH-07",
+      "displayChapterName": "Relation Function"
+    },
+    {
+      "lectureNumber": 2,
+      "subject": "Mathematics",
+      "chapterName": "Relation Function",
+      "chapter": "Relation Function",
+      "chapterNumber": 7,
+      "chapterId": "CH-07",
+      "displayChapterName": "Relation Function"
+    },
+    {
+      "lectureNumber": 3,
+      "subject": "Mathematics",
+      "chapterName": "Relation Function",
+      "chapter": "Relation Function",
+      "chapterNumber": 7,
+      "chapterId": "CH-07",
+      "displayChapterName": "Relation Function"
+    },
+    {
+      "lectureNumber": 4,
+      "subject": "Mathematics",
+      "chapterName": "Relation Function",
+      "chapter": "Relation Function",
+      "chapterNumber": 7,
+      "chapterId": "CH-07",
+      "displayChapterName": "Relation Function"
+    },
+    {
+      "lectureNumber": 5,
+      "subject": "Mathematics",
+      "chapterName": "Relation Function",
+      "chapter": "Relation Function",
+      "chapterNumber": 7,
+      "chapterId": "CH-07",
+      "displayChapterName": "Relation Function"
+    },
+    {
+      "lectureNumber": 6,
+      "subject": "Mathematics",
+      "chapterName": "Relation Function",
+      "chapter": "Relation Function",
+      "chapterNumber": 7,
+      "chapterId": "CH-07",
+      "displayChapterName": "Relation Function"
+    },
+    {
+      "lectureNumber": 7,
+      "subject": "Mathematics",
+      "chapterName": "Relation Function",
+      "chapter": "Relation Function",
+      "chapterNumber": 7,
+      "chapterId": "CH-07",
+      "displayChapterName": "Relation Function"
+    },
+    {
+      "lectureNumber": 1,
+      "subject": "Mathematics",
+      "chapterName": "Permutations and Combinations",
+      "chapter": "Permutations and Combinations",
+      "chapterNumber": 8,
+      "chapterId": "CH-08",
+      "displayChapterName": "Permutations and Combinations"
+    },
+    {
+      "lectureNumber": 2,
+      "subject": "Mathematics",
+      "chapterName": "Permutations and Combinations",
+      "chapter": "Permutations and Combinations",
+      "chapterNumber": 8,
+      "chapterId": "CH-08",
+      "displayChapterName": "Permutations and Combinations"
+    },
+    {
+      "lectureNumber": 3,
+      "subject": "Mathematics",
+      "chapterName": "Permutations and Combinations",
+      "chapter": "Permutations and Combinations",
+      "chapterNumber": 8,
+      "chapterId": "CH-08",
+      "displayChapterName": "Permutations and Combinations"
+    },
+    {
+      "lectureNumber": 4,
+      "subject": "Mathematics",
+      "chapterName": "Permutations and Combinations",
+      "chapter": "Permutations and Combinations",
+      "chapterNumber": 8,
+      "chapterId": "CH-08",
+      "displayChapterName": "Permutations and Combinations"
+    },
+    {
+      "lectureNumber": 5,
+      "subject": "Mathematics",
+      "chapterName": "Permutations and Combinations",
+      "chapter": "Permutations and Combinations",
+      "chapterNumber": 8,
+      "chapterId": "CH-08",
+      "displayChapterName": "Permutations and Combinations"
+    },
+    {
+      "lectureNumber": 6,
+      "subject": "Mathematics",
+      "chapterName": "Permutations and Combinations",
+      "chapter": "Permutations and Combinations",
+      "chapterNumber": 8,
+      "chapterId": "CH-08",
+      "displayChapterName": "Permutations and Combinations"
+    },
+    {
+      "lectureNumber": 7,
+      "subject": "Mathematics",
+      "chapterName": "Permutations and Combinations",
+      "chapter": "Permutations and Combinations",
+      "chapterNumber": 8,
+      "chapterId": "CH-08",
+      "displayChapterName": "Permutations and Combinations"
+    },
+    {
+      "lectureNumber": 8,
+      "subject": "Mathematics",
+      "chapterName": "Permutations and Combinations",
+      "chapter": "Permutations and Combinations",
+      "chapterNumber": 8,
+      "chapterId": "CH-08",
+      "displayChapterName": "Permutations and Combinations"
+    },
+    {
+      "lectureNumber": 9,
+      "subject": "Mathematics",
+      "chapterName": "Permutations and Combinations",
+      "chapter": "Permutations and Combinations",
+      "chapterNumber": 8,
+      "chapterId": "CH-08",
+      "displayChapterName": "Permutations and Combinations"
+    },
+    {
+      "lectureNumber": 10,
+      "subject": "Mathematics",
+      "chapterName": "Permutations and Combinations",
+      "chapter": "Permutations and Combinations",
+      "chapterNumber": 8,
+      "chapterId": "CH-08",
+      "displayChapterName": "Permutations and Combinations"
+    },
+    {
+      "lectureNumber": 1,
+      "subject": "Mathematics",
+      "chapterName": "Binomial theorem",
+      "chapter": "Binomial theorem",
+      "chapterNumber": 9,
+      "chapterId": "CH-09",
+      "displayChapterName": "Binomial theorem"
+    },
+    {
+      "lectureNumber": 2,
+      "subject": "Mathematics",
+      "chapterName": "Binomial theorem",
+      "chapter": "Binomial theorem",
+      "chapterNumber": 9,
+      "chapterId": "CH-09",
+      "displayChapterName": "Binomial theorem"
+    },
+    {
+      "lectureNumber": 3,
+      "subject": "Mathematics",
+      "chapterName": "Binomial theorem",
+      "chapter": "Binomial theorem",
+      "chapterNumber": 9,
+      "chapterId": "CH-09",
+      "displayChapterName": "Binomial theorem"
+    },
+    {
+      "lectureNumber": 4,
+      "subject": "Mathematics",
+      "chapterName": "Binomial theorem",
+      "chapter": "Binomial theorem",
+      "chapterNumber": 9,
+      "chapterId": "CH-09",
+      "displayChapterName": "Binomial theorem"
+    },
+    {
+      "lectureNumber": 5,
+      "subject": "Mathematics",
+      "chapterName": "Binomial theorem",
+      "chapter": "Binomial theorem",
+      "chapterNumber": 9,
+      "chapterId": "CH-09",
+      "displayChapterName": "Binomial theorem"
+    },
+    {
+      "lectureNumber": 6,
+      "subject": "Mathematics",
+      "chapterName": "Binomial theorem",
+      "chapter": "Binomial theorem",
+      "chapterNumber": 9,
+      "chapterId": "CH-09",
+      "displayChapterName": "Binomial theorem"
+    },
+    {
+      "lectureNumber": 7,
+      "subject": "Mathematics",
+      "chapterName": "Binomial theorem",
+      "chapter": "Binomial theorem",
+      "chapterNumber": 9,
+      "chapterId": "CH-09",
+      "displayChapterName": "Binomial theorem"
+    },
+    {
+      "lectureNumber": 8,
+      "subject": "Mathematics",
+      "chapterName": "Binomial theorem",
+      "chapter": "Binomial theorem",
+      "chapterNumber": 9,
+      "chapterId": "CH-09",
+      "displayChapterName": "Binomial theorem"
+    },
+    {
+      "lectureNumber": 9,
+      "subject": "Mathematics",
+      "chapterName": "Binomial theorem",
+      "chapter": "Binomial theorem",
+      "chapterNumber": 9,
+      "chapterId": "CH-09",
+      "displayChapterName": "Binomial theorem"
+    },
+    {
+      "lectureNumber": 10,
+      "subject": "Mathematics",
+      "chapterName": "Binomial theorem",
+      "chapter": "Binomial theorem",
+      "chapterNumber": 9,
+      "chapterId": "CH-09",
+      "displayChapterName": "Binomial theorem"
+    },
+    {
+      "lectureNumber": 1,
+      "subject": "Mathematics",
+      "chapterName": "Straight Lines",
+      "chapter": "Straight Lines",
+      "chapterNumber": 10,
+      "chapterId": "CH-10",
+      "displayChapterName": "Straight Lines"
+    },
+    {
+      "lectureNumber": 2,
+      "subject": "Mathematics",
+      "chapterName": "Straight Lines",
+      "chapter": "Straight Lines",
+      "chapterNumber": 10,
+      "chapterId": "CH-10",
+      "displayChapterName": "Straight Lines"
+    },
+    {
+      "lectureNumber": 3,
+      "subject": "Mathematics",
+      "chapterName": "Straight Lines",
+      "chapter": "Straight Lines",
+      "chapterNumber": 10,
+      "chapterId": "CH-10",
+      "displayChapterName": "Straight Lines"
+    },
+    {
+      "lectureNumber": 4,
+      "subject": "Mathematics",
+      "chapterName": "Straight Lines",
+      "chapter": "Straight Lines",
+      "chapterNumber": 10,
+      "chapterId": "CH-10",
+      "displayChapterName": "Straight Lines"
+    },
+    {
+      "lectureNumber": 5,
+      "subject": "Mathematics",
+      "chapterName": "Straight Lines",
+      "chapter": "Straight Lines",
+      "chapterNumber": 10,
+      "chapterId": "CH-10",
+      "displayChapterName": "Straight Lines"
+    },
+    {
+      "lectureNumber": 6,
+      "subject": "Mathematics",
+      "chapterName": "Straight Lines",
+      "chapter": "Straight Lines",
+      "chapterNumber": 10,
+      "chapterId": "CH-10",
+      "displayChapterName": "Straight Lines"
+    },
+    {
+      "lectureNumber": 7,
+      "subject": "Mathematics",
+      "chapterName": "Straight Lines",
+      "chapter": "Straight Lines",
+      "chapterNumber": 10,
+      "chapterId": "CH-10",
+      "displayChapterName": "Straight Lines"
+    },
+    {
+      "lectureNumber": 8,
+      "subject": "Mathematics",
+      "chapterName": "Straight Lines",
+      "chapter": "Straight Lines",
+      "chapterNumber": 10,
+      "chapterId": "CH-10",
+      "displayChapterName": "Straight Lines"
+    },
+    {
+      "lectureNumber": 9,
+      "subject": "Mathematics",
+      "chapterName": "Straight Lines",
+      "chapter": "Straight Lines",
+      "chapterNumber": 10,
+      "chapterId": "CH-10",
+      "displayChapterName": "Straight Lines"
+    },
+    {
+      "lectureNumber": 10,
+      "subject": "Mathematics",
+      "chapterName": "Straight Lines",
+      "chapter": "Straight Lines",
+      "chapterNumber": 10,
+      "chapterId": "CH-10",
+      "displayChapterName": "Straight Lines"
+    },
+    {
+      "lectureNumber": 11,
+      "subject": "Mathematics",
+      "chapterName": "Straight Lines",
+      "chapter": "Straight Lines",
+      "chapterNumber": 10,
+      "chapterId": "CH-10",
+      "displayChapterName": "Straight Lines"
+    },
+    {
+      "lectureNumber": 12,
+      "subject": "Mathematics",
+      "chapterName": "Straight Lines",
+      "chapter": "Straight Lines",
+      "chapterNumber": 10,
+      "chapterId": "CH-10",
+      "displayChapterName": "Straight Lines"
+    },
+    {
+      "lectureNumber": 13,
+      "subject": "Mathematics",
+      "chapterName": "Straight Lines",
+      "chapter": "Straight Lines",
+      "chapterNumber": 10,
+      "chapterId": "CH-10",
+      "displayChapterName": "Straight Lines"
+    },
+    {
+      "lectureNumber": 1,
+      "subject": "Mathematics",
+      "chapterName": "Circles",
+      "chapter": "Circles",
+      "chapterNumber": 11,
+      "chapterId": "CH-11",
+      "displayChapterName": "Circles"
+    },
+    {
+      "lectureNumber": 2,
+      "subject": "Mathematics",
+      "chapterName": "Circles",
+      "chapter": "Circles",
+      "chapterNumber": 11,
+      "chapterId": "CH-11",
+      "displayChapterName": "Circles"
+    },
+    {
+      "lectureNumber": 3,
+      "subject": "Mathematics",
+      "chapterName": "Circles",
+      "chapter": "Circles",
+      "chapterNumber": 11,
+      "chapterId": "CH-11",
+      "displayChapterName": "Circles"
+    },
+    {
+      "lectureNumber": 4,
+      "subject": "Mathematics",
+      "chapterName": "Circles",
+      "chapter": "Circles",
+      "chapterNumber": 11,
+      "chapterId": "CH-11",
+      "displayChapterName": "Circles"
+    },
+    {
+      "lectureNumber": 5,
+      "subject": "Mathematics",
+      "chapterName": "Circles",
+      "chapter": "Circles",
+      "chapterNumber": 11,
+      "chapterId": "CH-11",
+      "displayChapterName": "Circles"
+    },
+    {
+      "lectureNumber": 6,
+      "subject": "Mathematics",
+      "chapterName": "Circles",
+      "chapter": "Circles",
+      "chapterNumber": 11,
+      "chapterId": "CH-11",
+      "displayChapterName": "Circles"
+    },
+    {
+      "lectureNumber": 7,
+      "subject": "Mathematics",
+      "chapterName": "Circles",
+      "chapter": "Circles",
+      "chapterNumber": 11,
+      "chapterId": "CH-11",
+      "displayChapterName": "Circles"
+    },
+    {
+      "lectureNumber": 8,
+      "subject": "Mathematics",
+      "chapterName": "Circles",
+      "chapter": "Circles",
+      "chapterNumber": 11,
+      "chapterId": "CH-11",
+      "displayChapterName": "Circles"
+    },
+    {
+      "lectureNumber": 9,
+      "subject": "Mathematics",
+      "chapterName": "Circles",
+      "chapter": "Circles",
+      "chapterNumber": 11,
+      "chapterId": "CH-11",
+      "displayChapterName": "Circles"
+    },
+    {
+      "lectureNumber": 10,
+      "subject": "Mathematics",
+      "chapterName": "Circles",
+      "chapter": "Circles",
+      "chapterNumber": 11,
+      "chapterId": "CH-11",
+      "displayChapterName": "Circles"
+    },
+    {
+      "lectureNumber": 1,
+      "subject": "Mathematics",
+      "chapterName": "Conic Sections:Parabola",
+      "chapter": "Conic Sections:Parabola",
+      "chapterNumber": 12,
+      "chapterId": "CH-12",
+      "displayChapterName": "Conic Sections:Parabola"
+    },
+    {
+      "lectureNumber": 2,
+      "subject": "Mathematics",
+      "chapterName": "Conic Sections:Parabola",
+      "chapter": "Conic Sections:Parabola",
+      "chapterNumber": 12,
+      "chapterId": "CH-12",
+      "displayChapterName": "Conic Sections:Parabola"
+    },
+    {
+      "lectureNumber": 3,
+      "subject": "Mathematics",
+      "chapterName": "Conic Sections:Parabola",
+      "chapter": "Conic Sections:Parabola",
+      "chapterNumber": 12,
+      "chapterId": "CH-12",
+      "displayChapterName": "Conic Sections:Parabola"
+    },
+    {
+      "lectureNumber": 4,
+      "subject": "Mathematics",
+      "chapterName": "Conic Sections:Parabola",
+      "chapter": "Conic Sections:Parabola",
+      "chapterNumber": 12,
+      "chapterId": "CH-12",
+      "displayChapterName": "Conic Sections:Parabola"
+    },
+    {
+      "lectureNumber": 5,
+      "subject": "Mathematics",
+      "chapterName": "Conic Sections:Parabola",
+      "chapter": "Conic Sections:Parabola",
+      "chapterNumber": 12,
+      "chapterId": "CH-12",
+      "displayChapterName": "Conic Sections:Parabola"
+    },
+    {
+      "lectureNumber": 6,
+      "subject": "Mathematics",
+      "chapterName": "Conic Sections:Parabola",
+      "chapter": "Conic Sections:Parabola",
+      "chapterNumber": 12,
+      "chapterId": "CH-12",
+      "displayChapterName": "Conic Sections:Parabola"
+    },
+    {
+      "lectureNumber": 7,
+      "subject": "Mathematics",
+      "chapterName": "Conic Sections:Parabola",
+      "chapter": "Conic Sections:Parabola",
+      "chapterNumber": 12,
+      "chapterId": "CH-12",
+      "displayChapterName": "Conic Sections:Parabola"
+    },
+    {
+      "lectureNumber": 8,
+      "subject": "Mathematics",
+      "chapterName": "Conic Sections:Parabola",
+      "chapter": "Conic Sections:Parabola",
+      "chapterNumber": 12,
+      "chapterId": "CH-12",
+      "displayChapterName": "Conic Sections:Parabola"
+    },
+    {
+      "lectureNumber": 9,
+      "subject": "Mathematics",
+      "chapterName": "Conic Sections:Parabola",
+      "chapter": "Conic Sections:Parabola",
+      "chapterNumber": 12,
+      "chapterId": "CH-12",
+      "displayChapterName": "Conic Sections:Parabola"
+    },
+    {
+      "lectureNumber": 1,
+      "subject": "Mathematics",
+      "chapterName": "Conic Sections:Ellipse",
+      "chapter": "Conic Sections:Ellipse",
+      "chapterNumber": 13,
+      "chapterId": "CH-13",
+      "displayChapterName": "Conic Sections:Ellipse"
+    },
+    {
+      "lectureNumber": 2,
+      "subject": "Mathematics",
+      "chapterName": "Conic Sections:Ellipse",
+      "chapter": "Conic Sections:Ellipse",
+      "chapterNumber": 13,
+      "chapterId": "CH-13",
+      "displayChapterName": "Conic Sections:Ellipse"
+    },
+    {
+      "lectureNumber": 3,
+      "subject": "Mathematics",
+      "chapterName": "Conic Sections:Ellipse",
+      "chapter": "Conic Sections:Ellipse",
+      "chapterNumber": 13,
+      "chapterId": "CH-13",
+      "displayChapterName": "Conic Sections:Ellipse"
+    },
+    {
+      "lectureNumber": 4,
+      "subject": "Mathematics",
+      "chapterName": "Conic Sections:Ellipse",
+      "chapter": "Conic Sections:Ellipse",
+      "chapterNumber": 13,
+      "chapterId": "CH-13",
+      "displayChapterName": "Conic Sections:Ellipse"
+    },
+    {
+      "lectureNumber": 5,
+      "subject": "Mathematics",
+      "chapterName": "Conic Sections:Ellipse",
+      "chapter": "Conic Sections:Ellipse",
+      "chapterNumber": 13,
+      "chapterId": "CH-13",
+      "displayChapterName": "Conic Sections:Ellipse"
+    },
+    {
+      "lectureNumber": 6,
+      "subject": "Mathematics",
+      "chapterName": "Conic Sections:Ellipse",
+      "chapter": "Conic Sections:Ellipse",
+      "chapterNumber": 13,
+      "chapterId": "CH-13",
+      "displayChapterName": "Conic Sections:Ellipse"
+    },
+    {
+      "lectureNumber": 7,
+      "subject": "Mathematics",
+      "chapterName": "Conic Sections:Ellipse",
+      "chapter": "Conic Sections:Ellipse",
+      "chapterNumber": 13,
+      "chapterId": "CH-13",
+      "displayChapterName": "Conic Sections:Ellipse"
+    },
+    {
+      "lectureNumber": 1,
+      "subject": "Mathematics",
+      "chapterName": "Conic Sections:Hyperbola",
+      "chapter": "Conic Sections:Hyperbola",
+      "chapterNumber": 14,
+      "chapterId": "CH-14",
+      "displayChapterName": "Conic Sections:Hyperbola"
+    },
+    {
+      "lectureNumber": 2,
+      "subject": "Mathematics",
+      "chapterName": "Conic Sections:Hyperbola",
+      "chapter": "Conic Sections:Hyperbola",
+      "chapterNumber": 14,
+      "chapterId": "CH-14",
+      "displayChapterName": "Conic Sections:Hyperbola"
+    },
+    {
+      "lectureNumber": 3,
+      "subject": "Mathematics",
+      "chapterName": "Conic Sections:Hyperbola",
+      "chapter": "Conic Sections:Hyperbola",
+      "chapterNumber": 14,
+      "chapterId": "CH-14",
+      "displayChapterName": "Conic Sections:Hyperbola"
+    },
+    {
+      "lectureNumber": 4,
+      "subject": "Mathematics",
+      "chapterName": "Conic Sections:Hyperbola",
+      "chapter": "Conic Sections:Hyperbola",
+      "chapterNumber": 14,
+      "chapterId": "CH-14",
+      "displayChapterName": "Conic Sections:Hyperbola"
+    },
+    {
+      "lectureNumber": 5,
+      "subject": "Mathematics",
+      "chapterName": "Conic Sections:Hyperbola",
+      "chapter": "Conic Sections:Hyperbola",
+      "chapterNumber": 14,
+      "chapterId": "CH-14",
+      "displayChapterName": "Conic Sections:Hyperbola"
+    },
+    {
+      "lectureNumber": 1,
+      "subject": "Mathematics",
+      "chapterName": "Complex Number",
+      "chapter": "Complex Number",
+      "chapterNumber": 15,
+      "chapterId": "CH-15",
+      "displayChapterName": "Complex Number"
+    },
+    {
+      "lectureNumber": 2,
+      "subject": "Mathematics",
+      "chapterName": "Complex Number",
+      "chapter": "Complex Number",
+      "chapterNumber": 15,
+      "chapterId": "CH-15",
+      "displayChapterName": "Complex Number"
+    },
+    {
+      "lectureNumber": 3,
+      "subject": "Mathematics",
+      "chapterName": "Complex Number",
+      "chapter": "Complex Number",
+      "chapterNumber": 15,
+      "chapterId": "CH-15",
+      "displayChapterName": "Complex Number"
+    },
+    {
+      "lectureNumber": 4,
+      "subject": "Mathematics",
+      "chapterName": "Complex Number",
+      "chapter": "Complex Number",
+      "chapterNumber": 15,
+      "chapterId": "CH-15",
+      "displayChapterName": "Complex Number"
+    },
+    {
+      "lectureNumber": 5,
+      "subject": "Mathematics",
+      "chapterName": "Complex Number",
+      "chapter": "Complex Number",
+      "chapterNumber": 15,
+      "chapterId": "CH-15",
+      "displayChapterName": "Complex Number"
+    },
+    {
+      "lectureNumber": 6,
+      "subject": "Mathematics",
+      "chapterName": "Complex Number",
+      "chapter": "Complex Number",
+      "chapterNumber": 15,
+      "chapterId": "CH-15",
+      "displayChapterName": "Complex Number"
+    },
+    {
+      "lectureNumber": 7,
+      "subject": "Mathematics",
+      "chapterName": "Complex Number",
+      "chapter": "Complex Number",
+      "chapterNumber": 15,
+      "chapterId": "CH-15",
+      "displayChapterName": "Complex Number"
+    },
+    {
+      "lectureNumber": 8,
+      "subject": "Mathematics",
+      "chapterName": "Complex Number",
+      "chapter": "Complex Number",
+      "chapterNumber": 15,
+      "chapterId": "CH-15",
+      "displayChapterName": "Complex Number"
+    },
+    {
+      "lectureNumber": 9,
+      "subject": "Mathematics",
+      "chapterName": "Complex Number",
+      "chapter": "Complex Number",
+      "chapterNumber": 15,
+      "chapterId": "CH-15",
+      "displayChapterName": "Complex Number"
+    },
+    {
+      "lectureNumber": 10,
+      "subject": "Mathematics",
+      "chapterName": "Complex Number",
+      "chapter": "Complex Number",
+      "chapterNumber": 15,
+      "chapterId": "CH-15",
+      "displayChapterName": "Complex Number"
+    },
+    {
+      "lectureNumber": 1,
+      "subject": "Mathematics",
+      "chapterName": "Limits and Derivatives",
+      "chapter": "Limits and Derivatives",
+      "chapterNumber": 16,
+      "chapterId": "CH-16",
+      "displayChapterName": "Limits and Derivatives"
+    },
+    {
+      "lectureNumber": 2,
+      "subject": "Mathematics",
+      "chapterName": "Limits and Derivatives",
+      "chapter": "Limits and Derivatives",
+      "chapterNumber": 16,
+      "chapterId": "CH-16",
+      "displayChapterName": "Limits and Derivatives"
+    },
+    {
+      "lectureNumber": 3,
+      "subject": "Mathematics",
+      "chapterName": "Limits and Derivatives",
+      "chapter": "Limits and Derivatives",
+      "chapterNumber": 16,
+      "chapterId": "CH-16",
+      "displayChapterName": "Limits and Derivatives"
+    },
+    {
+      "lectureNumber": 1,
+      "subject": "Mathematics",
+      "chapterName": "Statistics",
+      "chapter": "Statistics",
+      "chapterNumber": 17,
+      "chapterId": "CH-17",
+      "displayChapterName": "Statistics"
+    },
+    {
+      "lectureNumber": 2,
+      "subject": "Mathematics",
+      "chapterName": "Statistics",
+      "chapter": "Statistics",
+      "chapterNumber": 17,
+      "chapterId": "CH-17",
+      "displayChapterName": "Statistics"
+    },
+    {
+      "lectureNumber": 3,
+      "subject": "Mathematics",
+      "chapterName": "Statistics",
+      "chapter": "Statistics",
+      "chapterNumber": 17,
+      "chapterId": "CH-17",
+      "displayChapterName": "Statistics"
+    },
+    {
+      "lectureNumber": 4,
+      "subject": "Mathematics",
+      "chapterName": "Statistics",
+      "chapter": "Statistics",
+      "chapterNumber": 17,
+      "chapterId": "CH-17",
+      "displayChapterName": "Statistics"
+    },
+    {
+      "lectureNumber": 1,
+      "subject": "Mathematics",
+      "chapterName": "Probability",
+      "chapter": "Probability",
+      "chapterNumber": 18,
+      "chapterId": "CH-18",
+      "displayChapterName": "Probability"
+    },
+    {
+      "lectureNumber": 2,
+      "subject": "Mathematics",
+      "chapterName": "Probability",
+      "chapter": "Probability",
+      "chapterNumber": 18,
+      "chapterId": "CH-18",
+      "displayChapterName": "Probability"
+    },
+    {
+      "lectureNumber": 1,
+      "subject": "Mathematics",
+      "chapterName": "Introduction to Three Dimensional Geometry",
+      "chapter": "Introduction to Three Dimensional Geometry",
+      "chapterNumber": 19,
+      "chapterId": "CH-19",
+      "displayChapterName": "Introduction to Three Dimensional Geometry"
+    },
+    {
+      "lectureNumber": 2,
+      "subject": "Mathematics",
+      "chapterName": "Introduction to Three Dimensional Geometry",
+      "chapter": "Introduction to Three Dimensional Geometry",
+      "chapterNumber": 19,
+      "chapterId": "CH-19",
+      "displayChapterName": "Introduction to Three Dimensional Geometry"
+    },
+    {
+      "lectureNumber": 1,
+      "subject": "Mathematics",
+      "chapterName": "Linear Inequalities",
+      "chapter": "Linear Inequalities",
+      "chapterNumber": 20,
+      "chapterId": "CH-20",
+      "displayChapterName": "Linear Inequalities"
+    },
+    {
+      "lectureNumber": 2,
+      "subject": "Mathematics",
+      "chapterName": "Linear Inequalities",
+      "chapter": "Linear Inequalities",
+      "chapterNumber": 20,
+      "chapterId": "CH-20",
+      "displayChapterName": "Linear Inequalities"
+    },
+    {
+      "lectureNumber": 1,
+      "subject": "Mathematics",
+      "chapterName": "Solution of Triangle",
+      "chapter": "Solution of Triangle",
+      "chapterNumber": 21,
+      "chapterId": "CH-21",
+      "displayChapterName": "Solution of Triangle"
+    },
+    {
+      "lectureNumber": 2,
+      "subject": "Mathematics",
+      "chapterName": "Solution of Triangle",
+      "chapter": "Solution of Triangle",
+      "chapterNumber": 21,
+      "chapterId": "CH-21",
+      "displayChapterName": "Solution of Triangle"
+    },
+    {
+      "lectureNumber": 11,
+      "subject": "Mathematics",
+      "chapterName": "Permutations and Combinations",
+      "chapter": "Permutations and Combinations",
+      "chapterNumber": 8,
+      "chapterId": "CH-08",
+      "displayChapterName": "Permutations and Combinations"
+    }
+  ]
+}

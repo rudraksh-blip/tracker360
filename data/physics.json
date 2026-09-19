@@ -1,0 +1,3294 @@
+{
+  "schemaVersion": "tracker360-physics-v2",
+  "displayRule": "Always display chapterName/displayChapterName; never generate Chapter 1, Chapter 2, etc.",
+  "subject": "Physics",
+  "batchName": "Arjuna JEE 2027",
+  "totalChapters": 16,
+  "totalLectures": 173,
+  "chapters": [
+    {
+      "chapterNumber": 1,
+      "chapterId": "physics-ch-01",
+      "chapterName": "Units and Measurements",
+      "name": "Units and Measurements",
+      "displayName": "Units and Measurements",
+      "lectureCount": 13,
+      "lectures": [
+        {
+          "lectureNumber": 1,
+          "subject": "Physics",
+          "chapterName": "Units and Measurements",
+          "chapter": "Units and Measurements",
+          "chapterNumber": 1,
+          "chapterId": "physics-ch-01",
+          "displayChapterName": "Units and Measurements"
+        },
+        {
+          "lectureNumber": 2,
+          "subject": "Physics",
+          "chapterName": "Units and Measurements",
+          "chapter": "Units and Measurements",
+          "chapterNumber": 1,
+          "chapterId": "physics-ch-01",
+          "displayChapterName": "Units and Measurements"
+        },
+        {
+          "lectureNumber": 3,
+          "subject": "Physics",
+          "chapterName": "Units and Measurements",
+          "chapter": "Units and Measurements",
+          "chapterNumber": 1,
+          "chapterId": "physics-ch-01",
+          "displayChapterName": "Units and Measurements"
+        },
+        {
+          "lectureNumber": 4,
+          "subject": "Physics",
+          "chapterName": "Units and Measurements",
+          "chapter": "Units and Measurements",
+          "chapterNumber": 1,
+          "chapterId": "physics-ch-01",
+          "displayChapterName": "Units and Measurements"
+        },
+        {
+          "lectureNumber": 5,
+          "subject": "Physics",
+          "chapterName": "Units and Measurements",
+          "chapter": "Units and Measurements",
+          "chapterNumber": 1,
+          "chapterId": "physics-ch-01",
+          "displayChapterName": "Units and Measurements"
+        },
+        {
+          "lectureNumber": 6,
+          "subject": "Physics",
+          "chapterName": "Units and Measurements",
+          "chapter": "Units and Measurements",
+          "chapterNumber": 1,
+          "chapterId": "physics-ch-01",
+          "displayChapterName": "Units and Measurements"
+        },
+        {
+          "lectureNumber": 7,
+          "subject": "Physics",
+          "chapterName": "Units and Measurements",
+          "chapter": "Units and Measurements",
+          "chapterNumber": 1,
+          "chapterId": "physics-ch-01",
+          "displayChapterName": "Units and Measurements"
+        },
+        {
+          "lectureNumber": 8,
+          "subject": "Physics",
+          "chapterName": "Units and Measurements",
+          "chapter": "Units and Measurements",
+          "chapterNumber": 1,
+          "chapterId": "physics-ch-01",
+          "displayChapterName": "Units and Measurements"
+        },
+        {
+          "lectureNumber": 9,
+          "subject": "Physics",
+          "chapterName": "Units and Measurements",
+          "chapter": "Units and Measurements",
+          "chapterNumber": 1,
+          "chapterId": "physics-ch-01",
+          "displayChapterName": "Units and Measurements"
+        },
+        {
+          "lectureNumber": 10,
+          "subject": "Physics",
+          "chapterName": "Units and Measurements",
+          "chapter": "Units and Measurements",
+          "chapterNumber": 1,
+          "chapterId": "physics-ch-01",
+          "displayChapterName": "Units and Measurements"
+        },
+        {
+          "lectureNumber": 11,
+          "subject": "Physics",
+          "chapterName": "Units and Measurements",
+          "chapter": "Units and Measurements",
+          "chapterNumber": 1,
+          "chapterId": "physics-ch-01",
+          "displayChapterName": "Units and Measurements"
+        },
+        {
+          "lectureNumber": 12,
+          "subject": "Physics",
+          "chapterName": "Units and Measurements",
+          "chapter": "Units and Measurements",
+          "chapterNumber": 1,
+          "chapterId": "physics-ch-01",
+          "displayChapterName": "Units and Measurements"
+        },
+        {
+          "lectureNumber": 13,
+          "subject": "Physics",
+          "chapterName": "Units and Measurements",
+          "chapter": "Units and Measurements",
+          "chapterNumber": 1,
+          "chapterId": "physics-ch-01",
+          "displayChapterName": "Units and Measurements"
+        }
+      ]
+    },
+    {
+      "chapterNumber": 2,
+      "chapterId": "physics-ch-02",
+      "chapterName": "Mathematical Tools",
+      "name": "Mathematical Tools",
+      "displayName": "Mathematical Tools",
+      "lectureCount": 12,
+      "lectures": [
+        {
+          "lectureNumber": 1,
+          "subject": "Physics",
+          "chapterName": "Mathematical Tools",
+          "chapter": "Mathematical Tools",
+          "chapterNumber": 2,
+          "chapterId": "physics-ch-02",
+          "displayChapterName": "Mathematical Tools"
+        },
+        {
+          "lectureNumber": 2,
+          "subject": "Physics",
+          "chapterName": "Mathematical Tools",
+          "chapter": "Mathematical Tools",
+          "chapterNumber": 2,
+          "chapterId": "physics-ch-02",
+          "displayChapterName": "Mathematical Tools"
+        },
+        {
+          "lectureNumber": 3,
+          "subject": "Physics",
+          "chapterName": "Mathematical Tools",
+          "chapter": "Mathematical Tools",
+          "chapterNumber": 2,
+          "chapterId": "physics-ch-02",
+          "displayChapterName": "Mathematical Tools"
+        },
+        {
+          "lectureNumber": 4,
+          "subject": "Physics",
+          "chapterName": "Mathematical Tools",
+          "chapter": "Mathematical Tools",
+          "chapterNumber": 2,
+          "chapterId": "physics-ch-02",
+          "displayChapterName": "Mathematical Tools"
+        },
+        {
+          "lectureNumber": 5,
+          "subject": "Physics",
+          "chapterName": "Mathematical Tools",
+          "chapter": "Mathematical Tools",
+          "chapterNumber": 2,
+          "chapterId": "physics-ch-02",
+          "displayChapterName": "Mathematical Tools"
+        },
+        {
+          "lectureNumber": 6,
+          "subject": "Physics",
+          "chapterName": "Mathematical Tools",
+          "chapter": "Mathematical Tools",
+          "chapterNumber": 2,
+          "chapterId": "physics-ch-02",
+          "displayChapterName": "Mathematical Tools"
+        },
+        {
+          "lectureNumber": 7,
+          "subject": "Physics",
+          "chapterName": "Mathematical Tools",
+          "chapter": "Mathematical Tools",
+          "chapterNumber": 2,
+          "chapterId": "physics-ch-02",
+          "displayChapterName": "Mathematical Tools"
+        },
+        {
+          "lectureNumber": 8,
+          "subject": "Physics",
+          "chapterName": "Mathematical Tools",
+          "chapter": "Mathematical Tools",
+          "chapterNumber": 2,
+          "chapterId": "physics-ch-02",
+          "displayChapterName": "Mathematical Tools"
+        },
+        {
+          "lectureNumber": 9,
+          "subject": "Physics",
+          "chapterName": "Mathematical Tools",
+          "chapter": "Mathematical Tools",
+          "chapterNumber": 2,
+          "chapterId": "physics-ch-02",
+          "displayChapterName": "Mathematical Tools"
+        },
+        {
+          "lectureNumber": 10,
+          "subject": "Physics",
+          "chapterName": "Mathematical Tools",
+          "chapter": "Mathematical Tools",
+          "chapterNumber": 2,
+          "chapterId": "physics-ch-02",
+          "displayChapterName": "Mathematical Tools"
+        },
+        {
+          "lectureNumber": 11,
+          "subject": "Physics",
+          "chapterName": "Mathematical Tools",
+          "chapter": "Mathematical Tools",
+          "chapterNumber": 2,
+          "chapterId": "physics-ch-02",
+          "displayChapterName": "Mathematical Tools"
+        },
+        {
+          "lectureNumber": 12,
+          "subject": "Physics",
+          "chapterName": "Mathematical Tools",
+          "chapter": "Mathematical Tools",
+          "chapterNumber": 2,
+          "chapterId": "physics-ch-02",
+          "displayChapterName": "Mathematical Tools"
+        }
+      ],
+      "screenshotLectureTotal": 11,
+      "lectureCountNote": "Screenshot shows a different total. This field records the screenshot total. Lecture records remain limited to the lectures explicitly present in the uploaded PDF."
+    },
+    {
+      "chapterNumber": 3,
+      "chapterId": "physics-ch-03",
+      "chapterName": "Motion in a Straight Line",
+      "name": "Motion in a Straight Line",
+      "displayName": "Motion in a Straight Line",
+      "lectureCount": 16,
+      "lectures": [
+        {
+          "lectureNumber": 1,
+          "subject": "Physics",
+          "chapterName": "Motion in a Straight Line",
+          "chapter": "Motion in a Straight Line",
+          "chapterNumber": 3,
+          "chapterId": "physics-ch-03",
+          "displayChapterName": "Motion in a Straight Line"
+        },
+        {
+          "lectureNumber": 2,
+          "subject": "Physics",
+          "chapterName": "Motion in a Straight Line",
+          "chapter": "Motion in a Straight Line",
+          "chapterNumber": 3,
+          "chapterId": "physics-ch-03",
+          "displayChapterName": "Motion in a Straight Line"
+        },
+        {
+          "lectureNumber": 3,
+          "subject": "Physics",
+          "chapterName": "Motion in a Straight Line",
+          "chapter": "Motion in a Straight Line",
+          "chapterNumber": 3,
+          "chapterId": "physics-ch-03",
+          "displayChapterName": "Motion in a Straight Line"
+        },
+        {
+          "lectureNumber": 4,
+          "subject": "Physics",
+          "chapterName": "Motion in a Straight Line",
+          "chapter": "Motion in a Straight Line",
+          "chapterNumber": 3,
+          "chapterId": "physics-ch-03",
+          "displayChapterName": "Motion in a Straight Line"
+        },
+        {
+          "lectureNumber": 5,
+          "subject": "Physics",
+          "chapterName": "Motion in a Straight Line",
+          "chapter": "Motion in a Straight Line",
+          "chapterNumber": 3,
+          "chapterId": "physics-ch-03",
+          "displayChapterName": "Motion in a Straight Line"
+        },
+        {
+          "lectureNumber": 6,
+          "subject": "Physics",
+          "chapterName": "Motion in a Straight Line",
+          "chapter": "Motion in a Straight Line",
+          "chapterNumber": 3,
+          "chapterId": "physics-ch-03",
+          "displayChapterName": "Motion in a Straight Line"
+        },
+        {
+          "lectureNumber": 7,
+          "subject": "Physics",
+          "chapterName": "Motion in a Straight Line",
+          "chapter": "Motion in a Straight Line",
+          "chapterNumber": 3,
+          "chapterId": "physics-ch-03",
+          "displayChapterName": "Motion in a Straight Line"
+        },
+        {
+          "lectureNumber": 8,
+          "subject": "Physics",
+          "chapterName": "Motion in a Straight Line",
+          "chapter": "Motion in a Straight Line",
+          "chapterNumber": 3,
+          "chapterId": "physics-ch-03",
+          "displayChapterName": "Motion in a Straight Line"
+        },
+        {
+          "lectureNumber": 9,
+          "subject": "Physics",
+          "chapterName": "Motion in a Straight Line",
+          "chapter": "Motion in a Straight Line",
+          "chapterNumber": 3,
+          "chapterId": "physics-ch-03",
+          "displayChapterName": "Motion in a Straight Line"
+        },
+        {
+          "lectureNumber": 10,
+          "subject": "Physics",
+          "chapterName": "Motion in a Straight Line",
+          "chapter": "Motion in a Straight Line",
+          "chapterNumber": 3,
+          "chapterId": "physics-ch-03",
+          "displayChapterName": "Motion in a Straight Line"
+        },
+        {
+          "lectureNumber": 11,
+          "subject": "Physics",
+          "chapterName": "Motion in a Straight Line",
+          "chapter": "Motion in a Straight Line",
+          "chapterNumber": 3,
+          "chapterId": "physics-ch-03",
+          "displayChapterName": "Motion in a Straight Line"
+        },
+        {
+          "lectureNumber": 12,
+          "subject": "Physics",
+          "chapterName": "Motion in a Straight Line",
+          "chapter": "Motion in a Straight Line",
+          "chapterNumber": 3,
+          "chapterId": "physics-ch-03",
+          "displayChapterName": "Motion in a Straight Line"
+        },
+        {
+          "lectureNumber": 13,
+          "subject": "Physics",
+          "chapterName": "Motion in a Straight Line",
+          "chapter": "Motion in a Straight Line",
+          "chapterNumber": 3,
+          "chapterId": "physics-ch-03",
+          "displayChapterName": "Motion in a Straight Line"
+        },
+        {
+          "lectureNumber": 14,
+          "subject": "Physics",
+          "chapterName": "Motion in a Straight Line",
+          "chapter": "Motion in a Straight Line",
+          "chapterNumber": 3,
+          "chapterId": "physics-ch-03",
+          "displayChapterName": "Motion in a Straight Line"
+        },
+        {
+          "lectureNumber": 15,
+          "subject": "Physics",
+          "chapterName": "Motion in a Straight Line",
+          "chapter": "Motion in a Straight Line",
+          "chapterNumber": 3,
+          "chapterId": "physics-ch-03",
+          "displayChapterName": "Motion in a Straight Line"
+        },
+        {
+          "lectureNumber": 16,
+          "subject": "Physics",
+          "chapterName": "Motion in a Straight Line",
+          "chapter": "Motion in a Straight Line",
+          "chapterNumber": 3,
+          "chapterId": "physics-ch-03",
+          "displayChapterName": "Motion in a Straight Line"
+        }
+      ],
+      "screenshotLectureTotal": 19,
+      "lectureCountNote": "Screenshot shows a different total. This field records the screenshot total. Lecture records remain limited to the lectures explicitly present in the uploaded PDF."
+    },
+    {
+      "chapterNumber": 4,
+      "chapterId": "physics-ch-04",
+      "chapterName": "Motion in a Plane",
+      "name": "Motion in a Plane",
+      "displayName": "Motion in a Plane",
+      "lectureCount": 17,
+      "lectures": [
+        {
+          "lectureNumber": 1,
+          "subject": "Physics",
+          "chapterName": "Motion in a Plane",
+          "chapter": "Motion in a Plane",
+          "chapterNumber": 4,
+          "chapterId": "physics-ch-04",
+          "displayChapterName": "Motion in a Plane"
+        },
+        {
+          "lectureNumber": 2,
+          "subject": "Physics",
+          "chapterName": "Motion in a Plane",
+          "chapter": "Motion in a Plane",
+          "chapterNumber": 4,
+          "chapterId": "physics-ch-04",
+          "displayChapterName": "Motion in a Plane"
+        },
+        {
+          "lectureNumber": 3,
+          "subject": "Physics",
+          "chapterName": "Motion in a Plane",
+          "chapter": "Motion in a Plane",
+          "chapterNumber": 4,
+          "chapterId": "physics-ch-04",
+          "displayChapterName": "Motion in a Plane"
+        },
+        {
+          "lectureNumber": 4,
+          "subject": "Physics",
+          "chapterName": "Motion in a Plane",
+          "chapter": "Motion in a Plane",
+          "chapterNumber": 4,
+          "chapterId": "physics-ch-04",
+          "displayChapterName": "Motion in a Plane"
+        },
+        {
+          "lectureNumber": 5,
+          "subject": "Physics",
+          "chapterName": "Motion in a Plane",
+          "chapter": "Motion in a Plane",
+          "chapterNumber": 4,
+          "chapterId": "physics-ch-04",
+          "displayChapterName": "Motion in a Plane"
+        },
+        {
+          "lectureNumber": 6,
+          "subject": "Physics",
+          "chapterName": "Motion in a Plane",
+          "chapter": "Motion in a Plane",
+          "chapterNumber": 4,
+          "chapterId": "physics-ch-04",
+          "displayChapterName": "Motion in a Plane"
+        },
+        {
+          "lectureNumber": 7,
+          "subject": "Physics",
+          "chapterName": "Motion in a Plane",
+          "chapter": "Motion in a Plane",
+          "chapterNumber": 4,
+          "chapterId": "physics-ch-04",
+          "displayChapterName": "Motion in a Plane"
+        },
+        {
+          "lectureNumber": 8,
+          "subject": "Physics",
+          "chapterName": "Motion in a Plane",
+          "chapter": "Motion in a Plane",
+          "chapterNumber": 4,
+          "chapterId": "physics-ch-04",
+          "displayChapterName": "Motion in a Plane"
+        },
+        {
+          "lectureNumber": 9,
+          "subject": "Physics",
+          "chapterName": "Motion in a Plane",
+          "chapter": "Motion in a Plane",
+          "chapterNumber": 4,
+          "chapterId": "physics-ch-04",
+          "displayChapterName": "Motion in a Plane"
+        },
+        {
+          "lectureNumber": 10,
+          "subject": "Physics",
+          "chapterName": "Motion in a Plane",
+          "chapter": "Motion in a Plane",
+          "chapterNumber": 4,
+          "chapterId": "physics-ch-04",
+          "displayChapterName": "Motion in a Plane"
+        },
+        {
+          "lectureNumber": 11,
+          "subject": "Physics",
+          "chapterName": "Motion in a Plane",
+          "chapter": "Motion in a Plane",
+          "chapterNumber": 4,
+          "chapterId": "physics-ch-04",
+          "displayChapterName": "Motion in a Plane"
+        },
+        {
+          "lectureNumber": 12,
+          "subject": "Physics",
+          "chapterName": "Motion in a Plane",
+          "chapter": "Motion in a Plane",
+          "chapterNumber": 4,
+          "chapterId": "physics-ch-04",
+          "displayChapterName": "Motion in a Plane"
+        },
+        {
+          "lectureNumber": 13,
+          "subject": "Physics",
+          "chapterName": "Motion in a Plane",
+          "chapter": "Motion in a Plane",
+          "chapterNumber": 4,
+          "chapterId": "physics-ch-04",
+          "displayChapterName": "Motion in a Plane"
+        },
+        {
+          "lectureNumber": 14,
+          "subject": "Physics",
+          "chapterName": "Motion in a Plane",
+          "chapter": "Motion in a Plane",
+          "chapterNumber": 4,
+          "chapterId": "physics-ch-04",
+          "displayChapterName": "Motion in a Plane"
+        },
+        {
+          "lectureNumber": 15,
+          "subject": "Physics",
+          "chapterName": "Motion in a Plane",
+          "chapter": "Motion in a Plane",
+          "chapterNumber": 4,
+          "chapterId": "physics-ch-04",
+          "displayChapterName": "Motion in a Plane"
+        },
+        {
+          "lectureNumber": 16,
+          "subject": "Physics",
+          "chapterName": "Motion in a Plane",
+          "chapter": "Motion in a Plane",
+          "chapterNumber": 4,
+          "chapterId": "physics-ch-04",
+          "displayChapterName": "Motion in a Plane"
+        },
+        {
+          "lectureNumber": 17,
+          "subject": "Physics",
+          "chapterName": "Motion in a Plane",
+          "chapter": "Motion in a Plane",
+          "chapterNumber": 4,
+          "chapterId": "physics-ch-04",
+          "displayChapterName": "Motion in a Plane"
+        }
+      ]
+    },
+    {
+      "chapterNumber": 5,
+      "chapterId": "physics-ch-05",
+      "chapterName": "Laws of Motion + Friction",
+      "name": "Laws of Motion + Friction",
+      "displayName": "Laws of Motion + Friction",
+      "lectureCount": 17,
+      "lectures": [
+        {
+          "lectureNumber": 1,
+          "subject": "Physics",
+          "chapterName": "Laws of Motion + Friction",
+          "chapter": "Laws of Motion + Friction",
+          "chapterNumber": 5,
+          "chapterId": "physics-ch-05",
+          "displayChapterName": "Laws of Motion + Friction"
+        },
+        {
+          "lectureNumber": 2,
+          "subject": "Physics",
+          "chapterName": "Laws of Motion + Friction",
+          "chapter": "Laws of Motion + Friction",
+          "chapterNumber": 5,
+          "chapterId": "physics-ch-05",
+          "displayChapterName": "Laws of Motion + Friction"
+        },
+        {
+          "lectureNumber": 3,
+          "subject": "Physics",
+          "chapterName": "Laws of Motion + Friction",
+          "chapter": "Laws of Motion + Friction",
+          "chapterNumber": 5,
+          "chapterId": "physics-ch-05",
+          "displayChapterName": "Laws of Motion + Friction"
+        },
+        {
+          "lectureNumber": 4,
+          "subject": "Physics",
+          "chapterName": "Laws of Motion + Friction",
+          "chapter": "Laws of Motion + Friction",
+          "chapterNumber": 5,
+          "chapterId": "physics-ch-05",
+          "displayChapterName": "Laws of Motion + Friction"
+        },
+        {
+          "lectureNumber": 5,
+          "subject": "Physics",
+          "chapterName": "Laws of Motion + Friction",
+          "chapter": "Laws of Motion + Friction",
+          "chapterNumber": 5,
+          "chapterId": "physics-ch-05",
+          "displayChapterName": "Laws of Motion + Friction"
+        },
+        {
+          "lectureNumber": 6,
+          "subject": "Physics",
+          "chapterName": "Laws of Motion + Friction",
+          "chapter": "Laws of Motion + Friction",
+          "chapterNumber": 5,
+          "chapterId": "physics-ch-05",
+          "displayChapterName": "Laws of Motion + Friction"
+        },
+        {
+          "lectureNumber": 7,
+          "subject": "Physics",
+          "chapterName": "Laws of Motion + Friction",
+          "chapter": "Laws of Motion + Friction",
+          "chapterNumber": 5,
+          "chapterId": "physics-ch-05",
+          "displayChapterName": "Laws of Motion + Friction"
+        },
+        {
+          "lectureNumber": 8,
+          "subject": "Physics",
+          "chapterName": "Laws of Motion + Friction",
+          "chapter": "Laws of Motion + Friction",
+          "chapterNumber": 5,
+          "chapterId": "physics-ch-05",
+          "displayChapterName": "Laws of Motion + Friction"
+        },
+        {
+          "lectureNumber": 9,
+          "subject": "Physics",
+          "chapterName": "Laws of Motion + Friction",
+          "chapter": "Laws of Motion + Friction",
+          "chapterNumber": 5,
+          "chapterId": "physics-ch-05",
+          "displayChapterName": "Laws of Motion + Friction"
+        },
+        {
+          "lectureNumber": 10,
+          "subject": "Physics",
+          "chapterName": "Laws of Motion + Friction",
+          "chapter": "Laws of Motion + Friction",
+          "chapterNumber": 5,
+          "chapterId": "physics-ch-05",
+          "displayChapterName": "Laws of Motion + Friction"
+        },
+        {
+          "lectureNumber": 11,
+          "subject": "Physics",
+          "chapterName": "Laws of Motion + Friction",
+          "chapter": "Laws of Motion + Friction",
+          "chapterNumber": 5,
+          "chapterId": "physics-ch-05",
+          "displayChapterName": "Laws of Motion + Friction"
+        },
+        {
+          "lectureNumber": 12,
+          "subject": "Physics",
+          "chapterName": "Laws of Motion + Friction",
+          "chapter": "Laws of Motion + Friction",
+          "chapterNumber": 5,
+          "chapterId": "physics-ch-05",
+          "displayChapterName": "Laws of Motion + Friction"
+        },
+        {
+          "lectureNumber": 13,
+          "subject": "Physics",
+          "chapterName": "Laws of Motion + Friction",
+          "chapter": "Laws of Motion + Friction",
+          "chapterNumber": 5,
+          "chapterId": "physics-ch-05",
+          "displayChapterName": "Laws of Motion + Friction"
+        },
+        {
+          "lectureNumber": 14,
+          "subject": "Physics",
+          "chapterName": "Laws of Motion + Friction",
+          "chapter": "Laws of Motion + Friction",
+          "chapterNumber": 5,
+          "chapterId": "physics-ch-05",
+          "displayChapterName": "Laws of Motion + Friction"
+        },
+        {
+          "lectureNumber": 15,
+          "subject": "Physics",
+          "chapterName": "Laws of Motion + Friction",
+          "chapter": "Laws of Motion + Friction",
+          "chapterNumber": 5,
+          "chapterId": "physics-ch-05",
+          "displayChapterName": "Laws of Motion + Friction"
+        },
+        {
+          "lectureNumber": 16,
+          "subject": "Physics",
+          "chapterName": "Laws of Motion + Friction",
+          "chapter": "Laws of Motion + Friction",
+          "chapterNumber": 5,
+          "chapterId": "physics-ch-05",
+          "displayChapterName": "Laws of Motion + Friction"
+        },
+        {
+          "lectureNumber": 17,
+          "subject": "Physics",
+          "chapterName": "Laws of Motion + Friction",
+          "chapter": "Laws of Motion + Friction",
+          "chapterNumber": 5,
+          "chapterId": "physics-ch-05",
+          "displayChapterName": "Laws of Motion + Friction"
+        }
+      ],
+      "screenshotLectureTotal": 21,
+      "lectureCountNote": "Screenshot shows a different total. This field records the screenshot total. Lecture records remain limited to the lectures explicitly present in the uploaded PDF."
+    },
+    {
+      "chapterNumber": 6,
+      "chapterId": "physics-ch-06",
+      "chapterName": "Circular Motion",
+      "name": "Circular Motion",
+      "displayName": "Circular Motion",
+      "lectureCount": 10,
+      "lectures": [
+        {
+          "lectureNumber": 1,
+          "subject": "Physics",
+          "chapterName": "Circular Motion",
+          "chapter": "Circular Motion",
+          "chapterNumber": 6,
+          "chapterId": "physics-ch-06",
+          "displayChapterName": "Circular Motion"
+        },
+        {
+          "lectureNumber": 2,
+          "subject": "Physics",
+          "chapterName": "Circular Motion",
+          "chapter": "Circular Motion",
+          "chapterNumber": 6,
+          "chapterId": "physics-ch-06",
+          "displayChapterName": "Circular Motion"
+        },
+        {
+          "lectureNumber": 3,
+          "subject": "Physics",
+          "chapterName": "Circular Motion",
+          "chapter": "Circular Motion",
+          "chapterNumber": 6,
+          "chapterId": "physics-ch-06",
+          "displayChapterName": "Circular Motion"
+        },
+        {
+          "lectureNumber": 4,
+          "subject": "Physics",
+          "chapterName": "Circular Motion",
+          "chapter": "Circular Motion",
+          "chapterNumber": 6,
+          "chapterId": "physics-ch-06",
+          "displayChapterName": "Circular Motion"
+        },
+        {
+          "lectureNumber": 5,
+          "subject": "Physics",
+          "chapterName": "Circular Motion",
+          "chapter": "Circular Motion",
+          "chapterNumber": 6,
+          "chapterId": "physics-ch-06",
+          "displayChapterName": "Circular Motion"
+        },
+        {
+          "lectureNumber": 6,
+          "subject": "Physics",
+          "chapterName": "Circular Motion",
+          "chapter": "Circular Motion",
+          "chapterNumber": 6,
+          "chapterId": "physics-ch-06",
+          "displayChapterName": "Circular Motion"
+        },
+        {
+          "lectureNumber": 7,
+          "subject": "Physics",
+          "chapterName": "Circular Motion",
+          "chapter": "Circular Motion",
+          "chapterNumber": 6,
+          "chapterId": "physics-ch-06",
+          "displayChapterName": "Circular Motion"
+        },
+        {
+          "lectureNumber": 8,
+          "subject": "Physics",
+          "chapterName": "Circular Motion",
+          "chapter": "Circular Motion",
+          "chapterNumber": 6,
+          "chapterId": "physics-ch-06",
+          "displayChapterName": "Circular Motion"
+        },
+        {
+          "lectureNumber": 9,
+          "subject": "Physics",
+          "chapterName": "Circular Motion",
+          "chapter": "Circular Motion",
+          "chapterNumber": 6,
+          "chapterId": "physics-ch-06",
+          "displayChapterName": "Circular Motion"
+        },
+        {
+          "lectureNumber": 10,
+          "subject": "Physics",
+          "chapterName": "Circular Motion",
+          "chapter": "Circular Motion",
+          "chapterNumber": 6,
+          "chapterId": "physics-ch-06",
+          "displayChapterName": "Circular Motion"
+        }
+      ],
+      "screenshotLectureTotal": 8,
+      "lectureCountNote": "Screenshot shows a different total. This field records the screenshot total. Lecture records remain limited to the lectures explicitly present in the uploaded PDF."
+    },
+    {
+      "chapterNumber": 7,
+      "chapterId": "physics-ch-07",
+      "chapterName": "Work, Energy and Power",
+      "name": "Work, Energy and Power",
+      "displayName": "Work, Energy and Power",
+      "lectureCount": 12,
+      "lectures": [
+        {
+          "lectureNumber": 1,
+          "subject": "Physics",
+          "chapterName": "Work, Energy and Power",
+          "chapter": "Work, Energy and Power",
+          "chapterNumber": 7,
+          "chapterId": "physics-ch-07",
+          "displayChapterName": "Work, Energy and Power"
+        },
+        {
+          "lectureNumber": 2,
+          "subject": "Physics",
+          "chapterName": "Work, Energy and Power",
+          "chapter": "Work, Energy and Power",
+          "chapterNumber": 7,
+          "chapterId": "physics-ch-07",
+          "displayChapterName": "Work, Energy and Power"
+        },
+        {
+          "lectureNumber": 3,
+          "subject": "Physics",
+          "chapterName": "Work, Energy and Power",
+          "chapter": "Work, Energy and Power",
+          "chapterNumber": 7,
+          "chapterId": "physics-ch-07",
+          "displayChapterName": "Work, Energy and Power"
+        },
+        {
+          "lectureNumber": 4,
+          "subject": "Physics",
+          "chapterName": "Work, Energy and Power",
+          "chapter": "Work, Energy and Power",
+          "chapterNumber": 7,
+          "chapterId": "physics-ch-07",
+          "displayChapterName": "Work, Energy and Power"
+        },
+        {
+          "lectureNumber": 5,
+          "subject": "Physics",
+          "chapterName": "Work, Energy and Power",
+          "chapter": "Work, Energy and Power",
+          "chapterNumber": 7,
+          "chapterId": "physics-ch-07",
+          "displayChapterName": "Work, Energy and Power"
+        },
+        {
+          "lectureNumber": 6,
+          "subject": "Physics",
+          "chapterName": "Work, Energy and Power",
+          "chapter": "Work, Energy and Power",
+          "chapterNumber": 7,
+          "chapterId": "physics-ch-07",
+          "displayChapterName": "Work, Energy and Power"
+        },
+        {
+          "lectureNumber": 7,
+          "subject": "Physics",
+          "chapterName": "Work, Energy and Power",
+          "chapter": "Work, Energy and Power",
+          "chapterNumber": 7,
+          "chapterId": "physics-ch-07",
+          "displayChapterName": "Work, Energy and Power"
+        },
+        {
+          "lectureNumber": 8,
+          "subject": "Physics",
+          "chapterName": "Work, Energy and Power",
+          "chapter": "Work, Energy and Power",
+          "chapterNumber": 7,
+          "chapterId": "physics-ch-07",
+          "displayChapterName": "Work, Energy and Power"
+        },
+        {
+          "lectureNumber": 9,
+          "subject": "Physics",
+          "chapterName": "Work, Energy and Power",
+          "chapter": "Work, Energy and Power",
+          "chapterNumber": 7,
+          "chapterId": "physics-ch-07",
+          "displayChapterName": "Work, Energy and Power"
+        },
+        {
+          "lectureNumber": 10,
+          "subject": "Physics",
+          "chapterName": "Work, Energy and Power",
+          "chapter": "Work, Energy and Power",
+          "chapterNumber": 7,
+          "chapterId": "physics-ch-07",
+          "displayChapterName": "Work, Energy and Power"
+        },
+        {
+          "lectureNumber": 11,
+          "subject": "Physics",
+          "chapterName": "Work, Energy and Power",
+          "chapter": "Work, Energy and Power",
+          "chapterNumber": 7,
+          "chapterId": "physics-ch-07",
+          "displayChapterName": "Work, Energy and Power"
+        },
+        {
+          "lectureNumber": 12,
+          "subject": "Physics",
+          "chapterName": "Work, Energy and Power",
+          "chapter": "Work, Energy and Power",
+          "chapterNumber": 7,
+          "chapterId": "physics-ch-07",
+          "displayChapterName": "Work, Energy and Power"
+        }
+      ]
+    },
+    {
+      "chapterNumber": 8,
+      "chapterId": "physics-ch-08",
+      "chapterName": "Centre of Mass & System of Particles",
+      "name": "Centre of Mass & System of Particles",
+      "displayName": "Centre of Mass & System of Particles",
+      "lectureCount": 15,
+      "lectures": [
+        {
+          "lectureNumber": 1,
+          "subject": "Physics",
+          "chapterName": "Centre of Mass & System of Particles",
+          "chapter": "Centre of Mass & System of Particles",
+          "chapterNumber": 8,
+          "chapterId": "physics-ch-08",
+          "displayChapterName": "Centre of Mass & System of Particles"
+        },
+        {
+          "lectureNumber": 2,
+          "subject": "Physics",
+          "chapterName": "Centre of Mass & System of Particles",
+          "chapter": "Centre of Mass & System of Particles",
+          "chapterNumber": 8,
+          "chapterId": "physics-ch-08",
+          "displayChapterName": "Centre of Mass & System of Particles"
+        },
+        {
+          "lectureNumber": 3,
+          "subject": "Physics",
+          "chapterName": "Centre of Mass & System of Particles",
+          "chapter": "Centre of Mass & System of Particles",
+          "chapterNumber": 8,
+          "chapterId": "physics-ch-08",
+          "displayChapterName": "Centre of Mass & System of Particles"
+        },
+        {
+          "lectureNumber": 4,
+          "subject": "Physics",
+          "chapterName": "Centre of Mass & System of Particles",
+          "chapter": "Centre of Mass & System of Particles",
+          "chapterNumber": 8,
+          "chapterId": "physics-ch-08",
+          "displayChapterName": "Centre of Mass & System of Particles"
+        },
+        {
+          "lectureNumber": 5,
+          "subject": "Physics",
+          "chapterName": "Centre of Mass & System of Particles",
+          "chapter": "Centre of Mass & System of Particles",
+          "chapterNumber": 8,
+          "chapterId": "physics-ch-08",
+          "displayChapterName": "Centre of Mass & System of Particles"
+        },
+        {
+          "lectureNumber": 6,
+          "subject": "Physics",
+          "chapterName": "Centre of Mass & System of Particles",
+          "chapter": "Centre of Mass & System of Particles",
+          "chapterNumber": 8,
+          "chapterId": "physics-ch-08",
+          "displayChapterName": "Centre of Mass & System of Particles"
+        },
+        {
+          "lectureNumber": 7,
+          "subject": "Physics",
+          "chapterName": "Centre of Mass & System of Particles",
+          "chapter": "Centre of Mass & System of Particles",
+          "chapterNumber": 8,
+          "chapterId": "physics-ch-08",
+          "displayChapterName": "Centre of Mass & System of Particles"
+        },
+        {
+          "lectureNumber": 8,
+          "subject": "Physics",
+          "chapterName": "Centre of Mass & System of Particles",
+          "chapter": "Centre of Mass & System of Particles",
+          "chapterNumber": 8,
+          "chapterId": "physics-ch-08",
+          "displayChapterName": "Centre of Mass & System of Particles"
+        },
+        {
+          "lectureNumber": 9,
+          "subject": "Physics",
+          "chapterName": "Centre of Mass & System of Particles",
+          "chapter": "Centre of Mass & System of Particles",
+          "chapterNumber": 8,
+          "chapterId": "physics-ch-08",
+          "displayChapterName": "Centre of Mass & System of Particles"
+        },
+        {
+          "lectureNumber": 10,
+          "subject": "Physics",
+          "chapterName": "Centre of Mass & System of Particles",
+          "chapter": "Centre of Mass & System of Particles",
+          "chapterNumber": 8,
+          "chapterId": "physics-ch-08",
+          "displayChapterName": "Centre of Mass & System of Particles"
+        },
+        {
+          "lectureNumber": 11,
+          "subject": "Physics",
+          "chapterName": "Centre of Mass & System of Particles",
+          "chapter": "Centre of Mass & System of Particles",
+          "chapterNumber": 8,
+          "chapterId": "physics-ch-08",
+          "displayChapterName": "Centre of Mass & System of Particles"
+        },
+        {
+          "lectureNumber": 12,
+          "subject": "Physics",
+          "chapterName": "Centre of Mass & System of Particles",
+          "chapter": "Centre of Mass & System of Particles",
+          "chapterNumber": 8,
+          "chapterId": "physics-ch-08",
+          "displayChapterName": "Centre of Mass & System of Particles"
+        },
+        {
+          "lectureNumber": 13,
+          "subject": "Physics",
+          "chapterName": "Centre of Mass & System of Particles",
+          "chapter": "Centre of Mass & System of Particles",
+          "chapterNumber": 8,
+          "chapterId": "physics-ch-08",
+          "displayChapterName": "Centre of Mass & System of Particles"
+        },
+        {
+          "lectureNumber": 14,
+          "subject": "Physics",
+          "chapterName": "Centre of Mass & System of Particles",
+          "chapter": "Centre of Mass & System of Particles",
+          "chapterNumber": 8,
+          "chapterId": "physics-ch-08",
+          "displayChapterName": "Centre of Mass & System of Particles"
+        },
+        {
+          "lectureNumber": 15,
+          "subject": "Physics",
+          "chapterName": "Centre of Mass & System of Particles",
+          "chapter": "Centre of Mass & System of Particles",
+          "chapterNumber": 8,
+          "chapterId": "physics-ch-08",
+          "displayChapterName": "Centre of Mass & System of Particles"
+        }
+      ]
+    },
+    {
+      "chapterNumber": 9,
+      "chapterId": "physics-ch-09",
+      "chapterName": "Rotational Motion",
+      "name": "Rotational Motion",
+      "displayName": "Rotational Motion",
+      "lectureCount": 19,
+      "lectures": [
+        {
+          "lectureNumber": 1,
+          "subject": "Physics",
+          "chapterName": "Rotational Motion",
+          "chapter": "Rotational Motion",
+          "chapterNumber": 9,
+          "chapterId": "physics-ch-09",
+          "displayChapterName": "Rotational Motion"
+        },
+        {
+          "lectureNumber": 2,
+          "subject": "Physics",
+          "chapterName": "Rotational Motion",
+          "chapter": "Rotational Motion",
+          "chapterNumber": 9,
+          "chapterId": "physics-ch-09",
+          "displayChapterName": "Rotational Motion"
+        },
+        {
+          "lectureNumber": 3,
+          "subject": "Physics",
+          "chapterName": "Rotational Motion",
+          "chapter": "Rotational Motion",
+          "chapterNumber": 9,
+          "chapterId": "physics-ch-09",
+          "displayChapterName": "Rotational Motion"
+        },
+        {
+          "lectureNumber": 4,
+          "subject": "Physics",
+          "chapterName": "Rotational Motion",
+          "chapter": "Rotational Motion",
+          "chapterNumber": 9,
+          "chapterId": "physics-ch-09",
+          "displayChapterName": "Rotational Motion"
+        },
+        {
+          "lectureNumber": 5,
+          "subject": "Physics",
+          "chapterName": "Rotational Motion",
+          "chapter": "Rotational Motion",
+          "chapterNumber": 9,
+          "chapterId": "physics-ch-09",
+          "displayChapterName": "Rotational Motion"
+        },
+        {
+          "lectureNumber": 6,
+          "subject": "Physics",
+          "chapterName": "Rotational Motion",
+          "chapter": "Rotational Motion",
+          "chapterNumber": 9,
+          "chapterId": "physics-ch-09",
+          "displayChapterName": "Rotational Motion"
+        },
+        {
+          "lectureNumber": 7,
+          "subject": "Physics",
+          "chapterName": "Rotational Motion",
+          "chapter": "Rotational Motion",
+          "chapterNumber": 9,
+          "chapterId": "physics-ch-09",
+          "displayChapterName": "Rotational Motion"
+        },
+        {
+          "lectureNumber": 8,
+          "subject": "Physics",
+          "chapterName": "Rotational Motion",
+          "chapter": "Rotational Motion",
+          "chapterNumber": 9,
+          "chapterId": "physics-ch-09",
+          "displayChapterName": "Rotational Motion"
+        },
+        {
+          "lectureNumber": 9,
+          "subject": "Physics",
+          "chapterName": "Rotational Motion",
+          "chapter": "Rotational Motion",
+          "chapterNumber": 9,
+          "chapterId": "physics-ch-09",
+          "displayChapterName": "Rotational Motion"
+        },
+        {
+          "lectureNumber": 10,
+          "subject": "Physics",
+          "chapterName": "Rotational Motion",
+          "chapter": "Rotational Motion",
+          "chapterNumber": 9,
+          "chapterId": "physics-ch-09",
+          "displayChapterName": "Rotational Motion"
+        },
+        {
+          "lectureNumber": 11,
+          "subject": "Physics",
+          "chapterName": "Rotational Motion",
+          "chapter": "Rotational Motion",
+          "chapterNumber": 9,
+          "chapterId": "physics-ch-09",
+          "displayChapterName": "Rotational Motion"
+        },
+        {
+          "lectureNumber": 12,
+          "subject": "Physics",
+          "chapterName": "Rotational Motion",
+          "chapter": "Rotational Motion",
+          "chapterNumber": 9,
+          "chapterId": "physics-ch-09",
+          "displayChapterName": "Rotational Motion"
+        },
+        {
+          "lectureNumber": 13,
+          "subject": "Physics",
+          "chapterName": "Rotational Motion",
+          "chapter": "Rotational Motion",
+          "chapterNumber": 9,
+          "chapterId": "physics-ch-09",
+          "displayChapterName": "Rotational Motion"
+        },
+        {
+          "lectureNumber": 14,
+          "subject": "Physics",
+          "chapterName": "Rotational Motion",
+          "chapter": "Rotational Motion",
+          "chapterNumber": 9,
+          "chapterId": "physics-ch-09",
+          "displayChapterName": "Rotational Motion"
+        },
+        {
+          "lectureNumber": 15,
+          "subject": "Physics",
+          "chapterName": "Rotational Motion",
+          "chapter": "Rotational Motion",
+          "chapterNumber": 9,
+          "chapterId": "physics-ch-09",
+          "displayChapterName": "Rotational Motion"
+        },
+        {
+          "lectureNumber": 16,
+          "subject": "Physics",
+          "chapterName": "Rotational Motion",
+          "chapter": "Rotational Motion",
+          "chapterNumber": 9,
+          "chapterId": "physics-ch-09",
+          "displayChapterName": "Rotational Motion"
+        },
+        {
+          "lectureNumber": 17,
+          "subject": "Physics",
+          "chapterName": "Rotational Motion",
+          "chapter": "Rotational Motion",
+          "chapterNumber": 9,
+          "chapterId": "physics-ch-09",
+          "displayChapterName": "Rotational Motion"
+        },
+        {
+          "lectureNumber": 18,
+          "subject": "Physics",
+          "chapterName": "Rotational Motion",
+          "chapter": "Rotational Motion",
+          "chapterNumber": 9,
+          "chapterId": "physics-ch-09",
+          "displayChapterName": "Rotational Motion"
+        },
+        {
+          "lectureNumber": 19,
+          "subject": "Physics",
+          "chapterName": "Rotational Motion",
+          "chapter": "Rotational Motion",
+          "chapterNumber": 9,
+          "chapterId": "physics-ch-09",
+          "displayChapterName": "Rotational Motion"
+        }
+      ]
+    },
+    {
+      "chapterNumber": 10,
+      "chapterId": "physics-ch-10",
+      "chapterName": "Gravitation",
+      "name": "Gravitation",
+      "displayName": "Gravitation",
+      "lectureCount": 7,
+      "lectures": [
+        {
+          "lectureNumber": 1,
+          "subject": "Physics",
+          "chapterName": "Gravitation",
+          "chapter": "Gravitation",
+          "chapterNumber": 10,
+          "chapterId": "physics-ch-10",
+          "displayChapterName": "Gravitation"
+        },
+        {
+          "lectureNumber": 2,
+          "subject": "Physics",
+          "chapterName": "Gravitation",
+          "chapter": "Gravitation",
+          "chapterNumber": 10,
+          "chapterId": "physics-ch-10",
+          "displayChapterName": "Gravitation"
+        },
+        {
+          "lectureNumber": 3,
+          "subject": "Physics",
+          "chapterName": "Gravitation",
+          "chapter": "Gravitation",
+          "chapterNumber": 10,
+          "chapterId": "physics-ch-10",
+          "displayChapterName": "Gravitation"
+        },
+        {
+          "lectureNumber": 4,
+          "subject": "Physics",
+          "chapterName": "Gravitation",
+          "chapter": "Gravitation",
+          "chapterNumber": 10,
+          "chapterId": "physics-ch-10",
+          "displayChapterName": "Gravitation"
+        },
+        {
+          "lectureNumber": 5,
+          "subject": "Physics",
+          "chapterName": "Gravitation",
+          "chapter": "Gravitation",
+          "chapterNumber": 10,
+          "chapterId": "physics-ch-10",
+          "displayChapterName": "Gravitation"
+        },
+        {
+          "lectureNumber": 6,
+          "subject": "Physics",
+          "chapterName": "Gravitation",
+          "chapter": "Gravitation",
+          "chapterNumber": 10,
+          "chapterId": "physics-ch-10",
+          "displayChapterName": "Gravitation"
+        },
+        {
+          "lectureNumber": 7,
+          "subject": "Physics",
+          "chapterName": "Gravitation",
+          "chapter": "Gravitation",
+          "chapterNumber": 10,
+          "chapterId": "physics-ch-10",
+          "displayChapterName": "Gravitation"
+        }
+      ]
+    },
+    {
+      "chapterNumber": 11,
+      "chapterId": "physics-ch-11",
+      "chapterName": "Mechanical Properties of Solids",
+      "name": "Mechanical Properties of Solids",
+      "displayName": "Mechanical Properties of Solids",
+      "lectureCount": 1,
+      "lectures": [
+        {
+          "lectureNumber": 1,
+          "subject": "Physics",
+          "chapterName": "Mechanical Properties of Solids",
+          "chapter": "Mechanical Properties of Solids",
+          "chapterNumber": 11,
+          "chapterId": "physics-ch-11",
+          "displayChapterName": "Mechanical Properties of Solids"
+        }
+      ]
+    },
+    {
+      "chapterNumber": 12,
+      "chapterId": "physics-ch-12",
+      "chapterName": "Mechanical Properties of Fluids",
+      "name": "Mechanical Properties of Fluids",
+      "displayName": "Mechanical Properties of Fluids",
+      "lectureCount": 12,
+      "lectures": [
+        {
+          "lectureNumber": 1,
+          "subject": "Physics",
+          "chapterName": "Mechanical Properties of Fluids",
+          "chapter": "Mechanical Properties of Fluids",
+          "chapterNumber": 12,
+          "chapterId": "physics-ch-12",
+          "displayChapterName": "Mechanical Properties of Fluids"
+        },
+        {
+          "lectureNumber": 2,
+          "subject": "Physics",
+          "chapterName": "Mechanical Properties of Fluids",
+          "chapter": "Mechanical Properties of Fluids",
+          "chapterNumber": 12,
+          "chapterId": "physics-ch-12",
+          "displayChapterName": "Mechanical Properties of Fluids"
+        },
+        {
+          "lectureNumber": 3,
+          "subject": "Physics",
+          "chapterName": "Mechanical Properties of Fluids",
+          "chapter": "Mechanical Properties of Fluids",
+          "chapterNumber": 12,
+          "chapterId": "physics-ch-12",
+          "displayChapterName": "Mechanical Properties of Fluids"
+        },
+        {
+          "lectureNumber": 4,
+          "subject": "Physics",
+          "chapterName": "Mechanical Properties of Fluids",
+          "chapter": "Mechanical Properties of Fluids",
+          "chapterNumber": 12,
+          "chapterId": "physics-ch-12",
+          "displayChapterName": "Mechanical Properties of Fluids"
+        },
+        {
+          "lectureNumber": 5,
+          "subject": "Physics",
+          "chapterName": "Mechanical Properties of Fluids",
+          "chapter": "Mechanical Properties of Fluids",
+          "chapterNumber": 12,
+          "chapterId": "physics-ch-12",
+          "displayChapterName": "Mechanical Properties of Fluids"
+        },
+        {
+          "lectureNumber": 6,
+          "subject": "Physics",
+          "chapterName": "Mechanical Properties of Fluids",
+          "chapter": "Mechanical Properties of Fluids",
+          "chapterNumber": 12,
+          "chapterId": "physics-ch-12",
+          "displayChapterName": "Mechanical Properties of Fluids"
+        },
+        {
+          "lectureNumber": 7,
+          "subject": "Physics",
+          "chapterName": "Mechanical Properties of Fluids",
+          "chapter": "Mechanical Properties of Fluids",
+          "chapterNumber": 12,
+          "chapterId": "physics-ch-12",
+          "displayChapterName": "Mechanical Properties of Fluids"
+        },
+        {
+          "lectureNumber": 8,
+          "subject": "Physics",
+          "chapterName": "Mechanical Properties of Fluids",
+          "chapter": "Mechanical Properties of Fluids",
+          "chapterNumber": 12,
+          "chapterId": "physics-ch-12",
+          "displayChapterName": "Mechanical Properties of Fluids"
+        },
+        {
+          "lectureNumber": 9,
+          "subject": "Physics",
+          "chapterName": "Mechanical Properties of Fluids",
+          "chapter": "Mechanical Properties of Fluids",
+          "chapterNumber": 12,
+          "chapterId": "physics-ch-12",
+          "displayChapterName": "Mechanical Properties of Fluids"
+        },
+        {
+          "lectureNumber": 10,
+          "subject": "Physics",
+          "chapterName": "Mechanical Properties of Fluids",
+          "chapter": "Mechanical Properties of Fluids",
+          "chapterNumber": 12,
+          "chapterId": "physics-ch-12",
+          "displayChapterName": "Mechanical Properties of Fluids"
+        },
+        {
+          "lectureNumber": 11,
+          "subject": "Physics",
+          "chapterName": "Mechanical Properties of Fluids",
+          "chapter": "Mechanical Properties of Fluids",
+          "chapterNumber": 12,
+          "chapterId": "physics-ch-12",
+          "displayChapterName": "Mechanical Properties of Fluids"
+        },
+        {
+          "lectureNumber": 12,
+          "subject": "Physics",
+          "chapterName": "Mechanical Properties of Fluids",
+          "chapter": "Mechanical Properties of Fluids",
+          "chapterNumber": 12,
+          "chapterId": "physics-ch-12",
+          "displayChapterName": "Mechanical Properties of Fluids"
+        }
+      ]
+    },
+    {
+      "chapterNumber": 13,
+      "chapterId": "physics-ch-13",
+      "chapterName": "Thermal Properties of Matter",
+      "name": "Thermal Properties of Matter",
+      "displayName": "Thermal Properties of Matter",
+      "lectureCount": 6,
+      "lectures": [
+        {
+          "lectureNumber": 1,
+          "subject": "Physics",
+          "chapterName": "Thermal Properties of Matter",
+          "chapter": "Thermal Properties of Matter",
+          "chapterNumber": 13,
+          "chapterId": "physics-ch-13",
+          "displayChapterName": "Thermal Properties of Matter"
+        },
+        {
+          "lectureNumber": 2,
+          "subject": "Physics",
+          "chapterName": "Thermal Properties of Matter",
+          "chapter": "Thermal Properties of Matter",
+          "chapterNumber": 13,
+          "chapterId": "physics-ch-13",
+          "displayChapterName": "Thermal Properties of Matter"
+        },
+        {
+          "lectureNumber": 3,
+          "subject": "Physics",
+          "chapterName": "Thermal Properties of Matter",
+          "chapter": "Thermal Properties of Matter",
+          "chapterNumber": 13,
+          "chapterId": "physics-ch-13",
+          "displayChapterName": "Thermal Properties of Matter"
+        },
+        {
+          "lectureNumber": 4,
+          "subject": "Physics",
+          "chapterName": "Thermal Properties of Matter",
+          "chapter": "Thermal Properties of Matter",
+          "chapterNumber": 13,
+          "chapterId": "physics-ch-13",
+          "displayChapterName": "Thermal Properties of Matter"
+        },
+        {
+          "lectureNumber": 5,
+          "subject": "Physics",
+          "chapterName": "Thermal Properties of Matter",
+          "chapter": "Thermal Properties of Matter",
+          "chapterNumber": 13,
+          "chapterId": "physics-ch-13",
+          "displayChapterName": "Thermal Properties of Matter"
+        },
+        {
+          "lectureNumber": 6,
+          "subject": "Physics",
+          "chapterName": "Thermal Properties of Matter",
+          "chapter": "Thermal Properties of Matter",
+          "chapterNumber": 13,
+          "chapterId": "physics-ch-13",
+          "displayChapterName": "Thermal Properties of Matter"
+        }
+      ]
+    },
+    {
+      "chapterNumber": 14,
+      "chapterId": "physics-ch-14",
+      "chapterName": "Kinetic Theory & Thermodynamics",
+      "name": "Kinetic Theory & Thermodynamics",
+      "displayName": "Kinetic Theory & Thermodynamics",
+      "lectureCount": 5,
+      "lectures": [
+        {
+          "lectureNumber": 1,
+          "subject": "Physics",
+          "chapterName": "Kinetic Theory & Thermodynamics",
+          "chapter": "Kinetic Theory & Thermodynamics",
+          "chapterNumber": 14,
+          "chapterId": "physics-ch-14",
+          "displayChapterName": "Kinetic Theory & Thermodynamics"
+        },
+        {
+          "lectureNumber": 2,
+          "subject": "Physics",
+          "chapterName": "Kinetic Theory & Thermodynamics",
+          "chapter": "Kinetic Theory & Thermodynamics",
+          "chapterNumber": 14,
+          "chapterId": "physics-ch-14",
+          "displayChapterName": "Kinetic Theory & Thermodynamics"
+        },
+        {
+          "lectureNumber": 3,
+          "subject": "Physics",
+          "chapterName": "Kinetic Theory & Thermodynamics",
+          "chapter": "Kinetic Theory & Thermodynamics",
+          "chapterNumber": 14,
+          "chapterId": "physics-ch-14",
+          "displayChapterName": "Kinetic Theory & Thermodynamics"
+        },
+        {
+          "lectureNumber": 4,
+          "subject": "Physics",
+          "chapterName": "Kinetic Theory & Thermodynamics",
+          "chapter": "Kinetic Theory & Thermodynamics",
+          "chapterNumber": 14,
+          "chapterId": "physics-ch-14",
+          "displayChapterName": "Kinetic Theory & Thermodynamics"
+        },
+        {
+          "lectureNumber": 5,
+          "subject": "Physics",
+          "chapterName": "Kinetic Theory & Thermodynamics",
+          "chapter": "Kinetic Theory & Thermodynamics",
+          "chapterNumber": 14,
+          "chapterId": "physics-ch-14",
+          "displayChapterName": "Kinetic Theory & Thermodynamics"
+        }
+      ]
+    },
+    {
+      "chapterNumber": 15,
+      "chapterId": "physics-ch-15",
+      "chapterName": "Simple Harmonic Motion",
+      "name": "Simple Harmonic Motion",
+      "displayName": "Simple Harmonic Motion",
+      "lectureCount": 6,
+      "lectures": [
+        {
+          "lectureNumber": 1,
+          "subject": "Physics",
+          "chapterName": "Simple Harmonic Motion",
+          "chapter": "Simple Harmonic Motion",
+          "chapterNumber": 15,
+          "chapterId": "physics-ch-15",
+          "displayChapterName": "Simple Harmonic Motion"
+        },
+        {
+          "lectureNumber": 2,
+          "subject": "Physics",
+          "chapterName": "Simple Harmonic Motion",
+          "chapter": "Simple Harmonic Motion",
+          "chapterNumber": 15,
+          "chapterId": "physics-ch-15",
+          "displayChapterName": "Simple Harmonic Motion"
+        },
+        {
+          "lectureNumber": 3,
+          "subject": "Physics",
+          "chapterName": "Simple Harmonic Motion",
+          "chapter": "Simple Harmonic Motion",
+          "chapterNumber": 15,
+          "chapterId": "physics-ch-15",
+          "displayChapterName": "Simple Harmonic Motion"
+        },
+        {
+          "lectureNumber": 4,
+          "subject": "Physics",
+          "chapterName": "Simple Harmonic Motion",
+          "chapter": "Simple Harmonic Motion",
+          "chapterNumber": 15,
+          "chapterId": "physics-ch-15",
+          "displayChapterName": "Simple Harmonic Motion"
+        },
+        {
+          "lectureNumber": 5,
+          "subject": "Physics",
+          "chapterName": "Simple Harmonic Motion",
+          "chapter": "Simple Harmonic Motion",
+          "chapterNumber": 15,
+          "chapterId": "physics-ch-15",
+          "displayChapterName": "Simple Harmonic Motion"
+        },
+        {
+          "lectureNumber": 6,
+          "subject": "Physics",
+          "chapterName": "Simple Harmonic Motion",
+          "chapter": "Simple Harmonic Motion",
+          "chapterNumber": 15,
+          "chapterId": "physics-ch-15",
+          "displayChapterName": "Simple Harmonic Motion"
+        }
+      ]
+    },
+    {
+      "chapterNumber": 16,
+      "chapterId": "physics-ch-16",
+      "chapterName": "Waves",
+      "name": "Waves",
+      "displayName": "Waves",
+      "lectureCount": 5,
+      "lectures": [
+        {
+          "lectureNumber": 1,
+          "subject": "Physics",
+          "chapterName": "Waves",
+          "chapter": "Waves",
+          "chapterNumber": 16,
+          "chapterId": "physics-ch-16",
+          "displayChapterName": "Waves"
+        },
+        {
+          "lectureNumber": 2,
+          "subject": "Physics",
+          "chapterName": "Waves",
+          "chapter": "Waves",
+          "chapterNumber": 16,
+          "chapterId": "physics-ch-16",
+          "displayChapterName": "Waves"
+        },
+        {
+          "lectureNumber": 3,
+          "subject": "Physics",
+          "chapterName": "Waves",
+          "chapter": "Waves",
+          "chapterNumber": 16,
+          "chapterId": "physics-ch-16",
+          "displayChapterName": "Waves"
+        },
+        {
+          "lectureNumber": 4,
+          "subject": "Physics",
+          "chapterName": "Waves",
+          "chapter": "Waves",
+          "chapterNumber": 16,
+          "chapterId": "physics-ch-16",
+          "displayChapterName": "Waves"
+        },
+        {
+          "lectureNumber": 5,
+          "subject": "Physics",
+          "chapterName": "Waves",
+          "chapter": "Waves",
+          "chapterNumber": 16,
+          "chapterId": "physics-ch-16",
+          "displayChapterName": "Waves"
+        }
+      ]
+    }
+  ],
+  "lectureRecords": [
+    {
+      "lectureNumber": 1,
+      "subject": "Physics",
+      "chapterName": "Units and Measurements",
+      "chapter": "Units and Measurements",
+      "chapterNumber": 1,
+      "chapterId": "physics-ch-01",
+      "displayChapterName": "Units and Measurements"
+    },
+    {
+      "lectureNumber": 2,
+      "subject": "Physics",
+      "chapterName": "Units and Measurements",
+      "chapter": "Units and Measurements",
+      "chapterNumber": 1,
+      "chapterId": "physics-ch-01",
+      "displayChapterName": "Units and Measurements"
+    },
+    {
+      "lectureNumber": 3,
+      "subject": "Physics",
+      "chapterName": "Units and Measurements",
+      "chapter": "Units and Measurements",
+      "chapterNumber": 1,
+      "chapterId": "physics-ch-01",
+      "displayChapterName": "Units and Measurements"
+    },
+    {
+      "lectureNumber": 4,
+      "subject": "Physics",
+      "chapterName": "Units and Measurements",
+      "chapter": "Units and Measurements",
+      "chapterNumber": 1,
+      "chapterId": "physics-ch-01",
+      "displayChapterName": "Units and Measurements"
+    },
+    {
+      "lectureNumber": 5,
+      "subject": "Physics",
+      "chapterName": "Units and Measurements",
+      "chapter": "Units and Measurements",
+      "chapterNumber": 1,
+      "chapterId": "physics-ch-01",
+      "displayChapterName": "Units and Measurements"
+    },
+    {
+      "lectureNumber": 6,
+      "subject": "Physics",
+      "chapterName": "Units and Measurements",
+      "chapter": "Units and Measurements",
+      "chapterNumber": 1,
+      "chapterId": "physics-ch-01",
+      "displayChapterName": "Units and Measurements"
+    },
+    {
+      "lectureNumber": 7,
+      "subject": "Physics",
+      "chapterName": "Units and Measurements",
+      "chapter": "Units and Measurements",
+      "chapterNumber": 1,
+      "chapterId": "physics-ch-01",
+      "displayChapterName": "Units and Measurements"
+    },
+    {
+      "lectureNumber": 8,
+      "subject": "Physics",
+      "chapterName": "Units and Measurements",
+      "chapter": "Units and Measurements",
+      "chapterNumber": 1,
+      "chapterId": "physics-ch-01",
+      "displayChapterName": "Units and Measurements"
+    },
+    {
+      "lectureNumber": 9,
+      "subject": "Physics",
+      "chapterName": "Units and Measurements",
+      "chapter": "Units and Measurements",
+      "chapterNumber": 1,
+      "chapterId": "physics-ch-01",
+      "displayChapterName": "Units and Measurements"
+    },
+    {
+      "lectureNumber": 10,
+      "subject": "Physics",
+      "chapterName": "Units and Measurements",
+      "chapter": "Units and Measurements",
+      "chapterNumber": 1,
+      "chapterId": "physics-ch-01",
+      "displayChapterName": "Units and Measurements"
+    },
+    {
+      "lectureNumber": 11,
+      "subject": "Physics",
+      "chapterName": "Units and Measurements",
+      "chapter": "Units and Measurements",
+      "chapterNumber": 1,
+      "chapterId": "physics-ch-01",
+      "displayChapterName": "Units and Measurements"
+    },
+    {
+      "lectureNumber": 12,
+      "subject": "Physics",
+      "chapterName": "Units and Measurements",
+      "chapter": "Units and Measurements",
+      "chapterNumber": 1,
+      "chapterId": "physics-ch-01",
+      "displayChapterName": "Units and Measurements"
+    },
+    {
+      "lectureNumber": 13,
+      "subject": "Physics",
+      "chapterName": "Units and Measurements",
+      "chapter": "Units and Measurements",
+      "chapterNumber": 1,
+      "chapterId": "physics-ch-01",
+      "displayChapterName": "Units and Measurements"
+    },
+    {
+      "lectureNumber": 1,
+      "subject": "Physics",
+      "chapterName": "Mathematical Tools",
+      "chapter": "Mathematical Tools",
+      "chapterNumber": 2,
+      "chapterId": "physics-ch-02",
+      "displayChapterName": "Mathematical Tools"
+    },
+    {
+      "lectureNumber": 2,
+      "subject": "Physics",
+      "chapterName": "Mathematical Tools",
+      "chapter": "Mathematical Tools",
+      "chapterNumber": 2,
+      "chapterId": "physics-ch-02",
+      "displayChapterName": "Mathematical Tools"
+    },
+    {
+      "lectureNumber": 3,
+      "subject": "Physics",
+      "chapterName": "Mathematical Tools",
+      "chapter": "Mathematical Tools",
+      "chapterNumber": 2,
+      "chapterId": "physics-ch-02",
+      "displayChapterName": "Mathematical Tools"
+    },
+    {
+      "lectureNumber": 4,
+      "subject": "Physics",
+      "chapterName": "Mathematical Tools",
+      "chapter": "Mathematical Tools",
+      "chapterNumber": 2,
+      "chapterId": "physics-ch-02",
+      "displayChapterName": "Mathematical Tools"
+    },
+    {
+      "lectureNumber": 5,
+      "subject": "Physics",
+      "chapterName": "Mathematical Tools",
+      "chapter": "Mathematical Tools",
+      "chapterNumber": 2,
+      "chapterId": "physics-ch-02",
+      "displayChapterName": "Mathematical Tools"
+    },
+    {
+      "lectureNumber": 6,
+      "subject": "Physics",
+      "chapterName": "Mathematical Tools",
+      "chapter": "Mathematical Tools",
+      "chapterNumber": 2,
+      "chapterId": "physics-ch-02",
+      "displayChapterName": "Mathematical Tools"
+    },
+    {
+      "lectureNumber": 7,
+      "subject": "Physics",
+      "chapterName": "Mathematical Tools",
+      "chapter": "Mathematical Tools",
+      "chapterNumber": 2,
+      "chapterId": "physics-ch-02",
+      "displayChapterName": "Mathematical Tools"
+    },
+    {
+      "lectureNumber": 8,
+      "subject": "Physics",
+      "chapterName": "Mathematical Tools",
+      "chapter": "Mathematical Tools",
+      "chapterNumber": 2,
+      "chapterId": "physics-ch-02",
+      "displayChapterName": "Mathematical Tools"
+    },
+    {
+      "lectureNumber": 9,
+      "subject": "Physics",
+      "chapterName": "Mathematical Tools",
+      "chapter": "Mathematical Tools",
+      "chapterNumber": 2,
+      "chapterId": "physics-ch-02",
+      "displayChapterName": "Mathematical Tools"
+    },
+    {
+      "lectureNumber": 10,
+      "subject": "Physics",
+      "chapterName": "Mathematical Tools",
+      "chapter": "Mathematical Tools",
+      "chapterNumber": 2,
+      "chapterId": "physics-ch-02",
+      "displayChapterName": "Mathematical Tools"
+    },
+    {
+      "lectureNumber": 11,
+      "subject": "Physics",
+      "chapterName": "Mathematical Tools",
+      "chapter": "Mathematical Tools",
+      "chapterNumber": 2,
+      "chapterId": "physics-ch-02",
+      "displayChapterName": "Mathematical Tools"
+    },
+    {
+      "lectureNumber": 12,
+      "subject": "Physics",
+      "chapterName": "Mathematical Tools",
+      "chapter": "Mathematical Tools",
+      "chapterNumber": 2,
+      "chapterId": "physics-ch-02",
+      "displayChapterName": "Mathematical Tools"
+    },
+    {
+      "lectureNumber": 1,
+      "subject": "Physics",
+      "chapterName": "Motion in a Straight Line",
+      "chapter": "Motion in a Straight Line",
+      "chapterNumber": 3,
+      "chapterId": "physics-ch-03",
+      "displayChapterName": "Motion in a Straight Line"
+    },
+    {
+      "lectureNumber": 2,
+      "subject": "Physics",
+      "chapterName": "Motion in a Straight Line",
+      "chapter": "Motion in a Straight Line",
+      "chapterNumber": 3,
+      "chapterId": "physics-ch-03",
+      "displayChapterName": "Motion in a Straight Line"
+    },
+    {
+      "lectureNumber": 3,
+      "subject": "Physics",
+      "chapterName": "Motion in a Straight Line",
+      "chapter": "Motion in a Straight Line",
+      "chapterNumber": 3,
+      "chapterId": "physics-ch-03",
+      "displayChapterName": "Motion in a Straight Line"
+    },
+    {
+      "lectureNumber": 4,
+      "subject": "Physics",
+      "chapterName": "Motion in a Straight Line",
+      "chapter": "Motion in a Straight Line",
+      "chapterNumber": 3,
+      "chapterId": "physics-ch-03",
+      "displayChapterName": "Motion in a Straight Line"
+    },
+    {
+      "lectureNumber": 5,
+      "subject": "Physics",
+      "chapterName": "Motion in a Straight Line",
+      "chapter": "Motion in a Straight Line",
+      "chapterNumber": 3,
+      "chapterId": "physics-ch-03",
+      "displayChapterName": "Motion in a Straight Line"
+    },
+    {
+      "lectureNumber": 6,
+      "subject": "Physics",
+      "chapterName": "Motion in a Straight Line",
+      "chapter": "Motion in a Straight Line",
+      "chapterNumber": 3,
+      "chapterId": "physics-ch-03",
+      "displayChapterName": "Motion in a Straight Line"
+    },
+    {
+      "lectureNumber": 7,
+      "subject": "Physics",
+      "chapterName": "Motion in a Straight Line",
+      "chapter": "Motion in a Straight Line",
+      "chapterNumber": 3,
+      "chapterId": "physics-ch-03",
+      "displayChapterName": "Motion in a Straight Line"
+    },
+    {
+      "lectureNumber": 8,
+      "subject": "Physics",
+      "chapterName": "Motion in a Straight Line",
+      "chapter": "Motion in a Straight Line",
+      "chapterNumber": 3,
+      "chapterId": "physics-ch-03",
+      "displayChapterName": "Motion in a Straight Line"
+    },
+    {
+      "lectureNumber": 9,
+      "subject": "Physics",
+      "chapterName": "Motion in a Straight Line",
+      "chapter": "Motion in a Straight Line",
+      "chapterNumber": 3,
+      "chapterId": "physics-ch-03",
+      "displayChapterName": "Motion in a Straight Line"
+    },
+    {
+      "lectureNumber": 10,
+      "subject": "Physics",
+      "chapterName": "Motion in a Straight Line",
+      "chapter": "Motion in a Straight Line",
+      "chapterNumber": 3,
+      "chapterId": "physics-ch-03",
+      "displayChapterName": "Motion in a Straight Line"
+    },
+    {
+      "lectureNumber": 11,
+      "subject": "Physics",
+      "chapterName": "Motion in a Straight Line",
+      "chapter": "Motion in a Straight Line",
+      "chapterNumber": 3,
+      "chapterId": "physics-ch-03",
+      "displayChapterName": "Motion in a Straight Line"
+    },
+    {
+      "lectureNumber": 12,
+      "subject": "Physics",
+      "chapterName": "Motion in a Straight Line",
+      "chapter": "Motion in a Straight Line",
+      "chapterNumber": 3,
+      "chapterId": "physics-ch-03",
+      "displayChapterName": "Motion in a Straight Line"
+    },
+    {
+      "lectureNumber": 13,
+      "subject": "Physics",
+      "chapterName": "Motion in a Straight Line",
+      "chapter": "Motion in a Straight Line",
+      "chapterNumber": 3,
+      "chapterId": "physics-ch-03",
+      "displayChapterName": "Motion in a Straight Line"
+    },
+    {
+      "lectureNumber": 14,
+      "subject": "Physics",
+      "chapterName": "Motion in a Straight Line",
+      "chapter": "Motion in a Straight Line",
+      "chapterNumber": 3,
+      "chapterId": "physics-ch-03",
+      "displayChapterName": "Motion in a Straight Line"
+    },
+    {
+      "lectureNumber": 15,
+      "subject": "Physics",
+      "chapterName": "Motion in a Straight Line",
+      "chapter": "Motion in a Straight Line",
+      "chapterNumber": 3,
+      "chapterId": "physics-ch-03",
+      "displayChapterName": "Motion in a Straight Line"
+    },
+    {
+      "lectureNumber": 16,
+      "subject": "Physics",
+      "chapterName": "Motion in a Straight Line",
+      "chapter": "Motion in a Straight Line",
+      "chapterNumber": 3,
+      "chapterId": "physics-ch-03",
+      "displayChapterName": "Motion in a Straight Line"
+    },
+    {
+      "lectureNumber": 1,
+      "subject": "Physics",
+      "chapterName": "Motion in a Plane",
+      "chapter": "Motion in a Plane",
+      "chapterNumber": 4,
+      "chapterId": "physics-ch-04",
+      "displayChapterName": "Motion in a Plane"
+    },
+    {
+      "lectureNumber": 2,
+      "subject": "Physics",
+      "chapterName": "Motion in a Plane",
+      "chapter": "Motion in a Plane",
+      "chapterNumber": 4,
+      "chapterId": "physics-ch-04",
+      "displayChapterName": "Motion in a Plane"
+    },
+    {
+      "lectureNumber": 3,
+      "subject": "Physics",
+      "chapterName": "Motion in a Plane",
+      "chapter": "Motion in a Plane",
+      "chapterNumber": 4,
+      "chapterId": "physics-ch-04",
+      "displayChapterName": "Motion in a Plane"
+    },
+    {
+      "lectureNumber": 4,
+      "subject": "Physics",
+      "chapterName": "Motion in a Plane",
+      "chapter": "Motion in a Plane",
+      "chapterNumber": 4,
+      "chapterId": "physics-ch-04",
+      "displayChapterName": "Motion in a Plane"
+    },
+    {
+      "lectureNumber": 5,
+      "subject": "Physics",
+      "chapterName": "Motion in a Plane",
+      "chapter": "Motion in a Plane",
+      "chapterNumber": 4,
+      "chapterId": "physics-ch-04",
+      "displayChapterName": "Motion in a Plane"
+    },
+    {
+      "lectureNumber": 6,
+      "subject": "Physics",
+      "chapterName": "Motion in a Plane",
+      "chapter": "Motion in a Plane",
+      "chapterNumber": 4,
+      "chapterId": "physics-ch-04",
+      "displayChapterName": "Motion in a Plane"
+    },
+    {
+      "lectureNumber": 7,
+      "subject": "Physics",
+      "chapterName": "Motion in a Plane",
+      "chapter": "Motion in a Plane",
+      "chapterNumber": 4,
+      "chapterId": "physics-ch-04",
+      "displayChapterName": "Motion in a Plane"
+    },
+    {
+      "lectureNumber": 8,
+      "subject": "Physics",
+      "chapterName": "Motion in a Plane",
+      "chapter": "Motion in a Plane",
+      "chapterNumber": 4,
+      "chapterId": "physics-ch-04",
+      "displayChapterName": "Motion in a Plane"
+    },
+    {
+      "lectureNumber": 9,
+      "subject": "Physics",
+      "chapterName": "Motion in a Plane",
+      "chapter": "Motion in a Plane",
+      "chapterNumber": 4,
+      "chapterId": "physics-ch-04",
+      "displayChapterName": "Motion in a Plane"
+    },
+    {
+      "lectureNumber": 10,
+      "subject": "Physics",
+      "chapterName": "Motion in a Plane",
+      "chapter": "Motion in a Plane",
+      "chapterNumber": 4,
+      "chapterId": "physics-ch-04",
+      "displayChapterName": "Motion in a Plane"
+    },
+    {
+      "lectureNumber": 11,
+      "subject": "Physics",
+      "chapterName": "Motion in a Plane",
+      "chapter": "Motion in a Plane",
+      "chapterNumber": 4,
+      "chapterId": "physics-ch-04",
+      "displayChapterName": "Motion in a Plane"
+    },
+    {
+      "lectureNumber": 12,
+      "subject": "Physics",
+      "chapterName": "Motion in a Plane",
+      "chapter": "Motion in a Plane",
+      "chapterNumber": 4,
+      "chapterId": "physics-ch-04",
+      "displayChapterName": "Motion in a Plane"
+    },
+    {
+      "lectureNumber": 13,
+      "subject": "Physics",
+      "chapterName": "Motion in a Plane",
+      "chapter": "Motion in a Plane",
+      "chapterNumber": 4,
+      "chapterId": "physics-ch-04",
+      "displayChapterName": "Motion in a Plane"
+    },
+    {
+      "lectureNumber": 14,
+      "subject": "Physics",
+      "chapterName": "Motion in a Plane",
+      "chapter": "Motion in a Plane",
+      "chapterNumber": 4,
+      "chapterId": "physics-ch-04",
+      "displayChapterName": "Motion in a Plane"
+    },
+    {
+      "lectureNumber": 15,
+      "subject": "Physics",
+      "chapterName": "Motion in a Plane",
+      "chapter": "Motion in a Plane",
+      "chapterNumber": 4,
+      "chapterId": "physics-ch-04",
+      "displayChapterName": "Motion in a Plane"
+    },
+    {
+      "lectureNumber": 16,
+      "subject": "Physics",
+      "chapterName": "Motion in a Plane",
+      "chapter": "Motion in a Plane",
+      "chapterNumber": 4,
+      "chapterId": "physics-ch-04",
+      "displayChapterName": "Motion in a Plane"
+    },
+    {
+      "lectureNumber": 17,
+      "subject": "Physics",
+      "chapterName": "Motion in a Plane",
+      "chapter": "Motion in a Plane",
+      "chapterNumber": 4,
+      "chapterId": "physics-ch-04",
+      "displayChapterName": "Motion in a Plane"
+    },
+    {
+      "lectureNumber": 1,
+      "subject": "Physics",
+      "chapterName": "Laws of Motion + Friction",
+      "chapter": "Laws of Motion + Friction",
+      "chapterNumber": 5,
+      "chapterId": "physics-ch-05",
+      "displayChapterName": "Laws of Motion + Friction"
+    },
+    {
+      "lectureNumber": 2,
+      "subject": "Physics",
+      "chapterName": "Laws of Motion + Friction",
+      "chapter": "Laws of Motion + Friction",
+      "chapterNumber": 5,
+      "chapterId": "physics-ch-05",
+      "displayChapterName": "Laws of Motion + Friction"
+    },
+    {
+      "lectureNumber": 3,
+      "subject": "Physics",
+      "chapterName": "Laws of Motion + Friction",
+      "chapter": "Laws of Motion + Friction",
+      "chapterNumber": 5,
+      "chapterId": "physics-ch-05",
+      "displayChapterName": "Laws of Motion + Friction"
+    },
+    {
+      "lectureNumber": 4,
+      "subject": "Physics",
+      "chapterName": "Laws of Motion + Friction",
+      "chapter": "Laws of Motion + Friction",
+      "chapterNumber": 5,
+      "chapterId": "physics-ch-05",
+      "displayChapterName": "Laws of Motion + Friction"
+    },
+    {
+      "lectureNumber": 5,
+      "subject": "Physics",
+      "chapterName": "Laws of Motion + Friction",
+      "chapter": "Laws of Motion + Friction",
+      "chapterNumber": 5,
+      "chapterId": "physics-ch-05",
+      "displayChapterName": "Laws of Motion + Friction"
+    },
+    {
+      "lectureNumber": 6,
+      "subject": "Physics",
+      "chapterName": "Laws of Motion + Friction",
+      "chapter": "Laws of Motion + Friction",
+      "chapterNumber": 5,
+      "chapterId": "physics-ch-05",
+      "displayChapterName": "Laws of Motion + Friction"
+    },
+    {
+      "lectureNumber": 7,
+      "subject": "Physics",
+      "chapterName": "Laws of Motion + Friction",
+      "chapter": "Laws of Motion + Friction",
+      "chapterNumber": 5,
+      "chapterId": "physics-ch-05",
+      "displayChapterName": "Laws of Motion + Friction"
+    },
+    {
+      "lectureNumber": 8,
+      "subject": "Physics",
+      "chapterName": "Laws of Motion + Friction",
+      "chapter": "Laws of Motion + Friction",
+      "chapterNumber": 5,
+      "chapterId": "physics-ch-05",
+      "displayChapterName": "Laws of Motion + Friction"
+    },
+    {
+      "lectureNumber": 9,
+      "subject": "Physics",
+      "chapterName": "Laws of Motion + Friction",
+      "chapter": "Laws of Motion + Friction",
+      "chapterNumber": 5,
+      "chapterId": "physics-ch-05",
+      "displayChapterName": "Laws of Motion + Friction"
+    },
+    {
+      "lectureNumber": 10,
+      "subject": "Physics",
+      "chapterName": "Laws of Motion + Friction",
+      "chapter": "Laws of Motion + Friction",
+      "chapterNumber": 5,
+      "chapterId": "physics-ch-05",
+      "displayChapterName": "Laws of Motion + Friction"
+    },
+    {
+      "lectureNumber": 11,
+      "subject": "Physics",
+      "chapterName": "Laws of Motion + Friction",
+      "chapter": "Laws of Motion + Friction",
+      "chapterNumber": 5,
+      "chapterId": "physics-ch-05",
+      "displayChapterName": "Laws of Motion + Friction"
+    },
+    {
+      "lectureNumber": 12,
+      "subject": "Physics",
+      "chapterName": "Laws of Motion + Friction",
+      "chapter": "Laws of Motion + Friction",
+      "chapterNumber": 5,
+      "chapterId": "physics-ch-05",
+      "displayChapterName": "Laws of Motion + Friction"
+    },
+    {
+      "lectureNumber": 13,
+      "subject": "Physics",
+      "chapterName": "Laws of Motion + Friction",
+      "chapter": "Laws of Motion + Friction",
+      "chapterNumber": 5,
+      "chapterId": "physics-ch-05",
+      "displayChapterName": "Laws of Motion + Friction"
+    },
+    {
+      "lectureNumber": 14,
+      "subject": "Physics",
+      "chapterName": "Laws of Motion + Friction",
+      "chapter": "Laws of Motion + Friction",
+      "chapterNumber": 5,
+      "chapterId": "physics-ch-05",
+      "displayChapterName": "Laws of Motion + Friction"
+    },
+    {
+      "lectureNumber": 15,
+      "subject": "Physics",
+      "chapterName": "Laws of Motion + Friction",
+      "chapter": "Laws of Motion + Friction",
+      "chapterNumber": 5,
+      "chapterId": "physics-ch-05",
+      "displayChapterName": "Laws of Motion + Friction"
+    },
+    {
+      "lectureNumber": 16,
+      "subject": "Physics",
+      "chapterName": "Laws of Motion + Friction",
+      "chapter": "Laws of Motion + Friction",
+      "chapterNumber": 5,
+      "chapterId": "physics-ch-05",
+      "displayChapterName": "Laws of Motion + Friction"
+    },
+    {
+      "lectureNumber": 17,
+      "subject": "Physics",
+      "chapterName": "Laws of Motion + Friction",
+      "chapter": "Laws of Motion + Friction",
+      "chapterNumber": 5,
+      "chapterId": "physics-ch-05",
+      "displayChapterName": "Laws of Motion + Friction"
+    },
+    {
+      "lectureNumber": 1,
+      "subject": "Physics",
+      "chapterName": "Circular Motion",
+      "chapter": "Circular Motion",
+      "chapterNumber": 6,
+      "chapterId": "physics-ch-06",
+      "displayChapterName": "Circular Motion"
+    },
+    {
+      "lectureNumber": 2,
+      "subject": "Physics",
+      "chapterName": "Circular Motion",
+      "chapter": "Circular Motion",
+      "chapterNumber": 6,
+      "chapterId": "physics-ch-06",
+      "displayChapterName": "Circular Motion"
+    },
+    {
+      "lectureNumber": 3,
+      "subject": "Physics",
+      "chapterName": "Circular Motion",
+      "chapter": "Circular Motion",
+      "chapterNumber": 6,
+      "chapterId": "physics-ch-06",
+      "displayChapterName": "Circular Motion"
+    },
+    {
+      "lectureNumber": 4,
+      "subject": "Physics",
+      "chapterName": "Circular Motion",
+      "chapter": "Circular Motion",
+      "chapterNumber": 6,
+      "chapterId": "physics-ch-06",
+      "displayChapterName": "Circular Motion"
+    },
+    {
+      "lectureNumber": 5,
+      "subject": "Physics",
+      "chapterName": "Circular Motion",
+      "chapter": "Circular Motion",
+      "chapterNumber": 6,
+      "chapterId": "physics-ch-06",
+      "displayChapterName": "Circular Motion"
+    },
+    {
+      "lectureNumber": 6,
+      "subject": "Physics",
+      "chapterName": "Circular Motion",
+      "chapter": "Circular Motion",
+      "chapterNumber": 6,
+      "chapterId": "physics-ch-06",
+      "displayChapterName": "Circular Motion"
+    },
+    {
+      "lectureNumber": 7,
+      "subject": "Physics",
+      "chapterName": "Circular Motion",
+      "chapter": "Circular Motion",
+      "chapterNumber": 6,
+      "chapterId": "physics-ch-06",
+      "displayChapterName": "Circular Motion"
+    },
+    {
+      "lectureNumber": 8,
+      "subject": "Physics",
+      "chapterName": "Circular Motion",
+      "chapter": "Circular Motion",
+      "chapterNumber": 6,
+      "chapterId": "physics-ch-06",
+      "displayChapterName": "Circular Motion"
+    },
+    {
+      "lectureNumber": 9,
+      "subject": "Physics",
+      "chapterName": "Circular Motion",
+      "chapter": "Circular Motion",
+      "chapterNumber": 6,
+      "chapterId": "physics-ch-06",
+      "displayChapterName": "Circular Motion"
+    },
+    {
+      "lectureNumber": 10,
+      "subject": "Physics",
+      "chapterName": "Circular Motion",
+      "chapter": "Circular Motion",
+      "chapterNumber": 6,
+      "chapterId": "physics-ch-06",
+      "displayChapterName": "Circular Motion"
+    },
+    {
+      "lectureNumber": 1,
+      "subject": "Physics",
+      "chapterName": "Work, Energy and Power",
+      "chapter": "Work, Energy and Power",
+      "chapterNumber": 7,
+      "chapterId": "physics-ch-07",
+      "displayChapterName": "Work, Energy and Power"
+    },
+    {
+      "lectureNumber": 2,
+      "subject": "Physics",
+      "chapterName": "Work, Energy and Power",
+      "chapter": "Work, Energy and Power",
+      "chapterNumber": 7,
+      "chapterId": "physics-ch-07",
+      "displayChapterName": "Work, Energy and Power"
+    },
+    {
+      "lectureNumber": 3,
+      "subject": "Physics",
+      "chapterName": "Work, Energy and Power",
+      "chapter": "Work, Energy and Power",
+      "chapterNumber": 7,
+      "chapterId": "physics-ch-07",
+      "displayChapterName": "Work, Energy and Power"
+    },
+    {
+      "lectureNumber": 4,
+      "subject": "Physics",
+      "chapterName": "Work, Energy and Power",
+      "chapter": "Work, Energy and Power",
+      "chapterNumber": 7,
+      "chapterId": "physics-ch-07",
+      "displayChapterName": "Work, Energy and Power"
+    },
+    {
+      "lectureNumber": 5,
+      "subject": "Physics",
+      "chapterName": "Work, Energy and Power",
+      "chapter": "Work, Energy and Power",
+      "chapterNumber": 7,
+      "chapterId": "physics-ch-07",
+      "displayChapterName": "Work, Energy and Power"
+    },
+    {
+      "lectureNumber": 6,
+      "subject": "Physics",
+      "chapterName": "Work, Energy and Power",
+      "chapter": "Work, Energy and Power",
+      "chapterNumber": 7,
+      "chapterId": "physics-ch-07",
+      "displayChapterName": "Work, Energy and Power"
+    },
+    {
+      "lectureNumber": 7,
+      "subject": "Physics",
+      "chapterName": "Work, Energy and Power",
+      "chapter": "Work, Energy and Power",
+      "chapterNumber": 7,
+      "chapterId": "physics-ch-07",
+      "displayChapterName": "Work, Energy and Power"
+    },
+    {
+      "lectureNumber": 8,
+      "subject": "Physics",
+      "chapterName": "Work, Energy and Power",
+      "chapter": "Work, Energy and Power",
+      "chapterNumber": 7,
+      "chapterId": "physics-ch-07",
+      "displayChapterName": "Work, Energy and Power"
+    },
+    {
+      "lectureNumber": 9,
+      "subject": "Physics",
+      "chapterName": "Work, Energy and Power",
+      "chapter": "Work, Energy and Power",
+      "chapterNumber": 7,
+      "chapterId": "physics-ch-07",
+      "displayChapterName": "Work, Energy and Power"
+    },
+    {
+      "lectureNumber": 10,
+      "subject": "Physics",
+      "chapterName": "Work, Energy and Power",
+      "chapter": "Work, Energy and Power",
+      "chapterNumber": 7,
+      "chapterId": "physics-ch-07",
+      "displayChapterName": "Work, Energy and Power"
+    },
+    {
+      "lectureNumber": 11,
+      "subject": "Physics",
+      "chapterName": "Work, Energy and Power",
+      "chapter": "Work, Energy and Power",
+      "chapterNumber": 7,
+      "chapterId": "physics-ch-07",
+      "displayChapterName": "Work, Energy and Power"
+    },
+    {
+      "lectureNumber": 12,
+      "subject": "Physics",
+      "chapterName": "Work, Energy and Power",
+      "chapter": "Work, Energy and Power",
+      "chapterNumber": 7,
+      "chapterId": "physics-ch-07",
+      "displayChapterName": "Work, Energy and Power"
+    },
+    {
+      "lectureNumber": 1,
+      "subject": "Physics",
+      "chapterName": "Centre of Mass & System of Particles",
+      "chapter": "Centre of Mass & System of Particles",
+      "chapterNumber": 8,
+      "chapterId": "physics-ch-08",
+      "displayChapterName": "Centre of Mass & System of Particles"
+    },
+    {
+      "lectureNumber": 2,
+      "subject": "Physics",
+      "chapterName": "Centre of Mass & System of Particles",
+      "chapter": "Centre of Mass & System of Particles",
+      "chapterNumber": 8,
+      "chapterId": "physics-ch-08",
+      "displayChapterName": "Centre of Mass & System of Particles"
+    },
+    {
+      "lectureNumber": 3,
+      "subject": "Physics",
+      "chapterName": "Centre of Mass & System of Particles",
+      "chapter": "Centre of Mass & System of Particles",
+      "chapterNumber": 8,
+      "chapterId": "physics-ch-08",
+      "displayChapterName": "Centre of Mass & System of Particles"
+    },
+    {
+      "lectureNumber": 4,
+      "subject": "Physics",
+      "chapterName": "Centre of Mass & System of Particles",
+      "chapter": "Centre of Mass & System of Particles",
+      "chapterNumber": 8,
+      "chapterId": "physics-ch-08",
+      "displayChapterName": "Centre of Mass & System of Particles"
+    },
+    {
+      "lectureNumber": 5,
+      "subject": "Physics",
+      "chapterName": "Centre of Mass & System of Particles",
+      "chapter": "Centre of Mass & System of Particles",
+      "chapterNumber": 8,
+      "chapterId": "physics-ch-08",
+      "displayChapterName": "Centre of Mass & System of Particles"
+    },
+    {
+      "lectureNumber": 6,
+      "subject": "Physics",
+      "chapterName": "Centre of Mass & System of Particles",
+      "chapter": "Centre of Mass & System of Particles",
+      "chapterNumber": 8,
+      "chapterId": "physics-ch-08",
+      "displayChapterName": "Centre of Mass & System of Particles"
+    },
+    {
+      "lectureNumber": 7,
+      "subject": "Physics",
+      "chapterName": "Centre of Mass & System of Particles",
+      "chapter": "Centre of Mass & System of Particles",
+      "chapterNumber": 8,
+      "chapterId": "physics-ch-08",
+      "displayChapterName": "Centre of Mass & System of Particles"
+    },
+    {
+      "lectureNumber": 8,
+      "subject": "Physics",
+      "chapterName": "Centre of Mass & System of Particles",
+      "chapter": "Centre of Mass & System of Particles",
+      "chapterNumber": 8,
+      "chapterId": "physics-ch-08",
+      "displayChapterName": "Centre of Mass & System of Particles"
+    },
+    {
+      "lectureNumber": 9,
+      "subject": "Physics",
+      "chapterName": "Centre of Mass & System of Particles",
+      "chapter": "Centre of Mass & System of Particles",
+      "chapterNumber": 8,
+      "chapterId": "physics-ch-08",
+      "displayChapterName": "Centre of Mass & System of Particles"
+    },
+    {
+      "lectureNumber": 10,
+      "subject": "Physics",
+      "chapterName": "Centre of Mass & System of Particles",
+      "chapter": "Centre of Mass & System of Particles",
+      "chapterNumber": 8,
+      "chapterId": "physics-ch-08",
+      "displayChapterName": "Centre of Mass & System of Particles"
+    },
+    {
+      "lectureNumber": 11,
+      "subject": "Physics",
+      "chapterName": "Centre of Mass & System of Particles",
+      "chapter": "Centre of Mass & System of Particles",
+      "chapterNumber": 8,
+      "chapterId": "physics-ch-08",
+      "displayChapterName": "Centre of Mass & System of Particles"
+    },
+    {
+      "lectureNumber": 12,
+      "subject": "Physics",
+      "chapterName": "Centre of Mass & System of Particles",
+      "chapter": "Centre of Mass & System of Particles",
+      "chapterNumber": 8,
+      "chapterId": "physics-ch-08",
+      "displayChapterName": "Centre of Mass & System of Particles"
+    },
+    {
+      "lectureNumber": 13,
+      "subject": "Physics",
+      "chapterName": "Centre of Mass & System of Particles",
+      "chapter": "Centre of Mass & System of Particles",
+      "chapterNumber": 8,
+      "chapterId": "physics-ch-08",
+      "displayChapterName": "Centre of Mass & System of Particles"
+    },
+    {
+      "lectureNumber": 14,
+      "subject": "Physics",
+      "chapterName": "Centre of Mass & System of Particles",
+      "chapter": "Centre of Mass & System of Particles",
+      "chapterNumber": 8,
+      "chapterId": "physics-ch-08",
+      "displayChapterName": "Centre of Mass & System of Particles"
+    },
+    {
+      "lectureNumber": 15,
+      "subject": "Physics",
+      "chapterName": "Centre of Mass & System of Particles",
+      "chapter": "Centre of Mass & System of Particles",
+      "chapterNumber": 8,
+      "chapterId": "physics-ch-08",
+      "displayChapterName": "Centre of Mass & System of Particles"
+    },
+    {
+      "lectureNumber": 1,
+      "subject": "Physics",
+      "chapterName": "Rotational Motion",
+      "chapter": "Rotational Motion",
+      "chapterNumber": 9,
+      "chapterId": "physics-ch-09",
+      "displayChapterName": "Rotational Motion"
+    },
+    {
+      "lectureNumber": 2,
+      "subject": "Physics",
+      "chapterName": "Rotational Motion",
+      "chapter": "Rotational Motion",
+      "chapterNumber": 9,
+      "chapterId": "physics-ch-09",
+      "displayChapterName": "Rotational Motion"
+    },
+    {
+      "lectureNumber": 3,
+      "subject": "Physics",
+      "chapterName": "Rotational Motion",
+      "chapter": "Rotational Motion",
+      "chapterNumber": 9,
+      "chapterId": "physics-ch-09",
+      "displayChapterName": "Rotational Motion"
+    },
+    {
+      "lectureNumber": 4,
+      "subject": "Physics",
+      "chapterName": "Rotational Motion",
+      "chapter": "Rotational Motion",
+      "chapterNumber": 9,
+      "chapterId": "physics-ch-09",
+      "displayChapterName": "Rotational Motion"
+    },
+    {
+      "lectureNumber": 5,
+      "subject": "Physics",
+      "chapterName": "Rotational Motion",
+      "chapter": "Rotational Motion",
+      "chapterNumber": 9,
+      "chapterId": "physics-ch-09",
+      "displayChapterName": "Rotational Motion"
+    },
+    {
+      "lectureNumber": 6,
+      "subject": "Physics",
+      "chapterName": "Rotational Motion",
+      "chapter": "Rotational Motion",
+      "chapterNumber": 9,
+      "chapterId": "physics-ch-09",
+      "displayChapterName": "Rotational Motion"
+    },
+    {
+      "lectureNumber": 7,
+      "subject": "Physics",
+      "chapterName": "Rotational Motion",
+      "chapter": "Rotational Motion",
+      "chapterNumber": 9,
+      "chapterId": "physics-ch-09",
+      "displayChapterName": "Rotational Motion"
+    },
+    {
+      "lectureNumber": 8,
+      "subject": "Physics",
+      "chapterName": "Rotational Motion",
+      "chapter": "Rotational Motion",
+      "chapterNumber": 9,
+      "chapterId": "physics-ch-09",
+      "displayChapterName": "Rotational Motion"
+    },
+    {
+      "lectureNumber": 9,
+      "subject": "Physics",
+      "chapterName": "Rotational Motion",
+      "chapter": "Rotational Motion",
+      "chapterNumber": 9,
+      "chapterId": "physics-ch-09",
+      "displayChapterName": "Rotational Motion"
+    },
+    {
+      "lectureNumber": 10,
+      "subject": "Physics",
+      "chapterName": "Rotational Motion",
+      "chapter": "Rotational Motion",
+      "chapterNumber": 9,
+      "chapterId": "physics-ch-09",
+      "displayChapterName": "Rotational Motion"
+    },
+    {
+      "lectureNumber": 11,
+      "subject": "Physics",
+      "chapterName": "Rotational Motion",
+      "chapter": "Rotational Motion",
+      "chapterNumber": 9,
+      "chapterId": "physics-ch-09",
+      "displayChapterName": "Rotational Motion"
+    },
+    {
+      "lectureNumber": 12,
+      "subject": "Physics",
+      "chapterName": "Rotational Motion",
+      "chapter": "Rotational Motion",
+      "chapterNumber": 9,
+      "chapterId": "physics-ch-09",
+      "displayChapterName": "Rotational Motion"
+    },
+    {
+      "lectureNumber": 13,
+      "subject": "Physics",
+      "chapterName": "Rotational Motion",
+      "chapter": "Rotational Motion",
+      "chapterNumber": 9,
+      "chapterId": "physics-ch-09",
+      "displayChapterName": "Rotational Motion"
+    },
+    {
+      "lectureNumber": 14,
+      "subject": "Physics",
+      "chapterName": "Rotational Motion",
+      "chapter": "Rotational Motion",
+      "chapterNumber": 9,
+      "chapterId": "physics-ch-09",
+      "displayChapterName": "Rotational Motion"
+    },
+    {
+      "lectureNumber": 15,
+      "subject": "Physics",
+      "chapterName": "Rotational Motion",
+      "chapter": "Rotational Motion",
+      "chapterNumber": 9,
+      "chapterId": "physics-ch-09",
+      "displayChapterName": "Rotational Motion"
+    },
+    {
+      "lectureNumber": 16,
+      "subject": "Physics",
+      "chapterName": "Rotational Motion",
+      "chapter": "Rotational Motion",
+      "chapterNumber": 9,
+      "chapterId": "physics-ch-09",
+      "displayChapterName": "Rotational Motion"
+    },
+    {
+      "lectureNumber": 17,
+      "subject": "Physics",
+      "chapterName": "Rotational Motion",
+      "chapter": "Rotational Motion",
+      "chapterNumber": 9,
+      "chapterId": "physics-ch-09",
+      "displayChapterName": "Rotational Motion"
+    },
+    {
+      "lectureNumber": 18,
+      "subject": "Physics",
+      "chapterName": "Rotational Motion",
+      "chapter": "Rotational Motion",
+      "chapterNumber": 9,
+      "chapterId": "physics-ch-09",
+      "displayChapterName": "Rotational Motion"
+    },
+    {
+      "lectureNumber": 19,
+      "subject": "Physics",
+      "chapterName": "Rotational Motion",
+      "chapter": "Rotational Motion",
+      "chapterNumber": 9,
+      "chapterId": "physics-ch-09",
+      "displayChapterName": "Rotational Motion"
+    },
+    {
+      "lectureNumber": 1,
+      "subject": "Physics",
+      "chapterName": "Gravitation",
+      "chapter": "Gravitation",
+      "chapterNumber": 10,
+      "chapterId": "physics-ch-10",
+      "displayChapterName": "Gravitation"
+    },
+    {
+      "lectureNumber": 2,
+      "subject": "Physics",
+      "chapterName": "Gravitation",
+      "chapter": "Gravitation",
+      "chapterNumber": 10,
+      "chapterId": "physics-ch-10",
+      "displayChapterName": "Gravitation"
+    },
+    {
+      "lectureNumber": 3,
+      "subject": "Physics",
+      "chapterName": "Gravitation",
+      "chapter": "Gravitation",
+      "chapterNumber": 10,
+      "chapterId": "physics-ch-10",
+      "displayChapterName": "Gravitation"
+    },
+    {
+      "lectureNumber": 4,
+      "subject": "Physics",
+      "chapterName": "Gravitation",
+      "chapter": "Gravitation",
+      "chapterNumber": 10,
+      "chapterId": "physics-ch-10",
+      "displayChapterName": "Gravitation"
+    },
+    {
+      "lectureNumber": 5,
+      "subject": "Physics",
+      "chapterName": "Gravitation",
+      "chapter": "Gravitation",
+      "chapterNumber": 10,
+      "chapterId": "physics-ch-10",
+      "displayChapterName": "Gravitation"
+    },
+    {
+      "lectureNumber": 6,
+      "subject": "Physics",
+      "chapterName": "Gravitation",
+      "chapter": "Gravitation",
+      "chapterNumber": 10,
+      "chapterId": "physics-ch-10",
+      "displayChapterName": "Gravitation"
+    },
+    {
+      "lectureNumber": 7,
+      "subject": "Physics",
+      "chapterName": "Gravitation",
+      "chapter": "Gravitation",
+      "chapterNumber": 10,
+      "chapterId": "physics-ch-10",
+      "displayChapterName": "Gravitation"
+    },
+    {
+      "lectureNumber": 1,
+      "subject": "Physics",
+      "chapterName": "Mechanical Properties of Solids",
+      "chapter": "Mechanical Properties of Solids",
+      "chapterNumber": 11,
+      "chapterId": "physics-ch-11",
+      "displayChapterName": "Mechanical Properties of Solids"
+    },
+    {
+      "lectureNumber": 1,
+      "subject": "Physics",
+      "chapterName": "Mechanical Properties of Fluids",
+      "chapter": "Mechanical Properties of Fluids",
+      "chapterNumber": 12,
+      "chapterId": "physics-ch-12",
+      "displayChapterName": "Mechanical Properties of Fluids"
+    },
+    {
+      "lectureNumber": 2,
+      "subject": "Physics",
+      "chapterName": "Mechanical Properties of Fluids",
+      "chapter": "Mechanical Properties of Fluids",
+      "chapterNumber": 12,
+      "chapterId": "physics-ch-12",
+      "displayChapterName": "Mechanical Properties of Fluids"
+    },
+    {
+      "lectureNumber": 3,
+      "subject": "Physics",
+      "chapterName": "Mechanical Properties of Fluids",
+      "chapter": "Mechanical Properties of Fluids",
+      "chapterNumber": 12,
+      "chapterId": "physics-ch-12",
+      "displayChapterName": "Mechanical Properties of Fluids"
+    },
+    {
+      "lectureNumber": 4,
+      "subject": "Physics",
+      "chapterName": "Mechanical Properties of Fluids",
+      "chapter": "Mechanical Properties of Fluids",
+      "chapterNumber": 12,
+      "chapterId": "physics-ch-12",
+      "displayChapterName": "Mechanical Properties of Fluids"
+    },
+    {
+      "lectureNumber": 5,
+      "subject": "Physics",
+      "chapterName": "Mechanical Properties of Fluids",
+      "chapter": "Mechanical Properties of Fluids",
+      "chapterNumber": 12,
+      "chapterId": "physics-ch-12",
+      "displayChapterName": "Mechanical Properties of Fluids"
+    },
+    {
+      "lectureNumber": 6,
+      "subject": "Physics",
+      "chapterName": "Mechanical Properties of Fluids",
+      "chapter": "Mechanical Properties of Fluids",
+      "chapterNumber": 12,
+      "chapterId": "physics-ch-12",
+      "displayChapterName": "Mechanical Properties of Fluids"
+    },
+    {
+      "lectureNumber": 7,
+      "subject": "Physics",
+      "chapterName": "Mechanical Properties of Fluids",
+      "chapter": "Mechanical Properties of Fluids",
+      "chapterNumber": 12,
+      "chapterId": "physics-ch-12",
+      "displayChapterName": "Mechanical Properties of Fluids"
+    },
+    {
+      "lectureNumber": 8,
+      "subject": "Physics",
+      "chapterName": "Mechanical Properties of Fluids",
+      "chapter": "Mechanical Properties of Fluids",
+      "chapterNumber": 12,
+      "chapterId": "physics-ch-12",
+      "displayChapterName": "Mechanical Properties of Fluids"
+    },
+    {
+      "lectureNumber": 9,
+      "subject": "Physics",
+      "chapterName": "Mechanical Properties of Fluids",
+      "chapter": "Mechanical Properties of Fluids",
+      "chapterNumber": 12,
+      "chapterId": "physics-ch-12",
+      "displayChapterName": "Mechanical Properties of Fluids"
+    },
+    {
+      "lectureNumber": 10,
+      "subject": "Physics",
+      "chapterName": "Mechanical Properties of Fluids",
+      "chapter": "Mechanical Properties of Fluids",
+      "chapterNumber": 12,
+      "chapterId": "physics-ch-12",
+      "displayChapterName": "Mechanical Properties of Fluids"
+    },
+    {
+      "lectureNumber": 11,
+      "subject": "Physics",
+      "chapterName": "Mechanical Properties of Fluids",
+      "chapter": "Mechanical Properties of Fluids",
+      "chapterNumber": 12,
+      "chapterId": "physics-ch-12",
+      "displayChapterName": "Mechanical Properties of Fluids"
+    },
+    {
+      "lectureNumber": 12,
+      "subject": "Physics",
+      "chapterName": "Mechanical Properties of Fluids",
+      "chapter": "Mechanical Properties of Fluids",
+      "chapterNumber": 12,
+      "chapterId": "physics-ch-12",
+      "displayChapterName": "Mechanical Properties of Fluids"
+    },
+    {
+      "lectureNumber": 1,
+      "subject": "Physics",
+      "chapterName": "Thermal Properties of Matter",
+      "chapter": "Thermal Properties of Matter",
+      "chapterNumber": 13,
+      "chapterId": "physics-ch-13",
+      "displayChapterName": "Thermal Properties of Matter"
+    },
+    {
+      "lectureNumber": 2,
+      "subject": "Physics",
+      "chapterName": "Thermal Properties of Matter",
+      "chapter": "Thermal Properties of Matter",
+      "chapterNumber": 13,
+      "chapterId": "physics-ch-13",
+      "displayChapterName": "Thermal Properties of Matter"
+    },
+    {
+      "lectureNumber": 3,
+      "subject": "Physics",
+      "chapterName": "Thermal Properties of Matter",
+      "chapter": "Thermal Properties of Matter",
+      "chapterNumber": 13,
+      "chapterId": "physics-ch-13",
+      "displayChapterName": "Thermal Properties of Matter"
+    },
+    {
+      "lectureNumber": 4,
+      "subject": "Physics",
+      "chapterName": "Thermal Properties of Matter",
+      "chapter": "Thermal Properties of Matter",
+      "chapterNumber": 13,
+      "chapterId": "physics-ch-13",
+      "displayChapterName": "Thermal Properties of Matter"
+    },
+    {
+      "lectureNumber": 5,
+      "subject": "Physics",
+      "chapterName": "Thermal Properties of Matter",
+      "chapter": "Thermal Properties of Matter",
+      "chapterNumber": 13,
+      "chapterId": "physics-ch-13",
+      "displayChapterName": "Thermal Properties of Matter"
+    },
+    {
+      "lectureNumber": 6,
+      "subject": "Physics",
+      "chapterName": "Thermal Properties of Matter",
+      "chapter": "Thermal Properties of Matter",
+      "chapterNumber": 13,
+      "chapterId": "physics-ch-13",
+      "displayChapterName": "Thermal Properties of Matter"
+    },
+    {
+      "lectureNumber": 1,
+      "subject": "Physics",
+      "chapterName": "Kinetic Theory & Thermodynamics",
+      "chapter": "Kinetic Theory & Thermodynamics",
+      "chapterNumber": 14,
+      "chapterId": "physics-ch-14",
+      "displayChapterName": "Kinetic Theory & Thermodynamics"
+    },
+    {
+      "lectureNumber": 2,
+      "subject": "Physics",
+      "chapterName": "Kinetic Theory & Thermodynamics",
+      "chapter": "Kinetic Theory & Thermodynamics",
+      "chapterNumber": 14,
+      "chapterId": "physics-ch-14",
+      "displayChapterName": "Kinetic Theory & Thermodynamics"
+    },
+    {
+      "lectureNumber": 3,
+      "subject": "Physics",
+      "chapterName": "Kinetic Theory & Thermodynamics",
+      "chapter": "Kinetic Theory & Thermodynamics",
+      "chapterNumber": 14,
+      "chapterId": "physics-ch-14",
+      "displayChapterName": "Kinetic Theory & Thermodynamics"
+    },
+    {
+      "lectureNumber": 4,
+      "subject": "Physics",
+      "chapterName": "Kinetic Theory & Thermodynamics",
+      "chapter": "Kinetic Theory & Thermodynamics",
+      "chapterNumber": 14,
+      "chapterId": "physics-ch-14",
+      "displayChapterName": "Kinetic Theory & Thermodynamics"
+    },
+    {
+      "lectureNumber": 5,
+      "subject": "Physics",
+      "chapterName": "Kinetic Theory & Thermodynamics",
+      "chapter": "Kinetic Theory & Thermodynamics",
+      "chapterNumber": 14,
+      "chapterId": "physics-ch-14",
+      "displayChapterName": "Kinetic Theory & Thermodynamics"
+    },
+    {
+      "lectureNumber": 1,
+      "subject": "Physics",
+      "chapterName": "Simple Harmonic Motion",
+      "chapter": "Simple Harmonic Motion",
+      "chapterNumber": 15,
+      "chapterId": "physics-ch-15",
+      "displayChapterName": "Simple Harmonic Motion"
+    },
+    {
+      "lectureNumber": 2,
+      "subject": "Physics",
+      "chapterName": "Simple Harmonic Motion",
+      "chapter": "Simple Harmonic Motion",
+      "chapterNumber": 15,
+      "chapterId": "physics-ch-15",
+      "displayChapterName": "Simple Harmonic Motion"
+    },
+    {
+      "lectureNumber": 3,
+      "subject": "Physics",
+      "chapterName": "Simple Harmonic Motion",
+      "chapter": "Simple Harmonic Motion",
+      "chapterNumber": 15,
+      "chapterId": "physics-ch-15",
+      "displayChapterName": "Simple Harmonic Motion"
+    },
+    {
+      "lectureNumber": 4,
+      "subject": "Physics",
+      "chapterName": "Simple Harmonic Motion",
+      "chapter": "Simple Harmonic Motion",
+      "chapterNumber": 15,
+      "chapterId": "physics-ch-15",
+      "displayChapterName": "Simple Harmonic Motion"
+    },
+    {
+      "lectureNumber": 5,
+      "subject": "Physics",
+      "chapterName": "Simple Harmonic Motion",
+      "chapter": "Simple Harmonic Motion",
+      "chapterNumber": 15,
+      "chapterId": "physics-ch-15",
+      "displayChapterName": "Simple Harmonic Motion"
+    },
+    {
+      "lectureNumber": 6,
+      "subject": "Physics",
+      "chapterName": "Simple Harmonic Motion",
+      "chapter": "Simple Harmonic Motion",
+      "chapterNumber": 15,
+      "chapterId": "physics-ch-15",
+      "displayChapterName": "Simple Harmonic Motion"
+    },
+    {
+      "lectureNumber": 1,
+      "subject": "Physics",
+      "chapterName": "Waves",
+      "chapter": "Waves",
+      "chapterNumber": 16,
+      "chapterId": "physics-ch-16",
+      "displayChapterName": "Waves"
+    },
+    {
+      "lectureNumber": 2,
+      "subject": "Physics",
+      "chapterName": "Waves",
+      "chapter": "Waves",
+      "chapterNumber": 16,
+      "chapterId": "physics-ch-16",
+      "displayChapterName": "Waves"
+    },
+    {
+      "lectureNumber": 3,
+      "subject": "Physics",
+      "chapterName": "Waves",
+      "chapter": "Waves",
+      "chapterNumber": 16,
+      "chapterId": "physics-ch-16",
+      "displayChapterName": "Waves"
+    },
+    {
+      "lectureNumber": 4,
+      "subject": "Physics",
+      "chapterName": "Waves",
+      "chapter": "Waves",
+      "chapterNumber": 16,
+      "chapterId": "physics-ch-16",
+      "displayChapterName": "Waves"
+    },
+    {
+      "lectureNumber": 5,
+      "subject": "Physics",
+      "chapterName": "Waves",
+      "chapter": "Waves",
+      "chapterNumber": 16,
+      "chapterId": "physics-ch-16",
+      "displayChapterName": "Waves"
+    }
+  ]
+}
