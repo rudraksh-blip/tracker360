@@ -45,6 +45,18 @@ export default function Page() {
     })
   }
 
+  function toggleLecturePush(key: string, date: string) {
+    setConfig((prev) => {
+      const pushedLectures = { ...(prev.pushedLectures ?? {}) }
+      if (pushedLectures[key]) {
+        delete pushedLectures[key]
+      } else {
+        pushedLectures[key] = date
+      }
+      return { ...prev, pushedLectures }
+    })
+  }
+
   function resetAll() {
     setConfig(defaultConfig())
     setDone({})
@@ -94,6 +106,7 @@ export default function Page() {
             onToggle={toggle}
             onToggleMany={toggleMany}
             onPush={togglePush}
+            onPushLecture={toggleLecturePush}
           />
         )}
       </div>

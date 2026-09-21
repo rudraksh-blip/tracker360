@@ -72,6 +72,8 @@ export function generatePlan(config: PlanConfig): Plan {
   const queue = roundRobin(sequences)
   const total = queue.length
   const pushedDates = new Set(config.pushedDates ?? [])
+  const pushedLectures = config.pushedLectures ?? {}
+  let pending = [...queue]
 
   let effectiveDaily: number
   if (config.mode === "target") {
@@ -82,12 +84,11 @@ export function generatePlan(config: PlanConfig): Plan {
 
   const days: PlanDay[] = []
   const cursor = parseISO(config.startDate)
-  let idx = 0
   let dayCounter = 0
   let mockCounter = 0
   let safety = 0
 
-  while (idx < queue.length && safety < 20000) {
+  while (pending.length > 0 && safety < 20000) {
     safety++
     if (isOffDay(cursor, config)) {
       cursor.setDate(cursor.getDate() + 1)
@@ -105,9 +106,17 @@ export function generatePlan(config: PlanConfig): Plan {
       mockCounter++
       days.push({ type: "mock", dayNumber: dayCounter, date: toISO(cursor), mockNumber: mockCounter })
     } else {
-      const lectures = queue.slice(idx, idx + effectiveDaily)
-      idx += lectures.length
-      days.push({ type: "study", dayNumber: dayCounter, date: toISO(cursor), lectures })
+      const date = toISO(cursor)
+      const due = pending.filter((lecture) => {
+        const sourceDate = pushedLectures[lecture.key]
+        return !!sourceDate && sourceDate < date
+      })
+      const dueKeys = new Set(due.map((lecture) => lecture.key))
+      const normal = pending.filter((lecture) => !dueKeys.has(lecture.key) && !pushedLectures[lecture.key])
+      const lectures = [...due, ...normal].slice(0, effectiveDaily)
+      const lectureKeys = new Set(lectures.map((lecture) => lecture.key))
+      pending = pending.filter((lecture) => !lectureKeys.has(lecture.key))
+      days.push({ type: "study", dayNumber: dayCounter, date, lectures })
     }
     cursor.setDate(cursor.getDate() + 1)
   }

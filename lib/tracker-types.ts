@@ -22,6 +22,8 @@ export type PlanConfig = {
   order: Record<string, string[]>
   /** ISO dates the user pushed — that day rests and its work shifts forward */
   pushedDates: string[]
+  /** lecture key -> source ISO date; moved lectures appear on the next active day */
+  pushedLectures: Record<string, string> 
 }
 
 export type LectureItem = {

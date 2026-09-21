@@ -25,6 +25,7 @@ export function defaultConfig(): PlanConfig {
     mockEvery: 14,
     order: {},
     pushedDates: [],
+    pushedLectures: {},
   }
 }
 

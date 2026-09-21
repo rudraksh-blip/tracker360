@@ -14,9 +14,10 @@ type Props = {
   onToggle: (key: string) => void
   onToggleMany: (keys: string[], value: boolean) => void
   onPush: (date: string) => void
+  onPushLecture: (key: string, date: string) => void
 }
 
-export function Roadmap({ plan, config, done, onToggle, onToggleMany, onPush }: Props) {
+export function Roadmap({ plan, config, done, onToggle, onToggleMany, onPush, onPushLecture }: Props) {
   const today = todayISO()
 
   const doneCount = useMemo(() => {
@@ -85,11 +86,13 @@ export function Roadmap({ plan, config, done, onToggle, onToggleMany, onPush }: 
           <DayCard
             key={day.dayNumber}
             day={day}
+            config={config}
             isToday={day.date === today || (todayIndex >= 0 && plan.days[todayIndex].dayNumber === day.dayNumber)}
             done={done}
             onToggle={onToggle}
             onToggleMany={onToggleMany}
             onPush={onPush}
+            onPushLecture={onPushLecture}
           />
         ))}
       </div>
@@ -111,18 +114,22 @@ function HeaderStat({ icon, value, label }: { icon: React.ReactNode; value: stri
 
 function DayCard({
   day,
+  config,
   isToday,
   done,
   onToggle,
   onToggleMany,
   onPush,
+  onPushLecture,
 }: {
   day: PlanDay
+  config: PlanConfig
   isToday: boolean
   done: Record<string, boolean>
   onToggle: (key: string) => void
   onToggleMany: (keys: string[], value: boolean) => void
   onPush: (date: string) => void
+  onPushLecture: (key: string, date: string) => void
 }) {
   if (day.type === "carry") {
     return (
@@ -230,38 +237,56 @@ function DayCard({
       </header>
       <div className="flex flex-col divide-y divide-border/60">
         {day.lectures.map((lec) => (
-          <LectureRow key={lec.key} lec={lec} done={!!done[lec.key]} onToggle={() => onToggle(lec.key)} />
+          <LectureRow
+            key={lec.key}
+            lec={lec}
+            done={!!done[lec.key]}
+            pushed={!!config.pushedLectures?.[lec.key]}
+            onToggle={() => onToggle(lec.key)}
+            onPush={() => onPushLecture(lec.key, day.date)}
+          />
         ))}
       </div>
     </section>
   )
 }
 
-function LectureRow({ lec, done, onToggle }: { lec: LectureItem; done: boolean; onToggle: () => void }) {
+function LectureRow({ lec, done, pushed, onToggle, onPush }: { lec: LectureItem; done: boolean; pushed: boolean; onToggle: () => void; onPush: () => void }) {
   const style = STREAM_STYLE[lec.streamId]
   return (
-    <button
-      type="button"
-      onClick={onToggle}
-      className="flex items-center gap-3 px-4 py-2.5 text-left transition-colors hover:bg-accent/30"
-    >
-      <span
+    <div className="flex items-center gap-3 px-4 py-2.5 transition-colors hover:bg-accent/30">
+      <button type="button" onClick={onToggle} className="flex min-w-0 flex-1 items-center gap-3 text-left">
+        <span
+          className={cn(
+            "flex size-5 shrink-0 items-center justify-center rounded-md border transition-colors",
+            done ? cn(style.dot, "border-transparent text-black") : "border-muted-foreground/40",
+          )}
+        >
+          {done && <Check className="size-3.5" strokeWidth={3} />}
+        </span>
+        <span className={cn("hidden shrink-0 rounded px-1.5 py-0.5 text-[10px] font-semibold sm:inline-block", style.soft, style.text)}>
+          {style.short}
+        </span>
+        <div className={cn("min-w-0 flex-1", done && "line-through opacity-60")}>
+          <div className="truncate text-sm font-medium">{lec.chapterName}</div>
+          <div className="text-xs text-muted-foreground">
+            {style.label} · Lecture {lec.lectureNo}/{lec.chapterTotal}
+          </div>
+        </div>
+      </button>
+      <button
+        type="button"
+        onClick={onPush}
+        title={pushed ? "Move this lecture back" : "Move this lecture to tomorrow"}
+        aria-label={pushed ? `Undo moving ${lec.chapterName} lecture ${lec.lectureNo}` : `Move ${lec.chapterName} lecture ${lec.lectureNo} to tomorrow`}
         className={cn(
-          "flex size-5 shrink-0 items-center justify-center rounded-md border transition-colors",
-          done ? cn(style.dot, "border-transparent text-black") : "border-muted-foreground/40",
+          "flex shrink-0 items-center gap-1 rounded-md border px-2 py-1 text-[11px] font-medium transition-colors",
+          pushed ? "border-primary/50 bg-primary/15 text-primary" : "border-border text-muted-foreground hover:bg-accent/40 hover:text-foreground",
         )}
       >
-        {done && <Check className="size-3.5" strokeWidth={3} />}
-      </span>
-      <span className={cn("hidden shrink-0 rounded px-1.5 py-0.5 text-[10px] font-semibold sm:inline-block", style.soft, style.text)}>
-        {style.short}
-      </span>
-      <div className={cn("min-w-0 flex-1", done && "line-through opacity-60")}>
-        <div className="truncate text-sm font-medium">{lec.chapterName}</div>
-        <div className="text-xs text-muted-foreground">
-          {style.label} · Lecture {lec.lectureNo}/{lec.chapterTotal}
-        </div>
-      </div>
-    </button>
+        {pushed ? <Undo2 className="size-3.5" /> : <CornerDownRight className="size-3.5" />}
+        <span className="hidden md:inline">{pushed ? "Undo" : "Tomorrow"}</span>
+      </button>
+    </div>
   )
 }
