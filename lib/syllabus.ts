@@ -32,12 +32,12 @@ export const SYLLABUS: SyllabusStream[] = [
       {
         "id": "physics-c2",
         "name": "Mathematical Tools",
-        "lectures": 12
+        "lectures": 11
       },
       {
         "id": "physics-c3",
         "name": "Motion in a Straight Line",
-        "lectures": 16
+        "lectures": 19
       },
       {
         "id": "physics-c4",
@@ -47,12 +47,12 @@ export const SYLLABUS: SyllabusStream[] = [
       {
         "id": "physics-c5",
         "name": "Laws of Motion + Friction",
-        "lectures": 17
+        "lectures": 21
       },
       {
         "id": "physics-c6",
         "name": "Circular Motion",
-        "lectures": 10
+        "lectures": 8
       },
       {
         "id": "physics-c7",
@@ -114,19 +114,19 @@ export const SYLLABUS: SyllabusStream[] = [
       {
         "id": "pchem-c1",
         "name": "Some Basic Concepts of Chemistry",
-        "lectures": 20,
+        "lectures": 21,
         "tag": "Physical"
       },
       {
         "id": "pchem-c2",
         "name": "Structure of Atom",
-        "lectures": 15,
+        "lectures": 18,
         "tag": "Physical"
       },
       {
         "id": "pchem-c3",
         "name": "State of matter",
-        "lectures": 10,
+        "lectures": 5,
         "tag": "Physical"
       },
       {
@@ -193,37 +193,37 @@ export const SYLLABUS: SyllabusStream[] = [
       {
         "id": "maths-c1",
         "name": "Sets",
-        "lectures": 7
+        "lectures": 8
       },
       {
         "id": "maths-c2",
         "name": "Basic Mathematics",
-        "lectures": 20
+        "lectures": 21
       },
       {
         "id": "maths-c3",
         "name": "Quadratic Equations",
-        "lectures": 9
+        "lectures": 14
       },
       {
         "id": "maths-c4",
         "name": "Sequence and Series",
-        "lectures": 9
+        "lectures": 12
       },
       {
         "id": "maths-c5",
         "name": "Trigonometric Functions",
-        "lectures": 11
+        "lectures": 13
       },
       {
         "id": "maths-c6",
         "name": "Trigonometric Equation",
-        "lectures": 8
+        "lectures": 7
       },
       {
         "id": "maths-c7",
         "name": "Relation Function",
-        "lectures": 7
+        "lectures": 5
       },
       {
         "id": "maths-c8",
