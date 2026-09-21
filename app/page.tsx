@@ -1,6 +1,6 @@
 "use client"
 
-import { ArrowLeft, ArrowRight, RotateCcw, Sparkles } from "lucide-react"
+import { ArrowLeft, ArrowRight, CalendarDays, Home, LayoutList, RotateCcw, Sparkles, Target, TimerReset } from "lucide-react"
 import { useMemo } from "react"
 import { BacklogStep } from "@/components/tracker/backlog-step"
 import { Roadmap } from "@/components/tracker/roadmap"
@@ -85,29 +85,35 @@ export default function Page() {
     )
   }
 
-  return (
-    <main className="mx-auto flex min-h-dvh w-full max-w-4xl flex-col gap-6 px-4 py-6 md:py-10">
-      <header className="flex items-center justify-between gap-4">
-        <div className="flex items-center gap-3">
-          <div className="flex size-10 items-center justify-center rounded-xl bg-primary/15 text-primary">
-            <Sparkles className="size-5" />
-          </div>
-          <div>
-            <h1 className="text-lg font-semibold tracking-tight">Backlog OS</h1>
-            <p className="text-xs text-muted-foreground">JEE 2027 · Arjuna · personal backlog planner</p>
-          </div>
-        </div>
-        <button
-          type="button"
-          onClick={resetAll}
-          className="flex items-center gap-1.5 rounded-lg border border-border px-3 py-2 text-xs text-muted-foreground transition-colors hover:bg-accent/40"
-        >
-          <RotateCcw className="size-3.5" />
-          Reset
-        </button>
-      </header>
+  const todayLabel = new Intl.DateTimeFormat("en-IN", { weekday: "long", day: "numeric", month: "short" }).format(new Date())
 
-      <Stepper phase={phase} onSelect={(p) => setPhase(p)} />
+  return (
+    <main className="min-h-dvh bg-[#f7f8fb] text-slate-900 dark:bg-[#111522] dark:text-slate-100">
+      <div className="mx-auto flex min-h-dvh w-full max-w-[1440px]">
+        <aside className="hidden w-64 shrink-0 flex-col border-r border-slate-200 bg-white px-5 py-7 dark:border-white/10 dark:bg-[#171b2b] lg:flex">
+          <div className="flex items-center gap-3 px-2">
+            <div className="flex size-10 items-center justify-center rounded-xl bg-violet-600 text-white shadow-lg shadow-violet-600/20"><Sparkles className="size-5" /></div>
+            <div><div className="font-bold tracking-tight">Tracker 360</div><div className="text-[11px] text-slate-500">JEE preparation</div></div>
+          </div>
+          <div className="mt-10 space-y-2">
+            <SidebarItem icon={<Home className="size-4" />} label="Overview" active />
+            <SidebarItem icon={<LayoutList className="size-4" />} label="Study plan" />
+            <SidebarItem icon={<Target className="size-4" />} label="Progress" />
+            <SidebarItem icon={<CalendarDays className="size-4" />} label="Calendar" />
+          </div>
+          <div className="mt-auto rounded-2xl bg-violet-50 p-4 dark:bg-violet-500/10"><div className="text-xs font-semibold text-violet-700 dark:text-violet-300">Keep your momentum</div><div className="mt-1 text-[11px] leading-relaxed text-slate-500">Small consistent sessions compound into big results.</div></div>
+        </aside>
+        <section className="flex min-w-0 flex-1 flex-col px-4 py-5 sm:px-7 lg:px-10 lg:py-8">
+          <header className="flex items-center justify-between gap-4">
+            <div><div className="text-xs font-medium uppercase tracking-[0.18em] text-violet-600 dark:text-violet-300">JEE 2027 · Arjuna</div><h1 className="mt-1 text-2xl font-bold tracking-tight sm:text-3xl">Good evening, Rudraksh</h1><p className="mt-1 text-sm text-slate-500">{todayLabel} · Let&apos;s make today count.</p></div>
+            <button type="button" onClick={resetAll} className="flex items-center gap-1.5 rounded-xl border border-slate-200 bg-white px-3 py-2 text-xs font-medium text-slate-500 shadow-sm transition-colors hover:bg-slate-50 dark:border-white/10 dark:bg-white/5"><RotateCcw className="size-3.5" /> Reset</button>
+          </header>
+          <div className="mt-7 grid gap-3 sm:grid-cols-3">
+            <SummaryCard icon={<Target className="size-4" />} label="Overall progress" value={`${plan.total ? Math.round((Object.values(done).filter(Boolean).length / plan.total) * 100) : 0}%`} detail={`${Object.values(done).filter(Boolean).length} of ${plan.total} lectures`} />
+            <SummaryCard icon={<TimerReset className="size-4" />} label="Daily pace" value={`${plan.effectiveDaily}`} detail="lectures per study day" />
+            <SummaryCard icon={<CalendarDays className="size-4" />} label="Projected finish" value={plan.finishDate ? new Intl.DateTimeFormat("en-IN", { day: "numeric", month: "short" }).format(new Date(`${plan.finishDate}T12:00:00`)) : "—"} detail={`${plan.studyDays} active study days`} />
+          </div>
+          <div className="mt-8"><Stepper phase={phase} onSelect={(p) => setPhase(p)} /></div>
 
       <div className="flex-1">
         {phase === 0 && <BacklogStep config={config} onChange={setConfig} />}
@@ -161,7 +167,27 @@ export default function Page() {
           </button>
         )}
       </footer>
+        </section>
+      </div>
     </main>
+  )
+}
+
+function SidebarItem({ icon, label, active = false }: { icon: React.ReactNode; label: string; active?: boolean }) {
+  return (
+    <button type="button" className={cn("flex w-full items-center gap-3 rounded-xl px-3 py-2.5 text-sm font-medium transition-colors", active ? "bg-violet-600 text-white shadow-md shadow-violet-600/20" : "text-slate-500 hover:bg-slate-100 hover:text-slate-900 dark:hover:bg-white/5 dark:hover:text-white")}>
+      {icon}<span>{label}</span>
+    </button>
+  )
+}
+
+function SummaryCard({ icon, label, value, detail }: { icon: React.ReactNode; label: string; value: string; detail: string }) {
+  return (
+    <div className="rounded-2xl border border-slate-200 bg-white p-4 shadow-sm dark:border-white/10 dark:bg-[#171b2b]">
+      <div className="flex items-center gap-2 text-xs font-medium text-slate-500"><span className="flex size-8 items-center justify-center rounded-lg bg-violet-50 text-violet-600 dark:bg-violet-500/15 dark:text-violet-300">{icon}</span>{label}</div>
+      <div className="mt-3 text-2xl font-bold tracking-tight">{value}</div>
+      <div className="mt-1 text-xs text-slate-500">{detail}</div>
+    </div>
   )
 }
 
