@@ -1,7 +1,7 @@
 "use client"
 
 import { ArrowLeft, ArrowRight, CalendarDays, Home, LayoutList, RotateCcw, Sparkles, Target, TimerReset } from "lucide-react"
-import { useMemo } from "react"
+import { useMemo, useState } from "react"
 import { BacklogStep } from "@/components/tracker/backlog-step"
 import { Roadmap } from "@/components/tracker/roadmap"
 import { TimelineStep } from "@/components/tracker/timeline-step"
@@ -19,6 +19,12 @@ export default function Page() {
   const [config, setConfig, cfgReady] = usePersistentState<PlanConfig>("bos.config.v1", defaultConfig())
   const [done, setDone, doneReady] = usePersistentState<Record<string, boolean>>("bos.done.v1", {})
   const [phase, setPhase] = usePersistentState<Phase>("bos.phase.v1", 0)
+  const [breakOpen, setBreakOpen] = useState(false)
+  const [breakFrom, setBreakFrom] = useState(() => new Date().toISOString().slice(0, 10))
+  const [breakTo, setBreakTo] = useState(() => new Date().toISOString().slice(0, 10))
+  const [breakName, setBreakName] = useState("Break")
+  const [breakMode, setBreakMode] = useState<"break" | "own">("break")
+  const [finishMode, setFinishMode] = useState<"later" | "same">("later")
 
   const plan = useMemo(() => generatePlan(config), [config])
 
@@ -71,6 +77,20 @@ export default function Page() {
     }))
   }
 
+  function applyBreak() {
+    const start = new Date(`${breakFrom}T12:00:00`)
+    const end = new Date(`${breakTo}T12:00:00`)
+    const dates: string[] = []
+    for (const cursor = new Date(start); cursor <= end; cursor.setDate(cursor.getDate() + 1)) {
+      dates.push(cursor.toISOString().slice(0, 10))
+    }
+    setConfig((prev) => ({
+      ...prev,
+      pushedDates: Array.from(new Set([...(prev.pushedDates ?? []), ...dates])),
+    }))
+    setBreakOpen(false)
+  }
+
   function resetAll() {
     setConfig(defaultConfig())
     setDone({})
@@ -106,7 +126,10 @@ export default function Page() {
         <section className="flex min-w-0 flex-1 flex-col px-4 py-5 sm:px-7 lg:px-10 lg:py-8">
           <header className="flex items-center justify-between gap-4">
             <div><div className="text-xs font-medium uppercase tracking-[0.18em] text-violet-600 dark:text-violet-300">JEE 2027 · Arjuna</div><h1 className="mt-1 text-2xl font-bold tracking-tight sm:text-3xl">Good evening, Rudraksh</h1><p className="mt-1 text-sm text-slate-500">{todayLabel} · Let&apos;s make today count.</p></div>
-            <button type="button" onClick={resetAll} className="flex items-center gap-1.5 rounded-xl border border-slate-200 bg-white px-3 py-2 text-xs font-medium text-slate-500 shadow-sm transition-colors hover:bg-slate-50 dark:border-white/10 dark:bg-white/5"><RotateCcw className="size-3.5" /> Reset</button>
+            <div className="flex items-center gap-2">
+              <button type="button" onClick={() => setBreakOpen(true)} className="flex items-center gap-1.5 rounded-xl bg-violet-600 px-3 py-2 text-xs font-semibold text-white shadow-sm shadow-violet-600/20 transition-colors hover:bg-violet-700"><CalendarDays className="size-3.5" /> Take a break</button>
+              <button type="button" onClick={resetAll} className="flex items-center gap-1.5 rounded-xl border border-slate-200 bg-white px-3 py-2 text-xs font-medium text-slate-500 shadow-sm transition-colors hover:bg-slate-50 dark:border-white/10 dark:bg-white/5"><RotateCcw className="size-3.5" /> Reset</button>
+            </div>
           </header>
           <div className="mt-7 grid gap-3 sm:grid-cols-3">
             <SummaryCard icon={<Target className="size-4" />} label="Overall progress" value={`${plan.total ? Math.round((Object.values(done).filter(Boolean).length / plan.total) * 100) : 0}%`} detail={`${Object.values(done).filter(Boolean).length} of ${plan.total} lectures`} />
@@ -117,6 +140,7 @@ export default function Page() {
 
       <div className="flex-1">
         {phase === 0 && <BacklogStep config={config} onChange={setConfig} />}
+        {phase === 0 && <ProgressSection plan={plan} done={done} />}
         {phase === 1 && <TimelineStep config={config} plan={plan} onChange={setConfig} />}
         {phase === 2 && (
           <Roadmap
@@ -131,6 +155,23 @@ export default function Page() {
           />
         )}
       </div>
+
+      {breakOpen && (
+        <BreakModal
+          from={breakFrom}
+          to={breakTo}
+          name={breakName}
+          mode={breakMode}
+          finishMode={finishMode}
+          setFrom={setBreakFrom}
+          setTo={setBreakTo}
+          setName={setBreakName}
+          setMode={setBreakMode}
+          setFinishMode={setFinishMode}
+          onClose={() => setBreakOpen(false)}
+          onApply={applyBreak}
+        />
+      )}
 
       <footer className="sticky bottom-4 z-10 flex items-center justify-between gap-3 rounded-xl border border-border bg-card/90 p-3 backdrop-blur">
         <button
@@ -172,6 +213,29 @@ export default function Page() {
     </main>
   )
 }
+
+function ProgressSection({ plan, done }: { plan: ReturnType<typeof generatePlan>; done: Record<string, boolean> }) {
+  const completed = Object.values(done).filter(Boolean).length
+  const percent = plan.total ? Math.round((completed / plan.total) * 100) : 0
+  const studiedDays = plan.days.filter((day) => day.type === "study" && day.lectures.some((lecture) => done[lecture.key])).length
+  return (
+    <section className="mt-6 rounded-2xl border border-slate-200 bg-white p-5 shadow-sm dark:border-white/10 dark:bg-[#171b2b]">
+      <div className="flex flex-wrap items-start justify-between gap-3"><div><div className="text-xs font-semibold uppercase tracking-[0.16em] text-violet-600 dark:text-violet-300">Your progress</div><h2 className="mt-1 text-xl font-bold">Keep building your streak</h2></div><div className="text-right"><div className="text-3xl font-bold text-violet-600">{percent}%</div><div className="text-xs text-slate-500">of your plan done</div></div></div>
+      <div className="mt-4 h-3 overflow-hidden rounded-full bg-slate-100 dark:bg-white/10"><div className="h-full rounded-full bg-violet-600 transition-all" style={{ width: `${percent}%` }} /></div>
+      <div className="mt-5 grid gap-3 sm:grid-cols-3"><ProgressMetric label="Lectures complete" value={`${completed}/${plan.total}`} /><ProgressMetric label="Study days" value={`${studiedDays}/${plan.studyDays}`} /><ProgressMetric label="Projected finish" value={plan.finishDate} /></div>
+    </section>
+  )
+}
+
+function ProgressMetric({ label, value }: { label: string; value: string }) { return <div className="rounded-xl bg-slate-50 p-3 dark:bg-white/5"><div className="text-lg font-bold">{value}</div><div className="mt-1 text-xs text-slate-500">{label}</div></div> }
+
+function BreakModal({ from, to, name, mode, finishMode, setFrom, setTo, setName, setMode, setFinishMode, onClose, onApply }: { from: string; to: string; name: string; mode: "break" | "own"; finishMode: "later" | "same"; setFrom: (v: string) => void; setTo: (v: string) => void; setName: (v: string) => void; setMode: (v: "break" | "own") => void; setFinishMode: (v: "later" | "same") => void; onClose: () => void; onApply: () => void }) {
+  return <div className="fixed inset-0 z-50 flex items-center justify-center bg-slate-950/35 p-4 backdrop-blur-sm" role="dialog" aria-modal="true" aria-labelledby="break-title"><div className="w-full max-w-3xl rounded-2xl border border-slate-200 bg-white p-6 shadow-2xl dark:border-white/10 dark:bg-[#171b2b]"><div className="flex items-center justify-between"><h2 id="break-title" className="text-xl font-bold">Take some days off</h2><button type="button" onClick={onClose} aria-label="Close" className="text-2xl text-slate-400 hover:text-slate-700">×</button></div><div className="mt-5 grid gap-3 md:grid-cols-2"><ChoiceCard selected={mode === "break"} onClick={() => setMode("break")} title="A break" text="Exams, travel, anything. Nothing is scheduled and nothing piles up." /><ChoiceCard selected={mode === "own"} onClick={() => setMode("own")} title="My own work" text="Questions, PYQs or revision. No lectures from the plan, and the day still counts." /></div><div className="mt-5 grid gap-4 md:grid-cols-3"><DateField label="From" value={from} onChange={setFrom} /><DateField label="To" value={to} onChange={setTo} /><label className="text-xs font-semibold uppercase tracking-wide text-slate-500">Call it<input value={name} onChange={(e) => setName(e.target.value)} className="mt-2 w-full rounded-xl border border-slate-200 px-3 py-3 text-sm outline-none focus:border-violet-500" /></label></div><div className="mt-5 grid gap-3 md:grid-cols-2"><ChoiceCard selected={finishMode === "later"} onClick={() => setFinishMode("later")} title="Move it later" text="By the break length. Your study days stay the same size." /><ChoiceCard selected={finishMode === "same"} onClick={() => setFinishMode("same")} title="Keep it" text="Finish on the same date. Remaining days get heavier." /></div><div className="mt-6 flex gap-3"><button type="button" onClick={onApply} className="rounded-xl bg-violet-600 px-5 py-3 text-sm font-semibold text-white hover:bg-violet-700">Take the break</button><button type="button" onClick={onClose} className="px-4 py-3 text-sm font-semibold text-slate-500">Cancel</button></div></div></div>
+}
+
+function ChoiceCard({ selected, onClick, title, text }: { selected: boolean; onClick: () => void; title: string; text: string }) { return <button type="button" onClick={onClick} className={cn("rounded-xl border p-4 text-left transition-colors", selected ? "border-violet-500 bg-violet-50 ring-1 ring-violet-500 dark:bg-violet-500/10" : "border-slate-200 hover:border-violet-300 dark:border-white/10")}><div className="flex items-center gap-3"><span className={cn("size-4 rounded-full border-2", selected ? "border-violet-600 bg-violet-600 shadow-[inset_0_0_0_3px_white]" : "border-slate-400")} /><span className="font-semibold">{title}</span></div><div className="mt-1 pl-7 text-sm text-slate-500">{text}</div></button> }
+
+function DateField({ label, value, onChange }: { label: string; value: string; onChange: (v: string) => void }) { return <label className="text-xs font-semibold uppercase tracking-wide text-slate-500">{label}<input type="date" value={value} onChange={(e) => onChange(e.target.value)} className="mt-2 w-full rounded-xl border border-slate-200 px-3 py-3 text-sm outline-none focus:border-violet-500" /></label> }
 
 function SidebarItem({ icon, label, active = false }: { icon: React.ReactNode; label: string; active?: boolean }) {
   return (
