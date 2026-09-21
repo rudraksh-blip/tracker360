@@ -46,15 +46,12 @@ export default function Page() {
   }
 
   function toggleLecturePush(key: string, date: string) {
-    setConfig((prev) => {
-      const pushedLectures = { ...(prev.pushedLectures ?? {}) }
-      if (pushedLectures[key]) {
-        delete pushedLectures[key]
-      } else {
-        pushedLectures[key] = date
-      }
-      return { ...prev, pushedLectures }
-    })
+    setConfig((prev) => ({
+      ...prev,
+      // Always use the lecture's current day as the new source date. This
+      // allows the same lecture to be pushed repeatedly across multiple days.
+      pushedLectures: { ...(prev.pushedLectures ?? {}), [key]: date },
+    }))
   }
 
   function resetAll() {

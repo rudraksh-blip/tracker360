@@ -277,15 +277,15 @@ function LectureRow({ lec, done, pushed, onToggle, onPush }: { lec: LectureItem;
       <button
         type="button"
         onClick={onPush}
-        title={pushed ? "Move this lecture back" : "Move this lecture to tomorrow"}
-        aria-label={pushed ? `Undo moving ${lec.chapterName} lecture ${lec.lectureNo}` : `Move ${lec.chapterName} lecture ${lec.lectureNo} to tomorrow`}
+        title="Move this lecture to tomorrow"
+        aria-label={`Move ${lec.chapterName} lecture ${lec.lectureNo} to tomorrow`}
         className={cn(
           "flex shrink-0 items-center gap-1 rounded-md border px-2 py-1 text-[11px] font-medium transition-colors",
           pushed ? "border-primary/50 bg-primary/15 text-primary" : "border-border text-muted-foreground hover:bg-accent/40 hover:text-foreground",
         )}
       >
-        {pushed ? <Undo2 className="size-3.5" /> : <CornerDownRight className="size-3.5" />}
-        <span className="hidden md:inline">{pushed ? "Undo" : "Tomorrow"}</span>
+        <CornerDownRight className="size-3.5" />
+        <span className="hidden md:inline">Tomorrow</span>
       </button>
     </div>
   )
