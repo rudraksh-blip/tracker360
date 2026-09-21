@@ -1,6 +1,6 @@
 "use client"
 
-import { CalendarClock, Check, CornerDownRight, FlaskConical, ListChecks, Undo2 } from "lucide-react"
+import { CalendarClock, Check, CornerDownRight, FlaskConical, ListChecks, Sparkles, Undo2 } from "lucide-react"
 import { useMemo } from "react"
 import { formatDate, formatShort, todayISO } from "@/lib/scheduler"
 import { STREAM_STYLE } from "@/lib/streams"
@@ -14,10 +14,11 @@ type Props = {
   onToggle: (key: string) => void
   onToggleMany: (keys: string[], value: boolean) => void
   onPush: (date: string) => void
+  onPushAgain: (date: string) => void
   onPushLecture: (key: string, date: string) => void
 }
 
-export function Roadmap({ plan, config, done, onToggle, onToggleMany, onPush, onPushLecture }: Props) {
+export function Roadmap({ plan, config, done, onToggle, onToggleMany, onPush, onPushAgain, onPushLecture }: Props) {
   const today = todayISO()
 
   const doneCount = useMemo(() => {
@@ -30,6 +31,8 @@ export function Roadmap({ plan, config, done, onToggle, onToggleMany, onPush, on
   }, [plan, done])
 
   const pct = plan.total ? Math.round((doneCount / plan.total) * 100) : 0
+  const pushedDayCount = config.pushedDates?.length ?? 0
+  const pushedLectureCount = Object.keys(config.pushedLectures ?? {}).length
 
   const todayIndex = useMemo(
     () => plan.days.findIndex((d) => d.date >= today),
@@ -75,8 +78,14 @@ export function Roadmap({ plan, config, done, onToggle, onToggleMany, onPush, on
             style={{ width: `${pct}%` }}
           />
         </div>
-        <div className="mt-2 text-xs text-muted-foreground">
-          Finishes on {formatDate(plan.finishDate)}
+        <div className="mt-3 flex flex-wrap items-center gap-2 text-xs">
+          <span className="text-muted-foreground">Projected finish: <strong className="font-semibold text-foreground">{formatDate(plan.finishDate)}</strong></span>
+          {(pushedDayCount > 0 || pushedLectureCount > 0) && (
+            <span className="inline-flex items-center gap-1 rounded-full bg-primary/10 px-2 py-1 font-medium text-primary">
+              <Sparkles className="size-3" />
+              Schedule adapted · {pushedDayCount + pushedLectureCount} moved
+            </span>
+          )}
         </div>
       </div>
 
@@ -92,6 +101,7 @@ export function Roadmap({ plan, config, done, onToggle, onToggleMany, onPush, on
             onToggle={onToggle}
             onToggleMany={onToggleMany}
             onPush={onPush}
+            onPushAgain={onPushAgain}
             onPushLecture={onPushLecture}
           />
         ))}
@@ -120,6 +130,7 @@ function DayCard({
   onToggle,
   onToggleMany,
   onPush,
+  onPushAgain,
   onPushLecture,
 }: {
   day: PlanDay
@@ -129,6 +140,7 @@ function DayCard({
   onToggle: (key: string) => void
   onToggleMany: (keys: string[], value: boolean) => void
   onPush: (date: string) => void
+  onPushAgain: (date: string) => void
   onPushLecture: (key: string, date: string) => void
 }) {
   if (day.type === "carry") {
@@ -144,18 +156,18 @@ function DayCard({
           <CornerDownRight className="size-5" />
         </div>
         <div className="flex-1">
-          <div className="text-sm font-semibold">Pushed to next day</div>
+          <div className="text-sm font-semibold">No study logged</div>
           <div className="text-xs text-muted-foreground">
-            Day {day.dayNumber} · {formatDate(day.date)} · work shifted forward
+            Day {day.dayNumber} · {formatDate(day.date)} · unfinished work moved forward
           </div>
         </div>
         <button
           type="button"
-          onClick={() => onPush(day.date)}
-          className="flex items-center gap-1.5 rounded-md border border-border px-2.5 py-1 text-xs font-medium text-muted-foreground transition-colors hover:bg-accent/40"
+          onClick={() => onPushAgain(day.date)}
+          className="flex items-center gap-1.5 rounded-md border border-primary/30 bg-primary/10 px-2.5 py-1 text-xs font-medium text-primary transition-colors hover:bg-primary/20"
         >
-          <Undo2 className="size-3.5" />
-          Undo
+          <CornerDownRight className="size-3.5" />
+          Push again
         </button>
       </section>
     )

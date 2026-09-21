@@ -45,6 +45,16 @@ export default function Page() {
     })
   }
 
+  function pushAgain(date: string) {
+    const current = new Date(`${date}T12:00:00`)
+    current.setDate(current.getDate() + 1)
+    const nextDate = current.toISOString().slice(0, 10)
+    setConfig((prev) => ({
+      ...prev,
+      pushedDates: Array.from(new Set([...(prev.pushedDates ?? []), nextDate])),
+    }))
+  }
+
   function toggleLecturePush(key: string, date: string) {
     setConfig((prev) => ({
       ...prev,
@@ -103,6 +113,7 @@ export default function Page() {
             onToggle={toggle}
             onToggleMany={toggleMany}
             onPush={togglePush}
+            onPushAgain={pushAgain}
             onPushLecture={toggleLecturePush}
           />
         )}
