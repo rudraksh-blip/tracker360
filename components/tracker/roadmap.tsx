@@ -13,7 +13,7 @@ type Props = {
   done: Record<string, boolean>
   onToggle: (key: string) => void
   onToggleMany: (keys: string[], value: boolean) => void
-  onPush: (date: string) => void
+  onPush: (date: string, keys: string[]) => void
   onPushAgain: (date: string) => void
   onPushLecture: (key: string, date: string) => void
 }
@@ -139,7 +139,7 @@ function DayCard({
   done: Record<string, boolean>
   onToggle: (key: string) => void
   onToggleMany: (keys: string[], value: boolean) => void
-  onPush: (date: string) => void
+  onPush: (date: string, keys: string[]) => void
   onPushAgain: (date: string) => void
   onPushLecture: (key: string, date: string) => void
 }) {
@@ -227,7 +227,7 @@ function DayCard({
         </div>
         <button
           type="button"
-          onClick={() => onPush(day.date)}
+          onClick={() => onPush(day.date, keys)}
           title="Move this day's lectures to the next day"
           className="flex items-center gap-1.5 rounded-md border border-border px-2.5 py-1 text-xs font-medium text-muted-foreground transition-colors hover:bg-accent/40"
         >

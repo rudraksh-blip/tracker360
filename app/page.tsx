@@ -34,13 +34,20 @@ export default function Page() {
     })
   }
 
-  function togglePush(date: string) {
+  function togglePush(date: string, keys: string[]) {
     setConfig((prev) => {
       const pushed = prev.pushedDates ?? []
       const has = pushed.includes(date)
+      const pushedLectures = { ...(prev.pushedLectures ?? {}) }
+      if (has) {
+        for (const key of keys) delete pushedLectures[key]
+      } else {
+        for (const key of keys) pushedLectures[key] = date
+      }
       return {
         ...prev,
         pushedDates: has ? pushed.filter((d) => d !== date) : [...pushed, date],
+        pushedLectures,
       }
     })
   }
