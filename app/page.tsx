@@ -68,6 +68,15 @@ export default function Page() {
     }))
   }
 
+  function setDailyLimit(date: string, value: number | null) {
+    setConfig((prev) => {
+      const dailyLimits = { ...(prev.dailyLimits ?? {}) }
+      if (value === null) delete dailyLimits[date]
+      else dailyLimits[date] = Math.max(0, Math.floor(value))
+      return { ...prev, dailyLimits }
+    })
+  }
+
   function toggleLecturePush(key: string, date: string) {
     setConfig((prev) => ({
       ...prev,
@@ -152,6 +161,7 @@ export default function Page() {
             onPush={togglePush}
             onPushAgain={pushAgain}
             onPushLecture={toggleLecturePush}
+            onSetDailyLimit={setDailyLimit}
           />
         )}
       </div>

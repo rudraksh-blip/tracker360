@@ -113,7 +113,8 @@ export function generatePlan(config: PlanConfig): Plan {
       })
       const dueKeys = new Set(due.map((lecture) => lecture.key))
       const normal = pending.filter((lecture) => !dueKeys.has(lecture.key) && !pushedLectures[lecture.key])
-      const lectures = [...due, ...normal].slice(0, effectiveDaily)
+      const dailyLimit = config.dailyLimits?.[date] ?? effectiveDaily
+      const lectures = dailyLimit > 0 ? [...due, ...normal].slice(0, dailyLimit) : []
       const lectureKeys = new Set(lectures.map((lecture) => lecture.key))
       pending = pending.filter((lecture) => !lectureKeys.has(lecture.key))
       days.push({ type: "study", dayNumber: dayCounter, date, lectures })

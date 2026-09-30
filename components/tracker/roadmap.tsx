@@ -16,9 +16,10 @@ type Props = {
   onPush: (date: string, keys: string[]) => void
   onPushAgain: (date: string) => void
   onPushLecture: (key: string, date: string) => void
+  onSetDailyLimit: (date: string, value: number | null) => void
 }
 
-export function Roadmap({ plan, config, done, onToggle, onToggleMany, onPush, onPushAgain, onPushLecture }: Props) {
+export function Roadmap({ plan, config, done, onToggle, onToggleMany, onPush, onPushAgain, onPushLecture, onSetDailyLimit }: Props) {
   const today = todayISO()
 
   const doneCount = useMemo(() => {
@@ -96,6 +97,7 @@ export function Roadmap({ plan, config, done, onToggle, onToggleMany, onPush, on
             key={day.dayNumber}
             day={day}
             config={config}
+            defaultDaily={plan.effectiveDaily}
             isToday={day.date === today || (todayIndex >= 0 && plan.days[todayIndex].dayNumber === day.dayNumber)}
             done={done}
             onToggle={onToggle}
@@ -103,6 +105,7 @@ export function Roadmap({ plan, config, done, onToggle, onToggleMany, onPush, on
             onPush={onPush}
             onPushAgain={onPushAgain}
             onPushLecture={onPushLecture}
+            onSetDailyLimit={onSetDailyLimit}
           />
         ))}
       </div>
@@ -125,6 +128,7 @@ function HeaderStat({ icon, value, label }: { icon: React.ReactNode; value: stri
 function DayCard({
   day,
   config,
+  defaultDaily,
   isToday,
   done,
   onToggle,
@@ -132,9 +136,11 @@ function DayCard({
   onPush,
   onPushAgain,
   onPushLecture,
+  onSetDailyLimit,
 }: {
   day: PlanDay
   config: PlanConfig
+  defaultDaily: number
   isToday: boolean
   done: Record<string, boolean>
   onToggle: (key: string) => void
@@ -142,6 +148,7 @@ function DayCard({
   onPush: (date: string, keys: string[]) => void
   onPushAgain: (date: string) => void
   onPushLecture: (key: string, date: string) => void
+  onSetDailyLimit: (date: string, value: number | null) => void
 }) {
   if (day.type === "carry") {
     return (
@@ -225,6 +232,21 @@ function DayCard({
             {day.lectures.length} lectures · {doneInDay} done
           </div>
         </div>
+        <label className="hidden items-center gap-1.5 rounded-lg border border-border bg-background/60 px-2 py-1.5 text-xs text-muted-foreground sm:flex">
+          <span className="whitespace-nowrap">Lectures</span>
+          <input
+            type="number"
+            min={0}
+            max={50}
+            value={config.dailyLimits?.[day.date] ?? defaultDaily}
+            onChange={(event) => {
+              const value = event.target.value
+              onSetDailyLimit(day.date, value === "" ? null : Number(value))
+            }}
+            aria-label={`Lectures planned for ${formatShort(day.date)}`}
+            className="w-12 bg-transparent text-center font-semibold tabular-nums text-foreground outline-none"
+          />
+        </label>
         <button
           type="button"
           onClick={() => onPush(day.date, keys)}

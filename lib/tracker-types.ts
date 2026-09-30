@@ -23,7 +23,9 @@ export type PlanConfig = {
   /** ISO dates the user pushed — that day rests and its work shifts forward */
   pushedDates: string[]
   /** lecture key -> source ISO date; moved lectures appear on the next active day */
-  pushedLectures: Record<string, string> 
+  pushedLectures: Record<string, string>
+  /** ISO date -> custom lecture count for that day; overrides the default pace */
+  dailyLimits: Record<string, number>
 }
 
 export type LectureItem = {

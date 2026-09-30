@@ -26,6 +26,7 @@ export function defaultConfig(): PlanConfig {
     order: {},
     pushedDates: [],
     pushedLectures: {},
+    dailyLimits: {},
   }
 }
 
